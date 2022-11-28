@@ -1,4 +1,35 @@
 # CMECS Vocabulary Maintenence
+## Description
+The Coastal and Marine Ecological Classification Standard (CMECS) is a catalog of terms and definitions used to describe and classify marine ecological data using a simple, standard format and common terminology. CMECS allows users to organize and interpret marine observational data using a collection of settings (aquatic and biogeographic) and components (biotic, water column, substrate, and geoform) in a semi-hierarchical framework.
+
+This repo contains RDF/OWL of the original CMECS vocabulary published by the US Federal Geographic Data Committe (CMECS 2012), and each subsequent version. 
+
+More information about CMECS vocabulary maintenence, including governance documents can be found at https://www.ncei.noaa.gov/products/coastal-marine-ecological-classification-standard.
+CMECS technical guidance and examples of how to apply the standard can be found at https://iocm.noaa.gov/standards/cmecs-home.html. 
+## Usage
+## Support
+For questions about this repo please contact kate.rose@noaa.gov.
+For questions about using CMECS and other resources, contact ocm.cmecs-ig@noaa.gov 
+
+## Future Updates
+CMECS follows a Dynamic Standard Process described at https://www.ncei.noaa.gov/products/coastal-marine-ecological-classification-standard under the **Vocabulary Maintenence** section, along with instructions for proposing revisions to CMECS and a form for submitting proposals. 
+
+## Contributing
+State if you are open to contributions and what your requirements are for accepting them.
+
+For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+
+You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+
+## Authors and acknowledgment
+Show your appreciation to those who have contributed to the project.
+
+## License
+For open source projects, say how it is licensed.
+
+## Project status
+If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
 
 ## Getting started
 
@@ -42,36 +73,4 @@ Use the built-in continuous integration in GitLab.
 
 ***
 
-## Name
-Choose a self-explaining name for your project.
 
-## Description
-The Coastal and Marine Ecological Classification Standard (CMECS) is a catalog of terms and definitions used to describe and classify marine ecological data using a simple, standard format and common terminology. CMECS allows users to organize and interpret marine observational data using a collection of settings (aquatic and biogeographic) and components (biotic, water column, substrate, and geoform) in a semi-hierarchical framework.
-
-This repo contains RDF/OWL of the original CMECS vocabulary published by the US Federal Geographic Data Committe (CMECS 2012), and each subsequent version. 
-
-More information about CMECS vocabulary maintenence, including governance documents can be found at https://www.ncei.noaa.gov/products/coastal-marine-ecological-classification-standard.
-CMECS technical guidance and examples of how to apply the standard can be found at https://iocm.noaa.gov/standards/cmecs-home.html. 
-## Usage
-## Support
-For questions about this repo please contact kate.rose@noaa.gov.
-For questions about using CMECS and other resources, contact ocm.cmecs-ig@noaa.gov 
-
-## Future Updates
-CMECS follows a Dynamic Standard Process described at https://www.ncei.noaa.gov/products/coastal-marine-ecological-classification-standard under the **Vocabulary Maintenence** section, along with instructions for proposing revisions to CMECS and a form for submitting proposals. 
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
-
-## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
