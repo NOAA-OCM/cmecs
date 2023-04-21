@@ -1,5 +1,5 @@
 # CMECS Maintenence
-This is the official repository for managing changes to the Coastal and Marine Ecological Classification Standard (CMECS) and for accessing versioned releases.
+This is the official repository for accessing versioned releases of the Coastal and Marine Ecological Classification Standard (CMECS).
 
 ## Description
 The Coastal and Marine Ecological Classification Standard (CMECS, FGDC-STD-018-2012) is a set of defined terms ("units") used to describe and classify marine ecological data which was developed as a US national scheme for classifying and integrating observational data collected in coastal, marine, and lacustrine environments. CMECS was published by the U.S. Federal Geographic Data Committee (FGDC) in 2012. The CMECS framework arranges its units hierarchically or semi-heirarchically within domain-specific modules: the Biotic, Geoform, Substrate, and Water Column Components; and Aquatic and Biogeographic Settings. This framework emulates the spatial nesting concepts used in GIS software so that the CMECS units can be used to categorize and map observational data to model ecosystems.
