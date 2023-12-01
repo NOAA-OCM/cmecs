@@ -1,3 +1,3 @@
-These files contain the revised CMECS Substrate Component units and framework. These changes have been approved by the CMECS Implementation Group \(see the FINAL EDITED IG Memo- Cover for Interim Materials.docx for more details bout the process.\)
+These files contain the revised CMECS Substrate Component units and framework. These changes have been approved by the CMECS Implementation Group \(see the IG Memo- Cover for Interim Materials.docx for more details bout the process.\)
 
 These changes will be incorporated into the master CMECS Catalog file and released as a new sub-version. A work group report describing the process and reasoning for he changes will also be published. 
