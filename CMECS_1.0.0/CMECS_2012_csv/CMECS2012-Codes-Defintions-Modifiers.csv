@@ -26,13 +26,13 @@ ICOS02,,,Megafauna,"Benthic invertebrate communities that are dominated by organ
 ICOS03,,,Large Macrofauna,Benthic invertebrate communities that are dominated by organisms with a body width (smallest dimension) of > 2 millimeters to 1 centimeter; living organisms larger than this size range are rare in these infaunal or epifaunal associations.
 ICOS04,,,Small Macrofauna,Benthic invertebrate communities that are dominated by organisms with a body width (smallest dimension) of > 0.5 to 2 millimeters; living organisms larger than this size range are rare in these infaunal or epifaunal associations.
 ICOS05,,,Meiofauna,"Benthic invertebrate communities that are dominated by organisms with a body width (smallest dimension) of 0.5 mm or less, that would typically pass through an 0.5 mm sieve but be retained on an 0.25 mm sieve. Living organisms larger than this size range are rare in the infaunal or epifaunal association; the modifier may be applied to any classification unit within Faunal Bed."
-PP01,,Phytoplankton Productivity,Oligotrophic,< 5 µg/L chlorophyll a
-PP02,,,Mesotrophic,5 to < 50 µg/L chlorophyll a
-PP03,,,Eutrophic,≥ 50 µg/L chlorophyll a
+PP01,,Phytoplankton Productivity,Oligotrophic,< 5 �g/L chlorophyll a
+PP02,,,Mesotrophic,5 to < 50 �g/L chlorophyll a
+PP03,,,Eutrophic,? 50 �g/L chlorophyll a
 MP01,,Macrovegetation Productivity,Oligotrophic,< 50 mg dry wt/m2 biomass
 MP02,,,Mesotrophic,"50 to < 1,000 mg dry wt/m2 biomass"
-MP03,,,Eutrophic,"≥ 1,000 mg dry wt/m2 biomass"
-TP01,Temporal ,Temporal Persistence,Stochastic,no further defenitions
+MP03,,,Eutrophic,"? 1,000 mg dry wt/m2 biomass"
+TP01,Temporal ,Temporal Persistence,Stochastic,
 TP02,,,Hours,
 TP03,,,Days,
 TP04,,,Weeks,
@@ -53,7 +53,7 @@ EI02,,,Low Energy,Area typically experiences very weak currents (0-1 knots).
 EI03,,,Moderate Energy,Area regularly experiences moderate tidal currents (> 1-3 knots).
 EI04,,,High Energy,Area regularly experiences strong currents (> 3 knots).
 ET01,,Energy Type,Current,Coherent directional motion of the water.
-ET02,,,Internal Wave,Vertical and transverse oscillating water motion—below the surface—due to seismic energy or a pressure differential.
+ET02,,,Internal Wave,Vertical and transverse oscillating water motion- below the surface- due to seismic energy or a pressure differential.
 ET03,,,Surface Wave,Vertical and transverse oscillating surface water motion due to wind or seismic energy.
 ET04,,,Tide,"Periodic, horizontally oscillating water motion."
 ET05,,,Wind,Coherent directional motion of the atmosphere.
@@ -64,12 +64,12 @@ SR01,,Seafloor Rugosity,Very Low,1.0 to < 1.25
 SR02,,,Low,1.25 to < 1.50
 SR03,,,Moderate,1.50 to < 1.75
 SR04,,,High ,1.75 to < 2.00
-SR05,,,Very High,≥ 2.00
+SR05,,,Very High,? 2.00
 S01,,Slope,Flat,0 to < 5 degrees
 S02,,,Sloping,5 to < 30 degrees
 S03,,,Steeply Sloping,30 to < 60 degrees
 S04,,,Vertical,60 to < 90 degrees
-S05,,,Overhang,≥ 90 degrees
+S05,,,Overhang,? 90 degrees
 SD01,,Substrate Descriptor,Carbonate,"Geologic Origin particles or substrates composed mainly of carbonate minerals, e.g., limestone, dolostone."
 SD02,,,Compacted,"Unconsolidated sediments with very little water content and a hard, packed form that resists penetration and resuspension. This is one of several terms that are used in CMECS to describe the fluid consistency of substrates."
 SD03,,,Floc,"A layer of very fine particles suspended in the water column just above firmer sediment. This is often most apparent with visual or imaging techniques, and may appear as a turbid or cloudy layer above a more defined sediment surface. This is one of several terms that are used in CMECS to describe the fluid consistency of substrates."
@@ -98,20 +98,20 @@ TR02,,,Microtidal,0.1 to < 0.3 meter
 TR03,,,Minimally Tidal,0.3 to < 1 meter
 TR04,,,Moderately Tidal,1 to < 4 meters
 TR05,,,Macrotidal,4 to < 8 meters
-TR06,,,Megatidal,≥ 8 meters
+TR06,,,Megatidal,? 8 meters
 WR01,,Wave Regime (Amplitude),Quiescient,< 0.1 meter
 WR02,,,Very Low Wave Energy,0.1 to < 0.25 meter
 WR03,,,Low Wave Energy,0.25 to < 1.0 meter
 WR04,,,Moderate Wave Energy,1.0 to < 2.0 meters
 WR05,,,Moderately High Wave Energy,2.0 to < 4.0 meters
 WR06,,,High Wave Energy,4.0 to < 8.0 meters
-WR07,,,Very High Wave Energy,≥ 8.0 meters
+WR07,,,Very High Wave Energy,? 8.0 meters
 OR001,Physicochemical,Oxygen Regime,Anoxic,0 to < 0.1 mg/L
 OR002,,,Severely Hypoxic,0.1 to < 2 mg/L
 OR003,,,Hypoxic,2 to < 4 mg/L
 OR004,,,Oxic,4 to < 8 mg/L
 OR005,,,Highly Oxic,8 to < 12 mg/L
-OR006,,,Very Oxic,≥ 12 mg/L
+OR006,,,Very Oxic,? 12 mg/L
 PQ01,,Photic Quality,Aphotic,"Region of the water column where no ambient light penetrates, no photosynthesis occurs, and animals cannot make use of visual cues based on even reduced levels of ambient light. In oceans, this zone typically lies below 500-1,000 meters of depth. In turbid estuaries, this zone may be very shallow."
 PQ02,,,Dysphotic,"Region of the water column, below the compensation depth, that receives less than 2% of the surface light; plants and algae cannot achieve positive photosynthetic production in this region, but some ambient light does penetrate such that animals can make use of visual cues based on reduced levels of ambient light."
 PQ03,,,Photic ,Region of the water column where ambient light is > 2% of surface light and phototrophic organisms can photosynthesize.
@@ -127,21 +127,21 @@ SR02,,,Mesohaline,5 to < 18
 SR03,,,Lower Polyhaline,18 to < 25
 SR04,,,Upper Polyhaline,25 to < 30
 SR05,,,Euhaline,30 to < 40
-SR06,,,Hyperhaline,≥ 40
-T01,,Temperature Range,Frozen/Superchilled,≤ 0 °C
-T02,,,Very Cold,0 to < 5 °C (liquid)
-T03,,,Cold,5 to < 10 °C
-T04,,,Cool,10 to < 15 °C
-T05,,,Moderate,15 to < 20 °C
-T06,,,Warm,20 to < 25 °C
-T07,,,Very Warm,25 to < 30 °C
-T08,,,Hot,30 to < 35 °C
-T09,,,Very Hot,≥ 35 °C
+SR06,,,Hyperhaline,? 40
+T01,,Temperature Range,Frozen/Superchilled,? 0 �C
+T02,,,Very Cold,0 to < 5 �C (liquid)
+T03,,,Cold,5 to < 10 �C
+T04,,,Cool,10 to < 15 �C
+T05,,,Moderate,15 to < 20 �C
+T06,,,Warm,20 to < 25 �C
+T07,,,Very Warm,25 to < 30 �C
+T08,,,Hot,30 to < 35 �C
+T09,,,Very Hot,? 35 �C
 TC01,,Turbidity,Extremely Turbid,< 1 m Secchi depth
 TC02,,,Highly Turbid,1 to < 2 m Secchi depth
 TC03,,,Moderately Turbid,2 to < 5 m Secchi depth
 TC04,,,Clear,5 to < 20 m Secchi depth
-TC05,,,Extremely Clear,≥ 20 m Secchi depth
+TC05,,,Extremely Clear,? 20 m Secchi depth
 TT01,,Turbidity Type,Carbonate Particulates,"Attenuation produced by suspended precipitated CaCO3 in the water column, generally creating an opaque ""milky"" appearance."
 TT02,,,Chlorophyll,"Attenuation produced by chlorophyll a, b, c, or d as constituents of live phytoplankton in the water column."
 TT03,,,Colloidal Precipitates,Dispersed particulates that precipitate out of the water to form aggregations such as marine snow.
@@ -150,14 +150,14 @@ TT05,,,Detritus,Attenuation due to larger particles of organic detritus in suspe
 TT06,,,Dissolved Color,Substances dissolved in water that have color.
 TT07,,,Mixed,Attenuation due to a variety of the above sources and substances.
 TP01,,Turbidity Provenance,Allochthonous,Originating outside of the system and transported into the system.
-TP02,,,Autochthonous,"Generated <i>in situ</i> by biogenic processes (e.g., phytoplankton bloom)."
+TP02,,,Autochthonous,"Generated in situ by biogenic processes (e.g., phytoplankton bloom)."
 TP03,,,Marine Origin,"Materials, water, or energy originating in the ocean."
 TP04,,,Precipitated,Solutes such as calcium carbonate that precipitate out of solution.
 TP05,,,Resuspended,"Deposited materials mixed into the water column by currents (e.g., bottom sediments)."
 TP06,,,Terrigenous Origin,"Materials, water, or energy in a water body resulting from land drainage or wind deposits."
-WCS01,,Water Column Stability Regime,Partially Stratified,< 0.125 δ sigma-t and variable
-WCS02,,,Stratified,≥ 0.125 δ sigma-t
-WCS03,,,Well-Mixed,< 0.125 δ sigma-t and homogeneous
+WCS01,,Water Column Stability Regime,Partially Stratified,< 0.125 ? sigma-t and variable
+WCS02,,,Stratified,? 0.125 ? sigma-t
+WCS03,,,Well-Mixed,< 0.125 ? sigma-t and homogeneous
 BDZ01,Spatial,Benthic Depth Zone,Littoral,Intertidal
 BDZ02,,,Shallow Infralittoral,0 to < 5 meters
 BDZ03,,,Deep Infralittoral,5 to < 30 meters
@@ -165,33 +165,33 @@ BDZ04,,,Circalittoral,30 to < 200 meters
 BDZ05,,,Mesobenthic,"200 to < 1,000 meters"
 BDZ06,,,Bathylbenthic,"1,000 to < 4,000 meters"
 BDZ07,,,Abyssalbenthic,"4,000 to < 6,000 meters"
-BDZ08,,,Hadalbenthic,"≥ 6,000 meters"
+BDZ08,,,Hadalbenthic,"? 6,000 meters"
 CoE,,Co-occurring Elements,Descriptive,
 CRZ01,,Coral Reef Zone,Back Reef,Area between the seaward edge of a lagoon floor and the landward edge of a reef crest. This zone is present only when a reef crest exists.
 CRZ02,,,Bank/Shelf,"Deeper water area (usually > 30 meters) extending offshore from the seaward edge of the fore reef (or shoreline) to the beginning of the bank/shelf escarpment where the insular shelf drops off into deep, oceanic water."
 CRZ03,,,Bank/Shelf Escarpment,"The edge of the bank/shelf where depth increases rapidly into deep oceanic water. This zone begins at approximately 20-30 meters depth, near the depth limit of features visible in aerial images. This zone extends well into depths exceeding those that can be seen on aerial photos, and this zone is intended to capture the transition from the bank/shelf to deep waters of the open ocean."
-CRZ04,,,Fore Reef,Area from the seaward edge of the reef crests (which slopes into deeper water) to the landward edge of the bank/shelf platform. Features not forming an emergent reef crest—but still having a seaward-facing slope that is significantly greater than the slope of the bank/shelf—are also designated as forereef.
+CRZ04,,,Fore Reef,Area from the seaward edge of the reef crests (which slopes into deeper water) to the landward edge of the bank/shelf platform. Features not forming an emergent reef crest- but still having a seaward-facing slope that is significantly greater than the slope of the bank/shelf- are also designated as forereef.
 CRZ05,,,Lagoon,"Shallow area (relative to the deeper water of the bank/shelf) between the shoreline intertidal zone and a back reef or barrier island. This zone is protected from the high-energy waves commonly experienced on the bank/shelf and reef crest. If no reef crest is present, there is no lagoon zone."
 CRZ06,,,Reef Crest,"The flattened, emergent (especially during low tides) or nearly emergent segment of a reef. This zone lies between the back reef and fore reef zones. In aerial images, breaking waves will often be visible at the seaward edge of this zone."
 CRZ07,,,Reef Flat,Shallow (semi-exposed) area between the shoreline intertidal zone and the reef crest of a fringing reef. This zone is protected from the high-energy waves commonly experienced on the shelf and reef crest. Reef flat is typically not present if there is a lagoon zone.
-CRZ08,,,Ridges and Swales,"An area of numerous thin, narrow, discontinuous bands of coral ridges and leeward sand- and sediment-filled swales. Debris and reef-rubble fields behind many of the reefs may obscure these margin-parallel seabed features. In Florida, for example, this zone extends for an es¬timated 200 kilometers along the Florida shelf (from Key Largo to Halfmoon Shoal), and it is discontinuous due to (a) topography, (b) inconsistent responses of coral reefs to changing sea levels, and (c) varying effects of the physical environment on reefs and sediments."
-CRZ09,,,Shoreline/Intertidal,Area between the mean high water line (or the landward edge of emergent vegetation—such as Red Mangrove—when present) and the lowest spring tide level (excluding emergent segments of barrier reefs).
+CRZ08,,,Ridges and Swales,"An area of numerous thin, narrow, discontinuous bands of coral ridges and leeward sand- and sediment-filled swales. Debris and reef-rubble fields behind many of the reefs may obscure these margin-parallel seabed features. In Florida, for example, this zone extends for an estimated 200 kilometers along the Florida shelf (from Key Largo to Halfmoon Shoal), and it is discontinuous due to (a) topography, (b) inconsistent responses of coral reefs to changing sea levels, and (c) varying effects of the physical environment on reefs and sediments."
+CRZ09,,,Shoreline/Intertidal,Area between the mean high water line (or the landward edge of emergent vegetation- such as Red Mangrove- when present) and the lowest spring tide level (excluding emergent segments of barrier reefs).
 CRZ10,,,Vertical Wall,"Area with near-vertical slope from the shore to the shelf (or shelf escarpment). This zone is typically narrow and may not be distinguishable in remotely gathered imagery; however, it is included because it is recognized as a biologically important feature."
-E01,,Enclosure,Unenclosed,"≥ 150-degree angular gap from landward end of water body to seaward opening; no confining land masses (e.g., islands) within or just outside water body."
+E01,,Enclosure,Unenclosed,"? 150-degree angular gap from landward end of water body to seaward opening; no confining land masses (e.g., islands) within or just outside water body."
 E02,,,Partially enclosed,90- to < 150-degree angular gap from landward end of water body to seaward opening.
 E03,,,Significantly enclosed,45- to < 90-degree angular gap from landward end of water body to seaward opening.
 E04,,,Very enclosed,10- to < 45-degree angular gap from landward end of water body to seaward opening.
 E05,,,Enclosed,Essentially separated from the ocean; waters are completely surrounded by land or with a narrow channel connection to the sea. This category includes perched estuaries and lagoonal estuaries.
 E06,,,Intermittent,"Class of water bodies that regularly close due to low flow, opening seasonally during high flow. Also called ICOLL (Intermittently Closed and Open Lake or Lagoon)."
-PC01,,Fine Percent Cover ,<1%,no further defenitions
-PC02,,,1 to <10%,
-PC03,,,10 to <20%,
-PC04,,,20 to <30%,
-PC05,,,30 to <40%,
-PC06,,,40 to <50%,
-PC07,,,50 to <60%,
-PC08,,,60 to <70%,
-PC09,,,70 to <80%,
+PC01,,Fine Percent Cover ,< 1%,
+PC02,,,1 to < 10%,
+PC03,,,10 to < 20%,
+PC04,,,20 to < 30%,
+PC05,,,30 to < 40%,
+PC06,,,40 to < 50%,
+PC07,,,50 to < 60%,
+PC08,,,60 to < 70%,
+PC09,,,70 to < 80%,
 PC10,,,80 to < 90%,
 PC11,,,90 to 100%,
 ,,Coarse Percent Cover,Trace,< 1%
@@ -202,5 +202,5 @@ PC11,,,90 to 100%,
 P01,,Elevation Profile,None,0 meters
 P02,,,Low,0.1 to < 2 meters
 P03,,,Medium,2 to < 5 meters
-P04,,,High,≥ 5 meters
+P04,,,High,? 5 meters
 SL,,Substrate Layering,Descriptive,
