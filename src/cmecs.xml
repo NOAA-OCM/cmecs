@@ -19,7 +19,7 @@
         <dc:title>Coastal and Marine Ecological Classification Standard</dc:title>
         <dcterms:license>Software code created by U.S. Government employees is not subject to copyright in the United States (17 U.S.C. §105). The United States/Department of Commerce reserve all rights to seek and obtain copyright protection in countries other than the United States for Software authored in its entirety by the Department of Commerce. To this end, the Department of Commerce hereby grants to Recipient a royalty-free, nonexclusive license to use, copy, and create derivative works of the Software outside of the United States.</dcterms:license>
         <dcterms:license rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://creativecommons.org/publicdomain/zero/1.0/</dcterms:license>
-        <owl:versionInfo>1.0.0</owl:versionInfo>
+        <owl:versionInfo>1.1.0</owl:versionInfo>
         <skos:altLabel>CMECS</skos:altLabel>
         <foaf:homepage>https://iocm.noaa.gov/standards/cmecs-home.html</foaf:homepage>
         <foaf:homepage>https://www.ncei.noaa.gov/products/coastal-marine-ecological-classification-standard</foaf:homepage>
@@ -89,6 +89,42 @@
     <!-- https://purl.org/dc/elements/1.1/creator -->
 
     <owl:AnnotationProperty rdf:about="https://purl.org/dc/elements/1.1/creator"/>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001668 -->
+
+    <owl:AnnotationProperty rdf:about="https://w3id.org/CMECS/CMECS_00001668">
+        <rdfs:label xml:lang="en">unitStatus</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001669 -->
+
+    <owl:AnnotationProperty rdf:about="https://w3id.org/CMECS/CMECS_00001669">
+        <rdfs:label xml:lang="en">changeType</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001670 -->
+
+    <owl:AnnotationProperty rdf:about="https://w3id.org/CMECS/CMECS_00001670">
+        <rdfs:label xml:lang="en">implementationGuidance</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001671 -->
+
+    <owl:AnnotationProperty rdf:about="https://w3id.org/CMECS/CMECS_00001671">
+        <rdfs:label xml:lang="en">contextNote</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:AnnotationProperty>
     
 
 
@@ -250,7 +286,7 @@
     <!-- https://w3id.org/CMECS/CMECS_00000009 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000009">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000010"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001658"/>
         <rdfs:comment>Biogenic Substrate that is primarily composed of broken down calcareous algae with a median particle size of 0.0625 millimeters to &lt; 2 millimeters (Sand). This Sand may have a characteristic white color as it becomes bleached by the sun. However, when the composition and origin of Sand is unclear, it is assumed to be mineral Sand, and is classified as a Geologic Origin substrate.</rdfs:comment>
         <rdfs:label>Algal Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -263,12 +299,19 @@
     <!-- https://w3id.org/CMECS/CMECS_00000010 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000010">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
-        <rdfs:comment>Biogenic Substrate that is primarily composed of calcareous algae in various states of decomposition, including both crustose and coralline types.</rdfs:comment>
-        <rdfs:label>Algal Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Biogenic Substrate that is primarily composed of calcareous algae in various states of decomposition, including both crustose and coralline types.</rdfs:comment>
+        <rdfs:comment>Subordinate units were deprecated or distributed among other new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Algal Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000009"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000673"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000674"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000675"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001076"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001635"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001642"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001644"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001654"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -363,12 +406,13 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000018 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000018">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000024"/>
-        <rdfs:comment>Anthropogenic Substrate that is primarily composed of natural mineral materials that were purposefully or accidentally deposited by humans. This includes breakwaters made of natural stone, dredge material, artificial reefs made of natural stone, as well as beach nourishment and beach fill. Shape for this substrate class is covered in the GC (e.g., Groin, Breakwater, and Dredge Deposit). If the origin of a feature cannot be determined, it is assumed to be of natural origin and classified in the Geologic or Biogenic Substrate Origin.</rdfs:comment>
-        <rdfs:label>Anthropogenic Rock</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Anthropogenic Substrate that is primarily composed of natural mineral materials that were purposefully or accidentally deposited by humans. This includes breakwaters made of natural stone, dredge material, artificial reefs made of natural stone, as well as beach nourishment and beach fill. Shape for this substrate class is covered in the GC (e.g., Groin, Breakwater, and Dredge Deposit). If the origin of a feature cannot be determined, it is assumed to be of natural origin and classified in the Geologic or Biogenic Substrate Origin.</rdfs:comment>
+        <rdfs:comment>Subordinate units renamed and moved under new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Anthropogenic Rock</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000186"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001688"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001692"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -376,12 +420,11 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000019 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000019">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000018"/>
-        <rdfs:comment>Substrate that is dominated by Anthropogenic Rock with a median particle size of 2 millimeters to &lt; 64 millimeters (Granules and Pebbles).</rdfs:comment>
-        <rdfs:label>Anthropogenic Rock Hash</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.1.3</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock with a median particle size of 2 millimeters to &lt; 64 millimeters (Granules and Pebbles).</rdfs:comment>
+        <rdfs:comment>Unit merged with new unit</rdfs:comment>
+        <rdfs:label>DEPRECATED Anthropogenic Rock Hash</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000184"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -389,12 +432,11 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000020 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000020">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000018"/>
-        <rdfs:comment>Substrate that is dominated by Anthropogenic Rock (mineral particles) with a median particle size of less than 0.0625 millimeters.</rdfs:comment>
-        <rdfs:label>Anthropogenic Rock Mud</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.1.5</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock (mineral particles) with a median particle size of less than 0.0625 millimeters.</rdfs:comment>
+        <rdfs:comment>Unit merged with new unit</rdfs:comment>
+        <rdfs:label>DEPRECATED Anthropogenic Rock Mud</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001699"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -402,12 +444,11 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000021 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000021">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000018"/>
-        <rdfs:comment>Substrate that is dominated by Anthropogenic Rock with a median particle size of 4,096 millimeters or greater in any dimension.</rdfs:comment>
-        <rdfs:label>Anthropogenic Rock Reef Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.1.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock with a median particle size of 4,096 millimeters or greater in any dimension.</rdfs:comment>
+        <rdfs:comment>Unit merged with new unit</rdfs:comment>
+        <rdfs:label>DEPRECATED Anthropogenic Rock Reef Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000186"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -415,12 +456,11 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000022 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000022">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000018"/>
-        <rdfs:comment>Substrate that is dominated by Anthropogenic Rock with a median particle size of 64 millimeters to &lt; 4,096 millimeters (Cobbles and Boulders).</rdfs:comment>
-        <rdfs:label>Anthropogenic Rock Rubble</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.1.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock with a median particle size of 64 millimeters to &lt; 4,096 millimeters (Cobbles and Boulders).</rdfs:comment>
+        <rdfs:comment>Unit merged with new unit</rdfs:comment>
+        <rdfs:label>DEPRECATED Anthropogenic Rock Rubble</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000187"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -428,12 +468,11 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000023 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000023">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000018"/>
-        <rdfs:comment>Substrate that is dominated by Anthropogenic Rock with a median particle size of 0.0625 millimeters to &lt; 2 millimeters.</rdfs:comment>
-        <rdfs:label>Anthropogenic Rock Sand</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.1.4</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock with a median particle size of 0.0625 millimeters to &lt; 2 millimeters.</rdfs:comment>
+        <rdfs:comment>Unit merged with new unit</rdfs:comment>
+        <rdfs:label>DEPRECATED Anthropogenic Rock Sand</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001699"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -442,8 +481,12 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000024">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000803"/>
-        <rdfs:comment>Substrates where percent cover of Anthropogenic Substrate exceeds percent cover of both Geologic Substrate and Biogenic Substrates, considered separately. Anthropogenic Substrates are classified at the higher levels by composition, and at the lower levels by median particle size, using the units Reef Substrate (≥ 4,096 millimeters), Rubble (64 millimeters to &lt; 4,096 millimeters), Hash (2 millimeters to &lt; 64 millimeters), Sand (0.0625 millimeters to &lt; 2 millimeters), and Mud (&lt; 0.0625 millimeters). These units are derived from Wentworth (1922), and can be broken down into Wentworth grain size classes for greater precision if desired. Shape for this substrate origin is covered in the GC, but practitioners may choose to add further descriptors in a comment or notes field. Anthropogenic Substrate classifications may be based on percent weight (e.g., for retrieved samples); percent cover (e.g., for plan-view images); and visual percent composition (for other approaches). The terms &quot;dominant&quot; and &quot;primarily&quot; in the Anthropogenic Substrate Origin describe the substrate type that is present in the greatest percent cover, greatest percent weight, or greatest visual percent composition. When two Anthropogenic Substrate types are present, &quot;dominant&quot; and &quot;primarily&quot; are equivalent to &quot;&gt; 50%&quot;. When three or more types exist, the dominant type may occur at a lower percent-of-total value. When Anthropogenic Substrate is present, but does not constitute the dominant substrate, it should be included as a Co-occurring Element Modifier.</rdfs:comment>
+        <rdfs:comment>Benthic substrates where sufficient evidence shows that Anthropogenic Substrate exceeds (is dominant over) that of both Geologic and Biogenic Substrates, when all are considered separately. Anthropogenic substrates are composed of material created by human physical, chemical, or other processes. Examples, include metals, plastics, ceramics, cement, and construction aggregates. Wood, although it is biogenic in origin, is included here to describe instances where it has been shaped, textured, treated, or otherwise altered from its natural condition and thus has different habitat suitability and/or function. 
+Anthropogenic substrates are classified at the Class level by particle size and degree of stability in relation to the surrounding substrate, i.e., fixed (immobile and generally large structures or fragments) or unconsolidated (potentially mobile, of varying particle sizes); Subclass and Group level units are further refined by particle size and composition. The Anthropogenic Origin does not include any Subgroup units but users may provide further descriptive detail if desired. Particle size bins at the Anthropogenic Substrate Class and Subclass levels correspond to the Geologic Substrate units as follows: Class: Fixed Anthropogenic Substrate is equivalent to the Geologic Origin Class: Consolidated Mineral Substrate (≥ 4,096 millimeters in any dimension); Class: Coarse Unconsolidated Anthropogenic Substrate is equivalent to the Geologic Origin Group: Very Coarse Gravel (64 millimeters to &lt; 4,096 millimeters in diameter); Class: Fine Unconsolidated Anthropogenic Substrate Hash is equivalent to the Geologic Origin Groups: Moderately Coarse Gravel (2 millimeters to &lt; 64 millimeters in diameter), Sand (0.0625 millimeters to &lt; 2 millimeters in diameter), and Mud (&lt; 0.0625 millimeters in diameter).
+These units are derived from Wentworth (1922), and they can be broken down into Wentworth grain size classes for greater precision, if desired.</rdfs:comment>
         <rdfs:label>Anthropogenic Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3</cmecs:unitCode>
         <cmecs:unitType>CMECS Component: Substrate Component Origin</cmecs:unitType>
@@ -467,12 +510,13 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000026 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000026">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000024"/>
-        <rdfs:comment>Anthropogenic Substrate that is primarily composed of woody materials that were processed or assembled by humans. Shape for this substrate class is covered in the GC (e.g., Jetty, Dolphin, Pilings, and Wreck).</rdfs:comment>
-        <rdfs:label>Anthropogenic Wood</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Anthropogenic Substrate that is primarily composed of woody materials that were processed or assembled by humans. Shape for this substrate class is covered in the GC (e.g., Jetty, Dolphin, Pilings, and Wreck).</rdfs:comment>
+        <rdfs:comment>Subordinate units renamed and moved under new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Anthropogenic Wood</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000028"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001691"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001695"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -480,12 +524,14 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000027 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000027">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000026"/>
-        <rdfs:comment>Substrate that is dominated by Anthropogenic Wood with a median particle size of 2 millimeters to &lt; 64 millimeters.</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001695"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (2 millimeters to &lt; 64 millimeters, equivalent to Geologic Origin Subgroups: Granule) that cover 50% or greater of the Anthropogenic Substrate surface and is composed of wood.</rdfs:comment>
         <rdfs:label>Anthropogenic Wood Hash</rdfs:label>
+        <cmecs:CMECS_00001668>Change in Level Down|Editorial change(defintion re-worded)</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.2.3</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
 
@@ -493,9 +539,11 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000028 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000028">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000026"/>
-        <rdfs:comment>Substrate that is dominated by Anthropogenic Wood with a median particle size of 4,096 millimeters or greater in any dimension.</rdfs:comment>
-        <rdfs:label>Anthropogenic Wood Reef Substrate</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001683"/>
+        <rdfs:comment>Anthropogenic Substrates that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Anthropogenic Substrate surface, are  consolidated or fixed in the surrounding environment and are composed of wood that has been shaped, textured, treated, or otherwise altered, and forms a stable surface in the environment. Examples include pilings, posts, daymarks, docks or other infrastructural objects.</rdfs:comment>
+        <rdfs:label>Fixed Anthropogenic Wood Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Name change|Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.2.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
@@ -506,12 +554,14 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000029 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000029">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000026"/>
-        <rdfs:comment>Substrate that is dominated by Anthropogenic Wood with a median particle size of 64 millimeters to &lt; 4,096 millimeters.</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001691"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface composed of wood pieces or fragments.</rdfs:comment>
         <rdfs:label>Anthropogenic Wood Rubble</rdfs:label>
+        <cmecs:CMECS_00001668>Change in Level Down|Editorial change(defintion re-worded)</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.2.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
 
@@ -1540,8 +1590,8 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
     <!-- https://w3id.org/CMECS/CMECS_00000109 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000109">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000393"/>
-        <rdfs:comment>Geologic Substrate contains &gt; 80% Gravel, with a median Gravel size of 256 millimeters to &lt; 4,096 millimeters.</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001673"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel, with a Gravel size of 256 millimeters to &lt; 4,096 millimeters.</rdfs:comment>
         <rdfs:label>Boulder</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.1.1</cmecs:unitCode>
@@ -2156,12 +2206,11 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
     <!-- https://w3id.org/CMECS/CMECS_00000157 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000157">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000744"/>
-        <rdfs:comment>Shell Hash (with a median particle size of 2 millimeters to &lt; 64 millimeters) that is primarily composed of loose clam shells and shell bits.</rdfs:comment>
-        <rdfs:label>Clam Hash</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.5.3.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Shell Hash (with a median particle size of 2 millimeters to &lt; 64 millimeters) that is primarily composed of loose clam shells and shell bits.</rdfs:comment>
+        <rdfs:comment>Subordnate units moved to new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Clam Hash</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000744"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -2169,12 +2218,11 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
     <!-- https://w3id.org/CMECS/CMECS_00000158 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000158">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000745"/>
-        <rdfs:comment>Shell Reef that is primarily composed of cemented or conglomerated clam shells.</rdfs:comment>
-        <rdfs:label>Clam Reef Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.5.1.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Shell Reef that is primarily composed of cemented or conglomerated clam shells.</rdfs:comment>
+        <rdfs:comment>Subordinate units moved to new class</rdfs:comment>
+        <rdfs:label>DEPRECATED Clam Reef Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000745"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -2182,12 +2230,11 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
     <!-- https://w3id.org/CMECS/CMECS_00000159 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000159">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000746"/>
-        <rdfs:comment>Shell Rubble (with a median particle size of 64 millimeters to &lt; 4,096 millimeters) that is primarily composed of cemented or conglomerated clam shells.</rdfs:comment>
-        <rdfs:label>Clam Rubble</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.5.2.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Shell Rubble (with a median particle size of 64 millimeters to &lt; 4,096 millimeters) that is primarily composed of cemented or conglomerated clam shells.</rdfs:comment>
+        <rdfs:comment>Subordinate unit moved to new class</rdfs:comment>
+        <rdfs:label>DEPRECATED Clam Rubble</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000746"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -2196,7 +2243,7 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000160">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000576"/>
-        <rdfs:comment>Geologic Substrate surface layer shows no trace of Gravel and contains &lt; 10% Sand; the remaining Clay-Silt mix is 67% or more Clay.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is &lt; 10% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Clay-Silt mix is 67% or more Clay (particles &lt; 0.004 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Clay</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.5.3</cmecs:unitCode>
@@ -2261,7 +2308,6 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001632"/>
         <rdfs:comment>Coarse Percent Cover can be described using one of five coarse descriptors, e.g., &quot;Sparse&quot;.</rdfs:comment>
         <rdfs:label>Coarse Percent Cover Range</rdfs:label>
-        <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
@@ -2271,7 +2317,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000166">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000701"/>
-        <rdfs:comment>Geologic Substrate surface layer contains no trace of Gravel and is composed of &gt; 90% Sand, with a median grain size of 0.5 millimeters to &lt; 1 millimeter.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand (particles 0.5 millimeters to &lt; 1 millimeter).</rdfs:comment>
         <rdfs:label>Coarse Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.2.2</cmecs:unitCode>
@@ -2283,13 +2329,22 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000167 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000167">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000867"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000389"/>
         <dc:source>Folk, R.L., 1954. “The Distinction between Grain Size and Mineral Composition in Sedimentary-Rock Nomenclature.” The Journal of Geology 62: 344-359.</dc:source>
-        <rdfs:comment>Geologic Substrate surface layer contains &gt; 5% Gravel (particles 2 millimeters to &lt; 4,096 millimeters). These sediments are classified using the upper three rows of the Folk (1954) Gravel-Sand-Mud diagram.</rdfs:comment>
-        <rdfs:label>Coarse Unconsolidated Substrate</rdfs:label>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrates with less than 50% cover of Consolidated Mineral Substrate where the Unconsolidated Mineral Substrate surface is ≥ than 5% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter)..</rdfs:comment>
+        <rdfs:label>Coarse Unconsolidated Mineral Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Name change|Change in level up: from subclass to class|Editorial Changes: defintion re-worded|Attribute Changes: Unit Type change, Unit Code change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001670>Classifications throughout the Substrate Component are based on visual percent cover for plan-view images, or for other approaches (e.g., retrieved samples) they may be based on percent weight, percent composition, or other metrics.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>The Co-occurring Elements Modifier (see Section 10.6.2, p. 213, FGDC-STD-018-2012) may be used to describe mixes of origins as well as the presence of secondary substrate units within the observational unit (i.e., image frame, sampling grid cell, etc.)</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001671>The CMECS Coarse, Mixed, and Fine Unconsolidated Mineral Substrate Classes and subordinate units use Folk (1954) terminology to describe particle sizes of loose mineral substrates as shown in the ternary diagram in Figure 7.2 . Units with bracketed letters, e.g., [G], [(g)sM], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).</cmecs:CMECS_00001671>
         <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.2.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Group</cmecs:unitType>
+        <cmecs:unitCode rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal"></cmecs:unitCode>
+        <cmecs:unitType>CMECS Substrate Component: Class</cmecs:unitType>
     </owl:Class>
     
 
@@ -2297,7 +2352,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000168 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000168">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000914"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001637"/>
         <rdfs:comment>Woody Debris with a median particle size from 64 millimeters to &lt; 256 millimeters.</rdfs:comment>
         <rdfs:label>Coarse Woody Debris</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -2336,8 +2391,8 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000171 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000171">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000393"/>
-        <rdfs:comment>Geologic Substrate contains &gt; 80% Gravel, with a median Gravel size of 64 millimeters to &lt; 256 millimeters.</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001673"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel, with a Gravel size of 64 millimeters to &lt; 256 millimeters.</rdfs:comment>
         <rdfs:label>Cobble</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.1.2</cmecs:unitCode>
@@ -2515,12 +2570,14 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000184 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000184">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000185"/>
-        <rdfs:comment>Substrate that is dominated by Construction Materials with a median particle size of 2 millimeters to &lt; 64 millimeters.</rdfs:comment>
-        <rdfs:label>Construction Hash</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001692"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (2 millimeters to &lt; 64 millimeters, equivalent to Geologic Origin Subgroups: Granule) that cover 50% or greater of the Anthropogenic Substrate surface and is composed of aggregate particles or fragments.</rdfs:comment>
+        <rdfs:label>Aggregate Hash</rdfs:label>
+        <cmecs:CMECS_00001668>Change in Level Down|Editorial change(defintion re-worded)</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.3.3</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
 
@@ -2528,12 +2585,13 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000185 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000185">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000024"/>
-        <rdfs:comment>Anthropogenic Substrate that is composed of any single construction material or combination of construction materials (concrete, brick, rebar, pipe, porcelain, fiberglass, rubber, plastic, &lt; 50% wood, &lt; 50% metal, etc.) that were manufactured by humans. This substrate may be composed of one or many types of these materials. If anthropogenic wood or metal constitute a dominant fraction of the materials, the substrate is classified as Anthropogenic Wood or Metal, accordingly. Shape for this substrate class is covered in the GC (e.g., Breakwater, Wreck (if fiberglass, ferrocement, etc.).</rdfs:comment>
-        <rdfs:label>Construction Materials</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.3</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Anthropogenic Substrate that is composed of any single construction material or combination of construction materials (concrete, brick, rebar, pipe, porcelain, fiberglass, rubber, plastic, &lt; 50% wood, &lt; 50% metal, etc.) that were manufactured by humans. This substrate may be composed of one or many types of these materials. If anthropogenic wood or metal constitute a dominant fraction of the materials, the substrate is classified as Anthropogenic Wood or Metal, accordingly. Shape for this substrate class is covered in the GC (e.g., Breakwater, Wreck (if fiberglass, ferrocement, etc.).</rdfs:comment>
+        <rdfs:comment>Subordinate units renamed and moved under new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Construction Materials</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000186"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001688"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001692"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -2541,9 +2599,10 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000186 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000186">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000185"/>
-        <rdfs:comment>Substrate that is dominated by Construction Materials with a median particle size of 4,096 millimeters or greater in any dimension.</rdfs:comment>
-        <rdfs:label>Construction Reef</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001683"/>
+        <rdfs:comment>Anthropogenic Substrates that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Anthropogenic Substrate surface, are consolidated or fixed in the surrounding environment and are dominated by aggregate, primarily construction, materials. This includes concrete, asphalt, brick, porcelain, or similar materials. Examples of features that form anthropogenic substrates include boat ramps, piers, and seawalls.</rdfs:comment>
+        <rdfs:label>Fixed Aggregate Substrate</rdfs:label>
+        <cmecs:CMECS_00001669>Name change|Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.3.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
@@ -2554,12 +2613,14 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000187 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000187">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000185"/>
-        <rdfs:comment>Substrate that is dominated by Construction Materials with a median particle size of 64 millimeters to &lt;4,096 millimeters.</rdfs:comment>
-        <rdfs:label>Construction Rubble</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001688"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface and are composed of rubble-sized aggregate particles/fragments.</rdfs:comment>
+        <rdfs:label>Aggregate Rubble</rdfs:label>
+        <cmecs:CMECS_00001668>Name change|Editorial change(defintion re-worded)</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.3.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
 
@@ -2630,7 +2691,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000193 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000193">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000203"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001655"/>
         <rdfs:comment>Substrate that is dominated by coral Hash with a median particle size of 2 millimeters to &lt; 64 millimeters (Granules and Pebbles).</rdfs:comment>
         <rdfs:label>Coral Hash</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -2695,12 +2756,14 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000198 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000198">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000203"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001643"/>
         <rdfs:comment>Substrate that is dominated by living or non-living coral reefs with a median particle size of 4,096 millimeters or greater in any dimension.</rdfs:comment>
         <rdfs:label>Coral Reef Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.2.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
 
@@ -2721,7 +2784,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000200 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000200">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000203"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001636"/>
         <rdfs:comment>Substrate that is dominated by living or non-living coral Rubble with a median particle size of 64 millimeters to &lt; 4,096 millimeters (Cobbles and Boulders).</rdfs:comment>
         <rdfs:label>Coral Rubble</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -2734,7 +2797,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000201 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000201">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000203"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001658"/>
         <rdfs:comment>Substrate that is dominated by coral Sand with a median particle size of 0.0625 millimeters to &lt; 2 millimeters (Sand). When the composition and origin of Sand is unclear, it is assumed to be mineral Sand, and is classified as a Geologic Origin substrate.</rdfs:comment>
         <rdfs:label>Coral Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -2760,12 +2823,14 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000203 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000203">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
-        <rdfs:comment>Non-living scleractinian coral reefs (or coral particles) constitute the dominant benthic substrate; this substrate may or may not be inhabited by live corals.</rdfs:comment>
-        <rdfs:label>Coral Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Non-living scleractinian coral reefs (or coral particles) constitute the dominant benthic substrate; this substrate may or may not be inhabited by live corals.</rdfs:comment>
+        <rdfs:comment>Subordinate units moved to new class</rdfs:comment>
+        <rdfs:label>DEPRECATED Coral Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000193"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000198"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000200"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000201"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -4569,7 +4634,7 @@ As in other BC classes, practitioners may apply Genus and/or species names to de
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001632"/>
         <rdfs:comment>Fine Percent Cover can be described using one of eleven range categories, e.g., &quot;10 to less than 20 percent&quot;.</rdfs:comment>
         <rdfs:label>Fine Percent Cover Range</rdfs:label>
-        <cmecs:unitCode>None</cmecs:unitCode>
+        <cmecs:unitCode>PC01</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
@@ -4579,7 +4644,7 @@ As in other BC classes, practitioners may apply Genus and/or species names to de
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000343">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000701"/>
-        <rdfs:comment>Geologic Substrate surface layer contains no trace of Gravel and is composed of &gt; 90% Sand with a median grain size of 0.125 millimeters to &lt; 0.25 millimeters.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand (particles 0.125 millimeters to &lt; 0.25 millimeters).</rdfs:comment>
         <rdfs:label>Fine Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.2.4</cmecs:unitCode>
@@ -4591,13 +4656,20 @@ As in other BC classes, practitioners may apply Genus and/or species names to de
     <!-- https://w3id.org/CMECS/CMECS_00000344 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000344">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000867"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000389"/>
         <dc:source>Folk, R.L., 1954. “The Distinction between Grain Size and Mineral Composition in Sedimentary-Rock Nomenclature.” The Journal of Geology 62: 344-359.</dc:source>
-        <rdfs:comment>Geologic Substrate surface layer contains less than 5% gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter). These sediments are classified using the bottom two rows of the Folk (1954) Gravel-Sand-Mud diagram, and the entire Folk (1954) Sand-Silt-Clay diagram.</rdfs:comment>
-        <rdfs:label>Fine Unconsolidated Substrate</rdfs:label>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrates with less than 50% cover of Consolidated Mineral Substrate where the Unconsolidated Mineral Substrate surface contains &lt; 5% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter).</rdfs:comment>
+        <rdfs:label>Fine Unconsolidated Mineral Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Name change|Change in level up: from subclass to class|Editorial Changes: defintion re-worded|Attribute Changes: Unit Type change, Unit Code change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001670>Classifications throughout the Substrate Component are based on visual percent cover for plan-view images, or for other approaches (e.g., retrieved samples) they may be based on percent weight, percent composition, or other metrics.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>The Co-occurring Elements Modifier (see Section 10.6.2, p. 213, FGDC-STD-018-2012) may be used to describe mixes of origins as well as the presence of secondary substrate units within the observational unit (i.e., image frame, sampling grid cell, etc.)</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001671>The CMECS Coarse, Mixed, and Fine Unconsolidated Mineral Substrate Classes and subordinate units use Folk (1954) terminology to describe particle sizes of loose mineral substrates as shown in the ternary diagram in Figure 7.2 . Units with bracketed letters, e.g., [G], [(g)sM], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).</cmecs:CMECS_00001671>
         <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.2.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitCode></cmecs:unitCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
     </owl:Class>
     
 
@@ -4605,7 +4677,7 @@ As in other BC classes, practitioners may apply Genus and/or species names to de
     <!-- https://w3id.org/CMECS/CMECS_00000345 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000345">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000914"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001655"/>
         <rdfs:comment>Woody Debris with a median particle size from 4 millimeters to &lt; 64 millimeters.</rdfs:comment>
         <rdfs:label>Fine Woody Debris</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -5187,7 +5259,7 @@ The GC is organized into four subcomponents that occur along a spatial continuum
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000389">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000803"/>
-        <rdfs:comment>Benthic substrates where percent cover of Rock and Unconsolidated Mineral Substrate exceeds percent cover of both Biogenic and Anthropogenic Substrates, considered separately. When Geologic Substrate is present, but does not constitute the dominant substrate origin, it may be included as a Co-occurring Element.</rdfs:comment>
+        <rdfs:comment>Benthic substrates where sufficient evidence shows that Geologic Substrate exceeds (is dominant over) both Biogenic and Anthropogenic Substrates, considered separately. Geologic Substrates are composed of consolidated igneous, metamorphic, or sedimentary rock or finer, unconsolidated particles and are classified according to particle size and mixes of particle sizes. When Geologic Substrate is present, but does not constitute the dominant substrate origin, it may be included as a Co-occurring Element.</rdfs:comment>
         <rdfs:label>Geologic Substrate</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1</cmecs:unitCode>
@@ -5225,11 +5297,10 @@ The GC is organized into four subcomponents that occur along a spatial continuum
     <!-- https://w3id.org/CMECS/CMECS_00000392 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000392">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000393"/>
-        <rdfs:comment>Geologic Substrate contains &gt; 80% Gravel, with a median Gravel size of 2 millimeters to &lt; 4 millimeters.</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001674"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel, with a Gravel size of 2 millimeters to &lt; 4 millimeters.</rdfs:comment>
         <rdfs:label>Granule</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.2.1.1.4</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
     </owl:Class>
     
@@ -5239,10 +5310,17 @@ The GC is organized into four subcomponents that occur along a spatial continuum
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000393">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000167"/>
-        <rdfs:comment>Geologic Substrate surface layer contains &gt; 80% Gravel (particles 2 millimeters to &lt; 4,096 millimeters diameter).</rdfs:comment>
-        <rdfs:label>Gravel</rdfs:label>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel, with a Gravel size of 2 millimeters to &lt; 4,096 millimeters.</rdfs:comment>
+        <rdfs:label>Gravel Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001670>Classifications throughout the Substrate Component are based on visual percent cover for plan-view images, or for other approaches (e.g., retrieved samples) they may be based on percent weight, percent composition, or other metrics.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>The Co-occurring Elements Modifier (see Section 10.6.2, p. 213, FGDC-STD-018-2012) may be used to describe mixes of origins as well as the presence of secondary substrate units within the observational unit (i.e., image frame, sampling grid cell, etc.)</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001671>The CMECS Coarse, Mixed, and Fine Unconsolidated Mineral Substrate Classes and subordinate units use Folk (1954) terminology to describe particle sizes of loose mineral substrates as shown in the ternary diagram in Figure 7.2 . Units with bracketed letters, e.g., [G], [(g)sM], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).</cmecs:CMECS_00001671>
         <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.2.1.1</cmecs:unitCode>
+        <cmecs:unitCode></cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
     </owl:Class>
     
@@ -5251,9 +5329,11 @@ The GC is organized into four subcomponents that occur along a spatial continuum
     <!-- https://w3id.org/CMECS/CMECS_00000394 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000394">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000167"/>
-        <rdfs:comment>Geologic Substrate surface layer contains 30% to &lt; 80% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter). For more specificity in this group and in the following three substrate subgroups, the median size of &quot;Gravel&quot; may be substituted in, e.g., &quot;Pebble Mixes&quot;, &quot;Sandy Boulder&quot;, &quot;Muddy Sandy Cobble&quot;, and &quot;Muddy Granule&quot;.</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001672"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is 30% to &lt; 80% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter).  The remainder is a Sand-Mud mix.</rdfs:comment>
         <rdfs:label>Gravel Mixes</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.2</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
@@ -5264,9 +5344,11 @@ The GC is organized into four subcomponents that occur along a spatial continuum
     <!-- https://w3id.org/CMECS/CMECS_00000395 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000395">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000167"/>
-        <rdfs:comment>Geologic Substrate surface layer contains 5% to &lt; 30% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter). For more specificity in this group and in the following three substrate subgroups, the median size of &quot;Gravelly&quot; may be substituted in, e.g., &quot;Bouldery&quot;, &quot;Cobbley Sand&quot;, &quot;Pebbly Muddy Sand&quot;, and &quot;Granuley Mud&quot;.</rdfs:comment>
-        <rdfs:label>Gravelly</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001672"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is 5% to &lt; 30% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter).</rdfs:comment>
+        <rdfs:label>Gravelly Mixes</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Name Change|Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.3</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
@@ -5278,8 +5360,10 @@ The GC is organized into four subcomponents that occur along a spatial continuum
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000396">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000395"/>
-        <rdfs:comment>Geologic Substrate is 5% to &lt; 30% Gravel, and the remaining Sand-Mud mix is 50% or more Mud.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is 5% to &lt; 30% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter), and the remaining Sand-Mud mix is 50% or more Mud.</rdfs:comment>
         <rdfs:label>Gravelly Mud</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.3.3</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
@@ -5291,8 +5375,10 @@ The GC is organized into four subcomponents that occur along a spatial continuum
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000397">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000395"/>
-        <rdfs:comment>Geologic Substrate is 5% to &lt; 30% Gravel, and the remaining Sand-Mud mix is 50% to &lt; 90% Sand.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface  is 5% to &lt; 30% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter), and the remaining Sand-Mud mix is 50% to &lt; 90% Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Gravelly Muddy Sand</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.3.2</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
@@ -5306,6 +5392,9 @@ The GC is organized into four subcomponents that occur along a spatial continuum
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000395"/>
         <rdfs:comment>Geologic Substrate is 5% to &lt; 30% Gravel, and the remaining Sand-Mud mix is 90% or more Sand.</rdfs:comment>
         <rdfs:label>Gravelly Sand</rdfs:label>
+        <cmecs:CMECS_00001668>Geologic Unconsolidated Mineral Substrate surface  is 5% to &lt; 30% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter), and the remaining Sand-Mud mix is 90% or more Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter).</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.3.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
@@ -6966,7 +7055,7 @@ Massive and submassive corals are resistant to strong water currents, and are th
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000527">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000701"/>
-        <rdfs:comment>Geologic Substrate surface layer contains no trace of Gravel and is composed of &gt; 90% Sand, with a median grain size of 0.25 millimeters to &lt; 0.5 millimeters.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand (particles 0.25 millimeters to &lt; 0.5 millimeters).</rdfs:comment>
         <rdfs:label>Medium Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.2.3</cmecs:unitCode>
@@ -7092,12 +7181,12 @@ Massive and submassive corals are resistant to strong water currents, and are th
     <!-- https://w3id.org/CMECS/CMECS_00000537 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000537">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000024"/>
-        <rdfs:comment>Anthropogenic Substrate that is dominantly composed of metal that was manufactured by humans. Shape for this substrate class is covered in the GC (e.g., Cable Area, Wreck [if metal]).</rdfs:comment>
-        <rdfs:label>Metal</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.4</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Anthropogenic Substrate that is dominantly composed of metal that was manufactured by humans. Shape for this substrate class is covered in the GC (e.g., Cable Area, Wreck [if metal]).</rdfs:comment>
+        <rdfs:comment>Subordinate units moved under new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Metal</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001689"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001693"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -7105,12 +7194,14 @@ Massive and submassive corals are resistant to strong water currents, and are th
     <!-- https://w3id.org/CMECS/CMECS_00000538 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000538">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000537"/>
-        <rdfs:comment>Substrate that is dominated by Metal with a median particle size of 2 millimeters to &lt; 64 millimeters.</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001693"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (2 millimeters to &lt; 64 millimeters, equivalent to Geologic Origin Subgroups: Granule) that cover 50% or greater of the Anthropogenic Substrate surface and is composed of metal.</rdfs:comment>
         <rdfs:label>Metal Hash</rdfs:label>
+        <cmecs:CMECS_00001668>Change in Level Down|Editorial change(defintion re-worded)</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.4.3</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
 
@@ -7118,9 +7209,11 @@ Massive and submassive corals are resistant to strong water currents, and are th
     <!-- https://w3id.org/CMECS/CMECS_00000539 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000539">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000537"/>
-        <rdfs:comment>Substrate that is dominated by Metal with a median particle size of 4,096 millimeters or greater in any dimension.</rdfs:comment>
-        <rdfs:label>Metal Reef Substrate</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001683"/>
+        <rdfs:comment>Anthropogenic Substrates that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Anthropogenic Substrate surface, are consolidated or fixed in the surrounding environment and are composed of metal. Examples include sheet metal, ship hulls/parts, metallic walls/bulkheads, pipes, valves, mooring chains, or other infrastructural objects.</rdfs:comment>
+        <rdfs:label>Fixed Metal Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Name change|Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.4.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
@@ -7131,12 +7224,14 @@ Massive and submassive corals are resistant to strong water currents, and are th
     <!-- https://w3id.org/CMECS/CMECS_00000540 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000540">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000537"/>
-        <rdfs:comment>Substrate that is dominated by Metal with a median particle size of 64 millimeters to &lt; 4,096 millimeters.</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001689"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface and are composed of metal particles.</rdfs:comment>
         <rdfs:label>Metal Rubble</rdfs:label>
+        <cmecs:CMECS_00001668>Change in Level Down|Editorial change(defintion re-worded)</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.4.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
 
@@ -7597,8 +7692,8 @@ The modifiers are organized by into general modifier types, and then listed alph
     <!-- https://w3id.org/CMECS/CMECS_00000576 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000576">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000344"/>
-        <rdfs:comment>Geologic Substrate surface layer contains no trace of Gravel and is composed of 90% or more Mud (particles less than 0.0625 millimeters in diameter); the remainder (&lt; 10%) is composed of Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter).</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001675"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 90% or more Mud (particles &lt; 0.004 millimeters in diameter); the remainder (&lt; 10%) is Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Mud</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.5</cmecs:unitCode>
@@ -7625,8 +7720,10 @@ The modifiers are organized by into general modifier types, and then listed alph
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000578">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000394"/>
-        <rdfs:comment>Geologic Substrate is 30% to &lt; 80% Gravel, with Mud composing 50% or more of the remaining Mud-Sand mix.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is 30% to &lt; 80% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter), with Mud composing 50% or more of the remaining Mud-Sand mix.</rdfs:comment>
         <rdfs:label>Muddy Gravel</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.2.3</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
@@ -7637,7 +7734,7 @@ The modifiers are organized by into general modifier types, and then listed alph
     <!-- https://w3id.org/CMECS/CMECS_00000579 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000579">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000344"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001676"/>
         <rdfs:comment>Geologic Substrate surface layer contains no trace of Gravel and is composed of 50% to &lt; 90% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remainder is composed of Mud (particles less than 0.0625 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Muddy Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -7651,8 +7748,10 @@ The modifiers are organized by into general modifier types, and then listed alph
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000580">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000394"/>
-        <rdfs:comment>Geologic Substrate is 30% to &lt; 80% Gravel, with Sand composing from 50% to &lt; 90% of the remaining Sand-Mud mix.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface  is 30% to &lt; 80% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter), with Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter) composing from 50% to &lt; 90% of the remaining Sand-Mud mix.</rdfs:comment>
         <rdfs:label>Muddy Sandy Gravel</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.2.2</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
@@ -7994,7 +8093,7 @@ The modifiers are organized by into general modifier types, and then listed alph
     <!-- https://w3id.org/CMECS/CMECS_00000607 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000607">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001665"/>
         <rdfs:comment>Deep sea substrates that are composed of &gt; 30% tests, shells, or frustules of small plankton, including diatoms, radiolarians, pteropods, foraminifera, and other marine plankters. Oozes are common in deeper waters far from shore, where terrestrial inputs to the bottom sediments are very low, and where surface productivity is reasonably high. Based on common practice in the field, definition of a substrate as &quot;ooze&quot; requires a 30% or greater (but not necessarily &quot;dominant&quot;) ooze composition within the sediments. Once defined as an &quot;ooze&quot;, type of ooze is determined by dominant percent composition.</rdfs:comment>
         <rdfs:label>Ooze Substrate</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -8019,12 +8118,14 @@ The modifiers are organized by into general modifier types, and then listed alph
     <!-- https://w3id.org/CMECS/CMECS_00000609 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000609">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000612"/>
-        <rdfs:comment>Organic substrate is primarily composed of coarse organic material that is relatively intact, with a median particle size from 4 millimeters to &lt; 4,096 millimeters (the size of Pebbles, Cobbles, and Boulders). Organic Debris that is larger than that (e.g., whale falls, tree falls) is covered in the Geoform Component.</rdfs:comment>
-        <rdfs:label>Organic Debris</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.3.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Organic substrate is primarily composed of coarse organic material that is relatively intact, with a median particle size from 4 millimeters to &lt; 4,096 millimeters (the size of Pebbles, Cobbles, and Boulders). Organic Debris that is larger than that (e.g., whale falls, tree falls) is covered in the Geoform Component.</rdfs:comment>
+        <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Organic Debris</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000168"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000345"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000633"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000879"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -8032,7 +8133,7 @@ The modifiers are organized by into general modifier types, and then listed alph
     <!-- https://w3id.org/CMECS/CMECS_00000610 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000610">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000612"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001664"/>
         <rdfs:comment>Unconsolidated organic substrate that is composed primarily of decomposing plant and animal tissues. Organic Detritus is mostly broken down—with a median particle size from 0.0625 millimeters to 4 millimeters (Sand and Granule)—and is often in an advanced state of utilization and decay. Organic Detritus may be produced in-situ, deposited from above, or transported horizontally, or may be remnant material.</rdfs:comment>
         <rdfs:label>Organic Detritus</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -8045,7 +8146,7 @@ The modifiers are organized by into general modifier types, and then listed alph
     <!-- https://w3id.org/CMECS/CMECS_00000611 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000611">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000612"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001664"/>
         <rdfs:comment>Unconsolidated organic substrate with a median particle size of less than 0.0625 millimeters (Silts, Clays, and Muds), and an organic carbon content of greater than 5%.</rdfs:comment>
         <rdfs:label>Organic Mud</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -8058,12 +8159,11 @@ The modifiers are organized by into general modifier types, and then listed alph
     <!-- https://w3id.org/CMECS/CMECS_00000612 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000612">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
-        <rdfs:comment>Surface layers of substrate are primarily composed of non-living organic material, including fine or coarse organic particles up to 4,096 millimeters in any dimension. Substrates dominated by roots of live vegetation may be classified after removing the root material, and/or they may be classified by specialized methods considering, for example, below-ground biomass. Live fauna, and live flora together with their living root masses, are covered in the BC.</rdfs:comment>
-        <rdfs:label>Organic Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.3</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Surface layers of substrate are primarily composed of non-living organic material, including fine or coarse organic particles up to 4,096 millimeters in any dimension. Substrates dominated by roots of live vegetation may be classified after removing the root material, and/or they may be classified by specialized methods considering, for example, below-ground biomass. Live fauna, and live flora together with their living root masses, are covered in the BC.</rdfs:comment>
+        <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Organic Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001664"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -8330,7 +8430,7 @@ The modifiers are organized by into general modifier types, and then listed alph
     <!-- https://w3id.org/CMECS/CMECS_00000633 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000633">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000609"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001664"/>
         <rdfs:comment>Organic substrates that are primarily composed of non-living peat deposits—from modern or prehistoric times.</rdfs:comment>
         <rdfs:label>Peat Debris</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -8343,7 +8443,7 @@ The modifiers are organized by into general modifier types, and then listed alph
     <!-- https://w3id.org/CMECS/CMECS_00000634 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000634">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000393"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001674"/>
         <rdfs:comment>Geologic Substrate contains &gt; 80% Gravel, with a median Gravel size of 4 millimeters to &lt; 64 millimeters.</rdfs:comment>
         <rdfs:label>Pebble</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -8846,7 +8946,7 @@ The Reef Biota Class refers to only the living component of reef structures. If 
     <!-- https://w3id.org/CMECS/CMECS_00000673 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000673">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000676"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001654"/>
         <rdfs:comment>Substrate that is dominated by living or non-living Rhodolith Hash, with a median particle size of 2 millimeters to &lt; 64 millimeters (Granules and Pebbles).</rdfs:comment>
         <rdfs:label>Rhodoliith Hash</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -8859,7 +8959,7 @@ The Reef Biota Class refers to only the living component of reef structures. If 
     <!-- https://w3id.org/CMECS/CMECS_00000674 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000674">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000676"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001635"/>
         <rdfs:comment>Substrate that is dominated by living or non-living Rhodolith Rubble, with a median particle size of 64 millimeters to &lt; 4,096 millimeters (Cobbles and Boulders).</rdfs:comment>
         <rdfs:label>Rhodolith Rubble</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -8872,7 +8972,7 @@ The Reef Biota Class refers to only the living component of reef structures. If 
     <!-- https://w3id.org/CMECS/CMECS_00000675 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000675">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000676"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000009"/>
         <rdfs:comment>Substrate that is dominated by Rhodolith Sand, with a median particle size of 0.0625 millimeters to &lt; 2 millimeters (Sand). When the composition and origin of Sand is unclear, it is assumed to be mineral Sand, and is classified as a Geologic Origin substrate.</rdfs:comment>
         <rdfs:label>Rhodolith Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -8885,12 +8985,13 @@ The Reef Biota Class refers to only the living component of reef structures. If 
     <!-- https://w3id.org/CMECS/CMECS_00000676 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000676">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000010"/>
-        <rdfs:comment>Biogenic Substrate that is primarily composed of crustose algae that form rounded calcareous nodules (rhodoliths), often associated with coral reefs.</rdfs:comment>
-        <rdfs:label>Rhodolith Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.1.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Biogenic Substrate that is primarily composed of crustose algae that form rounded calcareous nodules (rhodoliths), often associated with coral reefs.</rdfs:comment>
+        <rdfs:comment>Subordinate units moved under new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Rhodolith Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000673"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000675"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001644"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -8992,7 +9093,7 @@ High inputs of land drainage can promote increased primary productivity, which m
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000684">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000389"/>
         <rdfs:comment>Igneous, metamorphic, or sedimentary rock with particle sizes greater than or equal to 4.0 meters (4,096 millimeters) in any dimension that cover 50% or greater of the Geologic Substrate surface.</rdfs:comment>
-        <rdfs:label>Rock Substrate</rdfs:label>
+        <rdfs:label>Consolidated Mineral Substrate</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Class</cmecs:unitType>
@@ -9040,7 +9141,7 @@ High inputs of land drainage can promote increased primary productivity, which m
     <!-- https://w3id.org/CMECS/CMECS_00000688 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000688">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000692"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001656"/>
         <rdfs:comment>Substrate that is dominated by the sand-shell-protein matrix and tubes constructed by sabellariid worms, with a median particle size of 2 millimeters to &lt; 64 millimeters (size of Granules and Pebbles).</rdfs:comment>
         <rdfs:label>Sabellariid Hash</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9066,7 +9167,7 @@ High inputs of land drainage can promote increased primary productivity, which m
     <!-- https://w3id.org/CMECS/CMECS_00000690 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000690">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000692"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001681"/>
         <rdfs:comment>Reef that is primarily composed of cemented mineral-based or shell-based sabellariid worm tubes, with a median particle size of 4,096 millimeters or greater in any dimension.</rdfs:comment>
         <rdfs:label>Sabellariid Reef Substrate</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9079,7 +9180,7 @@ High inputs of land drainage can promote increased primary productivity, which m
     <!-- https://w3id.org/CMECS/CMECS_00000691 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000691">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000692"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001639"/>
         <rdfs:comment>Substrate that is dominated by cemented mineral-based or shell-based sabellariid worm tube Rubble, with a median particle size of 64 millimeters to &lt; 4,096 millimeters (size of Cobbles and Boulders).</rdfs:comment>
         <rdfs:label>Sabellariid Rubble</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9092,12 +9193,14 @@ High inputs of land drainage can promote increased primary productivity, which m
     <!-- https://w3id.org/CMECS/CMECS_00000692 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000692">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000919"/>
-        <rdfs:comment>Biogenic substrate layers with conglomerated structures or smaller particles that are primarily composed of sand and shell bits cemented with adhesive proteins into cohesive, clustered tubes by sabellariid worms (e.g., &lt;Sabellaria&gt; or &lt;Phragmatopoma&gt;).</rdfs:comment>
-        <rdfs:label>Sabellariid Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.6.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Biogenic substrate layers with conglomerated structures or smaller particles that are primarily composed of sand and shell bits cemented with adhesive proteins into cohesive, clustered tubes by sabellariid worms (e.g., &lt;Sabellaria&gt; or &lt;Phragmatopoma&gt;).</rdfs:comment>
+        <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Sabellariid Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000688"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000690"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000691"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001661"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -9196,8 +9299,8 @@ High inputs of land drainage can promote increased primary productivity, which m
     <!-- https://w3id.org/CMECS/CMECS_00000701 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000701">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000344"/>
-        <rdfs:comment>Geologic Substrate surface layer contains no trace of Gravel and is composed of &gt; 90% Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter).</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001676"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.2</cmecs:unitCode>
@@ -9236,7 +9339,7 @@ High inputs of land drainage can promote increased primary productivity, which m
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000704">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000706"/>
-        <rdfs:comment>Geologic Substrate surface layer shows no trace of Gravel and contains 10% to &lt; 50% Sand; the remaining Clay-Silt mix is 67% or more Clay.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 10% to &lt; 50% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Clay-Silt mix is 67% or more Clay (particles &lt; 0.004 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Sandy Clay</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.4.3</cmecs:unitCode>
@@ -9249,8 +9352,10 @@ High inputs of land drainage can promote increased primary productivity, which m
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000705">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000394"/>
-        <rdfs:comment>Geologic Substrate is 30% to &lt; 80% Gravel, with Sand composing 90% or more of the remaining Sand-Mud mix.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is 30% to &lt; 80% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter), with Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter) composing 90% or more of the remaining Sand-Mud mix.</rdfs:comment>
         <rdfs:label>Sandy Gravel</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.1.2.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
@@ -9261,8 +9366,8 @@ High inputs of land drainage can promote increased primary productivity, which m
     <!-- https://w3id.org/CMECS/CMECS_00000706 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000706">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000344"/>
-        <rdfs:comment>Geologic Substrate surface layer contains no trace of Gravel and is composed of 10% to &lt; 50% Sand; the remainder is composed of Mud (particles less than 0.0625 millimeters in diameter).</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001675"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 50% to 90% Mud (particles &lt; 0.0625 millimeters in diameter); the remainder is Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Sandy Mud</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.4</cmecs:unitCode>
@@ -9275,7 +9380,7 @@ High inputs of land drainage can promote increased primary productivity, which m
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000707">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000706"/>
-        <rdfs:comment>Geologic Substrate surface layer shows no trace of Gravel and contains 10% to &lt; 50% Sand; the remaining Silt-Clay mix is 67% or more Silt.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 10% to &lt; 50% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is 67% or more Silt (particles 0.0040 millimeters to &lt; 0.0625 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Sandy Silt</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.4.1</cmecs:unitCode>
@@ -9288,7 +9393,7 @@ High inputs of land drainage can promote increased primary productivity, which m
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000708">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000706"/>
-        <rdfs:comment>Geologic Substrate surface layer shows no trace of Gravel and contains 10% to &lt; 50% Sand; the remaining Silt-Clay mix is 33% to &lt; 67% Silt.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 10% to &lt; 50% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is 33% to &lt; 67% Silt (particles 0.0040 millimeters to &lt; 0.0625 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Sandy Silt-Clay</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.4.2</cmecs:unitCode>
@@ -9578,7 +9683,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000730 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000730">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000734"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001656"/>
         <rdfs:comment>Substrate that is dominated by the calcareous tubes of serpulid worms, with a median particle size of 2 millimeters to &lt; 64 millimeters (Granules and Pebbles).</rdfs:comment>
         <rdfs:label>Serpulid Hash</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9604,7 +9709,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000732 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000732">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000734"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001681"/>
         <rdfs:comment>Biogenic substrate layers with conglomerated structures or broken particles that are primarily composed of cemented calcareous worm tubes produced by serpulid worms, e.g., Serpula.</rdfs:comment>
         <rdfs:label>Serpulid Reef Substrate</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9617,7 +9722,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000733 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000733">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000734"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001639"/>
         <rdfs:comment>Substrate that is dominated by cemented or conglomerated calcareous worm tube Rubble, derived from serpulid worms, with a median particle size of 64 millimeters to &lt; 4,096 millimeters (Cobbles and Boulders).</rdfs:comment>
         <rdfs:label>Serpulid Rubble</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9630,12 +9735,13 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000734 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000734">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000919"/>
-        <rdfs:comment>Biogenic substrate layers with conglomerated structures or broken particles that are primarily composed of cemented calcareous worm tubes produced by serpulid worms, e.g., Serpula.</rdfs:comment>
-        <rdfs:label>Serpulid Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.6.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Biogenic substrate layers with conglomerated structures or broken particles that are primarily composed of cemented calcareous worm tubes produced by serpulid worms, e.g., Serpula.</rdfs:comment>
+        <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Serpulid Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000730"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000733"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001662"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -9758,7 +9864,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000744 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000744">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000748"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001655"/>
         <rdfs:comment>Surface substrate layers are dominated by loose shell accumulations with a median particle size of 2 millimeters to &lt; 64 millimeters (Granules and Pebbles). Shells may be broken or whole. The presence of Shell Hash is noted in this subclass (and in the following groups). The presence of living organisms is described in the BC.</rdfs:comment>
         <rdfs:label>Shell Hash</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9771,7 +9877,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000745 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000745">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000748"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001643"/>
         <rdfs:comment>Substrate that is dominated by living or non-living cemented, conglomerated, or otherwise self-adhered shell reefs, with a median particle size of 4,096 millimeters or greater in any dimension. Live reef building fauna may or may not be present; this is described in the BC.</rdfs:comment>
         <rdfs:label>Shell Reef Substrate</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9784,7 +9890,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000746 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000746">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000748"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001636"/>
         <rdfs:comment>Substrate that is dominated by living or non-living shells forming Rubble, with a median particle size of 64 millimeters to &lt; 4,096 millimeters in any dimension (Cobbles and Boulders). Particles may be either loose, individual shells (whole or broken) or—particularly in the larger Rubble sizes—cemented, conglomerated, or otherwise attached so as to form Boulders of consolidated shell material. The presence of Shell Rubble is noted in this subclass (and in the following groups). The presence of living organisms is described in the BC.</rdfs:comment>
         <rdfs:label>Shell Rubble</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9797,7 +9903,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000747 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000747">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000748"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001658"/>
         <rdfs:comment>Biogenic Substrate layers that are dominated by Sand that is primarily composed of shell particles with a median particle size of 0.0625 millimeters to &lt; 2 millimeters (Sand). Shells or remains are generally broken and difficult to identify. For this reason, only substrate-forming taxa that produce distinctive Sand types are listed as substrate groups. When the composition and origin of Sand is unclear, it is assumed to be mineral Sand and is classified as a Geologic Origin substrate.</rdfs:comment>
         <rdfs:label>Shell Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9810,12 +9916,14 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000748 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000748">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
-        <rdfs:comment>Biogenic Substrate that is primarily composed of shells or shell particles. Most (but not all) shell-builders are mollusks.</rdfs:comment>
-        <rdfs:label>Shell Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.5</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Biogenic Substrate that is primarily composed of shells or shell particles. Most (but not all) shell-builders are mollusks.</rdfs:comment>
+        <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Shell Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000744"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000745"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000746"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000747"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -9903,7 +10011,7 @@ The list of biotic communities for this group is long: a few examples are provid
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000755">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000576"/>
-        <rdfs:comment>Geologic Substrate surface layer shows no trace of Gravel and contains &lt; 10% Sand; the remaining Silt-Clay mix is 67% or more Silt.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is &lt; 10% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is 67% or more Silt (particles 0.0040 millimeters to &lt; 0.0625 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Silt</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.5.1</cmecs:unitCode>
@@ -9916,7 +10024,7 @@ The list of biotic communities for this group is long: a few examples are provid
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000756">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000576"/>
-        <rdfs:comment>Geologic Substrate surface layer shows no trace of Gravel and contains &lt; 10% Sand; the remaining Silt-Clay mix is &lt; 33% to 67% Silt.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is &lt; 10% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is &lt; 33% to 67% Silt (particles 0.0040 millimeters to &lt; 0.0625 millimeters in diameter).</rdfs:comment>
         <rdfs:label>Silt-Clay</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.5.2</cmecs:unitCode>
@@ -9967,12 +10075,11 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000760 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000760">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000344"/>
-        <rdfs:comment>Geologic Substrate surface layer contains from a trace (0.01%) of Gravel to 5% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter). For more specificity in this group and in the following four substrate subgroups, the median size of &quot;Gravelly&quot; may be substituted in, e.g., &quot;Slightly Granuley&quot;, &quot;Slightly Pebbly Sand&quot;, &quot;Slightly Cobbley Muddy Sand&quot;, and &quot;Slightly Bouldery Mud&quot;.</rdfs:comment>
-        <rdfs:label>Slightly Gravelly</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.2.2.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Geologic Substrate surface layer contains from a trace (0.01%) of Gravel to 5% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter). For more specificity in this group and in the following four substrate subgroups, the median size of &quot;Gravelly&quot; may be substituted in, e.g., &quot;Slightly Granuley&quot;, &quot;Slightly Pebbly Sand&quot;, &quot;Slightly Cobbley Muddy Sand&quot;, and &quot;Slightly Bouldery Mud&quot;.</rdfs:comment>
+        <rdfs:comment>Unit was split into Sandy Mixes with Trace Gravel and Muddy Mixes with Trace Gravel</rdfs:comment>
+        <rdfs:label>DEPRECATED Slightly Gravelly</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001678"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -9980,7 +10087,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000761 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000761">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000760"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001679"/>
         <rdfs:comment>Geologic Substrate is 0.01% to &lt; 5% Gravel, and the remaining Sand-Mud mix is 90% or more Mud.</rdfs:comment>
         <rdfs:label>Slightly Gravelly Mud</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -9993,7 +10100,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000762 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000762">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000760"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001679"/>
         <rdfs:comment>Geologic Substrate is 0.01% to &lt; 5% Gravel, and the remaining Sand-Mud mix is 50% to &lt; 90% Sand.</rdfs:comment>
         <rdfs:label>Slightly Gravelly Muddy Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -10006,7 +10113,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000763 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000763">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000760"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001678"/>
         <rdfs:comment>Geologic Substrate is 0.01% to &lt; 5% Gravel, and the remaining Sand-Mud mix is 90% or more Sand.</rdfs:comment>
         <rdfs:label>Slightly Gravelly Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -10019,7 +10126,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000764 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000764">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000760"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001678"/>
         <rdfs:comment>Geologic Substrate is 0.01% to &lt; 5% Gravel, and the remaining Sand-Mud mix is 50% to &lt; 90% Mud.</rdfs:comment>
         <rdfs:label>Slightly Gravelly Sandy Mud</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -10533,8 +10640,11 @@ Within Soft Sediment Fauna, the Biotic Group is identified as the biota making u
     <!-- https://w3id.org/CMECS/CMECS_00000803 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000803">
-        <rdfs:comment>Substrate is defined in CMECS as the non-living materials that form an aquatic bottom or seafloor, or that provide a surface (e.g., floating objects, buoys) for growth of attached biota. Substrate may be composed of any substance, natural or manmade. Describing the composition of the substrate is a fundamental part of any ecological classification scheme. Substrate provides context and setting for many aquatic processes, and it provides living space for benthic and attached biota. The Substrate Component (SC) is a characterization of the composition and particle size of the surface layers of the substrate; this component is designed to be compatible with a range of sampling tools. The SC provides guidance to characterize the layers of substrate that support the majority of multicellular life – the upper layer of hard substrate, or (typically) the upper 15 centimeters of soft substrate – in a way that is consistent with a variety of past practices. The SC and the BC describe the non-living (SC) and living (BC) aspects of a plan-view perspective of the seafloor at comparable scales. SC observational unit scales range from sediment corers or grabs, to sediment profile or plan-view photographs of the seafloor, to defined quadrats or transects, to video clips, to high-resolution acoustic images. At larger scales, the structure, shape, and surface pattern of substrate features are described by the Geoform Component (GC).</rdfs:comment>
+        <rdfs:comment>Substrate is defined in the Coastal and Marine Ecological Classification Standard (CMECS) as the non-living materials that form an aquatic bottom or seafloor, or that provide a surface (e.g., floating objects, buoys) for growth of attached biota. Substrate may be composed of any substance, natural or man-made. Describing the composition of the substrate is a fundamental part of any ecological classification scheme. Substrate provides context and setting for many aquatic processes, and it provides living space for benthic and attached biota.
+The Substrate Component (Section 7, p. 98, FGDC-STD-018-2012) is a characterization of the composition and particle size of the surface layers of the substrate; this component is designed to be compatible with a range of sampling tools. The Substrate Component provides guidance to characterize the layers of substrate that support the majority of multicellular life (the upper layer of hard substrate, or (typically) the upper 15 centimeters of soft substrate) in a way that is consistent with a variety of past practices. The Substrate Component and the Biotic Component (Section 8, p. 119, FGDC-STD-018-2012) describe the non-living (Substrate) and living (Biotic) aspects of a plan-view perspective of the seafloor at comparable scales. 
+Substrate Component observational unit scales range from sediment corers or grabs, to sediment profile or plan-view photographs of the seafloor, to defined quadrats or transects, to video clips, to high-resolution acoustic images. At larger scales, the structure, shape, and surface pattern of the substrate are described by the Geoform Component (Section 6, p. 60, FGDC-STD-018-2012).</rdfs:comment>
         <rdfs:label>Substrate Component</rdfs:label>
+        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Component: Substrate </cmecs:unitType>
     </owl:Class>
@@ -11099,12 +11209,13 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000846 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000846">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000024"/>
-        <rdfs:comment>Anthropogenic Substrate that is usually composed primarily of plastics but may include other trash materials (waxed paper, paper, &lt; 50% metal, rubber, glass, cardboard, tires) that were manufactured by humans.</rdfs:comment>
-        <rdfs:label>Trash</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>3.5</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Anthropogenic Substrate that is usually composed primarily of plastics but may include other trash materials (waxed paper, paper, &lt; 50% metal, rubber, glass, cardboard, tires) that were manufactured by humans.</rdfs:comment>
+        <rdfs:comment>Subordinate units moved under new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Trash</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001686"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001690"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001694"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -11125,12 +11236,14 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000848 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000848">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000846"/>
-        <rdfs:comment>Substrate that is dominated by plastics and/or other trash materials with a median particle size of 2 millimeters to &lt; 64 millimeters.</rdfs:comment>
-        <rdfs:label>Trash Bits</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001694"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (2 millimeters to &lt; 64 millimeters, equivalent to Geologic Origin Subgroups: Granule) that cover 50% or greater of the Anthropogenic Substrate surface and is composed of trash/plastic.</rdfs:comment>
+        <rdfs:label>Trash/Plastic Hash</rdfs:label>
+        <cmecs:CMECS_00001668>Change in Level Down|Editorial change(defintion re-worded)</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.5.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
 
@@ -11138,12 +11251,14 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000849 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000849">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000846"/>
-        <rdfs:comment>Substrate that is dominated by plastics and/or other trash materials with a median particle size of 64 millimeters to &lt; 4,096 millimeters.</rdfs:comment>
-        <rdfs:label>Trash Rubble</rdfs:label>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001690"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface trash or plastic pieces or fragments.</rdfs:comment>
+        <rdfs:label>Trash/Plastic Rubble</rdfs:label>
+        <cmecs:CMECS_00001668>Change in Level Down|Editorial change(defintion re-worded)</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.5.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
 
@@ -11368,13 +11483,11 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000867 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000867">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000389"/>
-        <dc:source>Folk, R.L., 1954. “The Distinction between Grain Size and Mineral Composition in Sedimentary-Rock Nomenclature.” The Journal of Geology 62: 344-359.</dc:source>
-        <rdfs:comment>Geologic Substrates with less than 50% cover of Rock Substrate. This class uses Folk (1954) terminology to describe any mix of loose mineral substrate that occurs at any range of sizes—from Boulders to Clay. This hierarchy and the associated terms are shown in Figure 7.2. These classifications may be based on percent weight (e.g., for retrieved samples); percent cover (e.g., for plan-view images); or visual percent composition (for other approaches). Units with bracketed letters, e.g., [G], [mSG], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).</rdfs:comment>
-        <rdfs:label>Unconsolidated Mineral Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Geologic Substrates with less than 50% cover of Rock Substrate. This class uses Folk (1954) terminology to describe any mix of loose mineral substrate that occurs at any range of sizes—from Boulders to Clay. This hierarchy and the associated terms are shown in Figure 7.2. These classifications may be based on percent weight (e.g., for retrieved samples); percent cover (e.g., for plan-view images); or visual percent composition (for other approaches). Units with bracketed letters, e.g., [G], [mSG], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).</rdfs:comment>
+        <rdfs:comment>Replaced by Coarse Unconsolidated Mineral Substrate and Fine Unconsolidated Mineral Substrate classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Unconsolidated Mineral Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000167"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -11511,7 +11624,7 @@ The list of biotic communities for this group is long: a few examples are provid
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000878">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000701"/>
-        <rdfs:comment>Geologic Substrate surface layer contains no trace of Gravel and is composed of &gt; 90% Sand, with a median grain size of 1 millimeter to &lt; 2 millimeters.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand (particles 1 millimeter to &lt; 2 millimeters).</rdfs:comment>
         <rdfs:label>Very Coarse Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.2.1</cmecs:unitCode>
@@ -11523,7 +11636,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000879 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000879">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000914"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001637"/>
         <rdfs:comment>Woody Debris with a median particle size from 256 millimeters to &lt; 4,096 millimeters.</rdfs:comment>
         <rdfs:label>Very Coarse Woody Debris</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -11562,7 +11675,7 @@ The list of biotic communities for this group is long: a few examples are provid
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000882">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000701"/>
-        <rdfs:comment>Geologic Substrate surface layer contains no trace of Gravel and is composed of &gt; 90% Sand with a median grain size of 0.0625 millimeters to &lt; 0.125 millimeters.</rdfs:comment>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand (particles 0.0625 millimeters to &lt; 0.125 millimeters).</rdfs:comment>
         <rdfs:label>Very Fine Sand</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.2.2.2.5</cmecs:unitCode>
@@ -11991,12 +12104,18 @@ Lower Water Column: The area below the pycnocline (or, if absent, below mid-dept
     <!-- https://w3id.org/CMECS/CMECS_00000914 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000914">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000609"/>
-        <rdfs:comment>Organic substrates that are primarily composed of small trees, branches, wood, or wood fragments that are broken into particles with a median particle size from 4 millimeters to 4,096 millimeters.</rdfs:comment>
-        <rdfs:label>Woody Debris</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.3.1.2</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Organic substrates that are primarily composed of small trees, branches, wood, or wood fragments that are broken into particles with a median particle size from 4 millimeters to 4,096 millimeters.</rdfs:comment>
+        <rdfs:comment>Subordinate units deprecated or moved to new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Woody Debris</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000168"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000879"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001637"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001646"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001647"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001648"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001650"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001651"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -12056,12 +12175,14 @@ Lower Water Column: The area below the pycnocline (or, if absent, below mid-dept
     <!-- https://w3id.org/CMECS/CMECS_00000919 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000919">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
-        <rdfs:comment>Biogenic Substrates that are primarily composed of the cemented or conglomerated calcareous or sandy tubes of polychaetes or other worm-like fauna. Living or non-living worm-tube reefs or worm-tube particles constitute the dominant benthic substrate. The presence of Worm Substrate is noted in this class (and in the following subclasses and groups). The presence of living organisms is described in the BC.</rdfs:comment>
-        <rdfs:label>Worm Substrate</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.6</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Class</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Biogenic Substrates that are primarily composed of the cemented or conglomerated calcareous or sandy tubes of polychaetes or other worm-like fauna. Living or non-living worm-tube reefs or worm-tube particles constitute the dominant benthic substrate. The presence of Worm Substrate is noted in this class (and in the following subclasses and groups). The presence of living organisms is described in the BC.</rdfs:comment>
+        <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
+        <rdfs:label>DEPRECATED Worm Substrate</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001639"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001656"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001663"/>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00001681"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -13295,7 +13416,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <!-- https://w3id.org/CMECS/CMECS_00001021 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001021">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000157"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000744"/>
         <rdfs:comment>Shell Hash (with a median particle size of 2 millimeters to &lt; 64 millimeters) that is primarily composed of loose *Coquina* shells and shell bits.</rdfs:comment>
         <rdfs:label>*Coquina* Hash</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -13308,7 +13429,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <!-- https://w3id.org/CMECS/CMECS_00001022 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001022">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000158"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000745"/>
         <rdfs:comment>Shell Reef that is primarily composed of cemented or conglomerated *Coquina* shells. Living clams may or may not be present: this is described in the BC. Note that *Coquina* shells are described in a separate substrate subgroup due to their distinctive features and special significance in many areas.</rdfs:comment>
         <rdfs:label>*Coquina* Reef Substrate</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -13321,7 +13442,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <!-- https://w3id.org/CMECS/CMECS_00001023 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001023">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000159"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000746"/>
         <rdfs:comment>Clam Rubble (with a median particle size of 64 millimeters to &lt; 4,096 millimeters) that is primarily composed of cemented or conglomerated *Coquina* shells.</rdfs:comment>
         <rdfs:label>*Coquina* Rubble</rdfs:label>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -13842,12 +13963,11 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <!-- https://w3id.org/CMECS/CMECS_00001066 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001066">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000364"/>
-        <rdfs:comment>Oozes that are formed primarily from multi-chambered carbonate tests of the foraminiferan Genus *Globigerina*.</rdfs:comment>
-        <rdfs:label>*Globigerina* Ooze</rdfs:label>
-        <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.4.1.2.1</cmecs:unitCode>
-        <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
+        <rdfs:comment>DEPRECATED Oozes that are formed primarily from multi-chambered carbonate tests of the foraminiferan Genus *Globigerina*.</rdfs:comment>
+        <rdfs:comment>Removed but added as example in Foramniferan Ooze defintion</rdfs:comment>
+        <rdfs:label>DEPRECATED *Globigerina* Ooze</rdfs:label>
+        <rdfs:seeAlso rdf:resource="https://w3id.org/CMECS/CMECS_00000364"/>
+        <owl:deprecated rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</owl:deprecated>
     </owl:Class>
     
 
@@ -17946,7 +18066,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001408">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000290"/>
         <rdfs:comment>Motion in a closed, circular form.</rdfs:comment>
-        <rdfs:label>Circular Energy Direction</rdfs:label>
+        <rdfs:label>Circular Energry Direction</rdfs:label>
         <cmecs:unitCode>ED02</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -17958,7 +18078,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001409">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>5 to less than 10 °C</rdfs:comment>
-        <rdfs:label>Cold (Temperature Range)</rdfs:label>
+        <rdfs:label>Cold (Temperataure Range)</rdfs:label>
         <cmecs:unitCode>T03</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -18044,7 +18164,6 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001416">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000165"/>
         <rdfs:label>Complete (90 to 100 percent)</rdfs:label>
-        <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
@@ -18107,7 +18226,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001421">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>10 to less than 15 °C</rdfs:comment>
-        <rdfs:label>Cool (Temperature Range)</rdfs:label>
+        <rdfs:label>Cool (Temperataure Range)</rdfs:label>
         <cmecs:unitCode>T04</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -18248,7 +18367,6 @@ The Deep-Water/Cold-Water Coral Reefs are separated into two Biotic Groups based
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001432">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000165"/>
         <rdfs:label>Dense (70 to less than 80 percent)</rdfs:label>
-        <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
@@ -18321,7 +18439,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001440">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000290"/>
         <rdfs:comment>Descending and perpendicular to the sea surface or bottom.</rdfs:comment>
-        <rdfs:label>Downward Energy Direction</rdfs:label>
+        <rdfs:label>Downward Energry Direction</rdfs:label>
         <cmecs:unitCode>ED03</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -18608,7 +18726,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001463">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>≤ 0 °C</rdfs:comment>
-        <rdfs:label>Frozen/Superchilled (Temperature Range)</rdfs:label>
+        <rdfs:label>Frozen/Superchilled (Temperataure Range)</rdfs:label>
         <cmecs:unitCode>T01</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -18791,7 +18909,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001478">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000290"/>
         <rdfs:comment>Parallel to the sea surface or bottom.</rdfs:comment>
-        <rdfs:label>Horizontal Energy Direction</rdfs:label>
+        <rdfs:label>Horizontal Energry Direction</rdfs:label>
         <cmecs:unitCode>ED04</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -18803,7 +18921,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001479">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>30 to less than 35 °C</rdfs:comment>
-        <rdfs:label>Hot (Temperature Range)</rdfs:label>
+        <rdfs:label>Hot (Temperataure Range)</rdfs:label>
         <cmecs:unitCode>T08</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -19244,7 +19362,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001515">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000290"/>
         <rdfs:comment>Combination of more than one of above directions.</rdfs:comment>
-        <rdfs:label>Mixed Energy Direction</rdfs:label>
+        <rdfs:label>Mixed Energry Direction</rdfs:label>
         <cmecs:unitCode>ED05</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -19305,7 +19423,6 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001520">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000165"/>
         <rdfs:label>Moderate (30 to less than 70 percent)</rdfs:label>
-        <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
@@ -19882,7 +19999,7 @@ The term wall can be applied to steep or vertical areas on the seaward or expose
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001567">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000290"/>
         <rdfs:comment>On land, water currents following a topographic gradient toward the sea.</rdfs:comment>
-        <rdfs:label>Seaward Energy Direction</rdfs:label>
+        <rdfs:label>Seaward Energry Direction</rdfs:label>
         <cmecs:unitCode>ED06</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -19943,7 +20060,7 @@ The term wall can be applied to steep or vertical areas on the seaward or expose
     <!-- https://w3id.org/CMECS/CMECS_00001572 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001572">
-        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000918"/>
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000667"/>
         <rdfs:comment>Areas with ample light that are dominated by hermatypic (reef-building) hard corals or non-hermatypic reef colonizers.
 The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form of the dominant corals that (a) reflect differences in environmental conditions and (b) provide varied habitat circumstances (such as increased cover) for associated fish and invertebrate species. The same coral species can present different growth forms under different environmental circumstances. For example,* Acropora* sp. can have both branching and table growth forms, depending on the environment. To reflect the differences in the physical and biological environments, the same species may be used to define communities in more than one coral group.</rdfs:comment>
         <rdfs:label>Shallow/Mesophotic Coral Reef Biota</rdfs:label>
@@ -20044,7 +20161,6 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001580">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000165"/>
         <rdfs:label>Sparse (1 to less than 30 percent)</rdfs:label>
-        <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
@@ -20278,7 +20394,6 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000165"/>
         <rdfs:comment>To classify a unit to the class and subclass level of the Biotic Component, a user needs to know the relative percent cover of each of the components of the substrate. The degree of substrate cover for each biotic feature is assessed using the following ranges. These categories can also be used as a modifier to describe the density of vegetation (such as seagrasses) or other substrate components, and are useful in the Substrate component as well. Coarse Percent Cover can be described using one of five coarse descriptors, e.g., &quot;Sparse&quot;.</rdfs:comment>
         <rdfs:label>Trace (less than 1 percent)</rdfs:label>
-        <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
     
@@ -20325,7 +20440,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001603">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000290"/>
         <rdfs:comment>Ascending and perpendicular to the sea surface or bottom.</rdfs:comment>
-        <rdfs:label>Upward Energy Direction</rdfs:label>
+        <rdfs:label>Upward Energry Direction</rdfs:label>
         <cmecs:unitCode>ED07</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -20374,7 +20489,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001607">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>0 to less than 5 °C (liquid)</rdfs:comment>
-        <rdfs:label>Very Cold (Temperature Range)</rdfs:label>
+        <rdfs:label>Very Cold (Temperataure Range)</rdfs:label>
         <cmecs:unitCode>T02</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -20422,7 +20537,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001611">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>≥ 35 °C</rdfs:comment>
-        <rdfs:label>Very Hot (Temperature Range)</rdfs:label>
+        <rdfs:label>Very Hot (Temperataure Range)</rdfs:label>
         <cmecs:unitCode>T09</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -20470,7 +20585,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001615">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>25 to less than 30 °C</rdfs:comment>
-        <rdfs:label>Very Warm (Temperature Range)</rdfs:label>
+        <rdfs:label>Very Warm (Temperataure Range)</rdfs:label>
         <cmecs:unitCode>T07</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -20506,7 +20621,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001618">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>20 to less than 25 °C</rdfs:comment>
-        <rdfs:label>Warm (Temperature Range)</rdfs:label>
+        <rdfs:label>Warm (Temperataure Range)</rdfs:label>
         <cmecs:unitCode>T06</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
@@ -20619,7 +20734,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001631">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000640"/>
         <rdfs:comment>Salinity is considered a classifier for the Water Column Component, i.e., it is an essential parameter for measurement in order to effectively classify the water column. However, users may wish to apply the CMECS terminology for salinity within other components when the water column itself is not being classified. The salinity ranges are repeated here in the modifier section to allow this convenience for users.</rdfs:comment>
-        <rdfs:label>Salinity Regime (Modifier)</rdfs:label>
+        <rdfs:label xml:lang="en">Salinity Regime (Modifier)</rdfs:label>
         <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
         <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier</cmecs:unitType>
@@ -20649,6 +20764,823 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
         <cmecs:componentCode>B</cmecs:componentCode>
         <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001635 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001635">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001636"/>
+        <rdfs:label xml:lang="en">Algal Rubble</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001636 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001636">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001682"/>
+        <rdfs:label xml:lang="en">Biogenic Rubble</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001637 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001637">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001636"/>
+        <rdfs:label xml:lang="en">Wood Rubble</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001639 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001639">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001636"/>
+        <rdfs:label xml:lang="en">Worm Rubble</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001640 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001640">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001652"/>
+        <rdfs:comment>Consolidated Biogenic Substrate that is a relatively flat, continuous area of solid substrate greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of low-relief carbonate deposits formed by the cemented, remnant skeletons and tests of living biota.</rdfs:comment>
+        <rdfs:label xml:lang="en">Biogenic Pavement</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001641 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001641">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001640"/>
+        <rdfs:comment>Consolidated Biogenic Substrate that is a relatively flat, continuous area of solid substrate greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of carbonate deposits formed by the cemented, remnant skeletons of corals.</rdfs:comment>
+        <rdfs:label xml:lang="en">Coraline Pavement</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001642 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001642">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001643"/>
+        <rdfs:label xml:lang="en">Algal Reef Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001643 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001643">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001652"/>
+        <rdfs:label xml:lang="en">Reef Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Non-living, consolidated material formed by living biota that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Biogenic Substrate surface. Examples include mounds, ridges, or pavements composed of calcium carbonate reef material generated by corals, cemented aggregations of shells and worm tubes, and very large woody particles.</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001644 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001644">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001642"/>
+        <rdfs:label xml:lang="en">Rhodolith Reef</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001646 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001646">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001649"/>
+        <rdfs:comment>Consolidated Biogenic Substrate that is greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension,  that cover 50% or greater of the Biogenic Substrate surface, and is composed of non-living trees.</rdfs:comment>
+        <rdfs:label xml:lang="en">Tree</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001647 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001647">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001649"/>
+        <rdfs:comment>Consolidated Biogenic Substrate that is greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of non-living, very large roots, root balls, or root networks.</rdfs:comment>
+        <rdfs:label xml:lang="en">Very Large Root or Root Network</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001648 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001648">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001649"/>
+        <rdfs:comment>Consolidated Biogenic Substrate that is greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of non-living, very large branches.</rdfs:comment>
+        <rdfs:label xml:lang="en">Very Large Trunk or Branch</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001649 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001649">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001650"/>
+        <rdfs:comment>Consolidated Biogenic Substrate that is greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of non-living trees, trunks, branches, roots or root structures.</rdfs:comment>
+        <rdfs:label xml:lang="en">Very Large Trunk or Root</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001650 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001650">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001652"/>
+        <rdfs:label xml:lang="en">Very Large Wood</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Consolidated Biogenic Substrate that is greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension, and is composed of non-living, very large wood fragments that cover 50% or greater of the Biogenic Substrate surface. These include rooted, partially buried and sunken intact non-living woody plant structures, such as remnant trunks, branches, roots and root networks.</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001651 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001651">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001649"/>
+        <rdfs:comment>Consolidated Biogenic Substrate that is greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of non-living, very large wood fragments.</rdfs:comment>
+        <rdfs:label xml:lang="en">Very Large Wood Fragment</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001652 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001652">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
+        <rdfs:comment>Non-living, consolidated material formed by living biota that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Biogenic Substrate surface. Examples include mounds, ridges, or pavements composed of calcium carbonate reef material generated by corals, cemented aggregations of shells and worm tubes, and very large woody particles.</rdfs:comment>
+        <rdfs:label xml:lang="en">Consolidated Biogenic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:unitType>CMECS Substrate Component: Class</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001653 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001653">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000193"/>
+        <rdfs:label xml:lang="en">Acropora Hash</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001654 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001654">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001655"/>
+        <rdfs:label xml:lang="en">Algal Hash</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001655 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001655">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001665"/>
+        <rdfs:label xml:lang="en">Biogenic Hash</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001656 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001656">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001655"/>
+        <rdfs:label xml:lang="en">Worm Hash</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001657 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001657">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000201"/>
+        <rdfs:label xml:lang="en">Diploria Sand</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001658 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001658">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001665"/>
+        <rdfs:label xml:lang="en">Biogenic Sand</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001659 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001659">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000747"/>
+        <rdfs:label xml:lang="en">Mussel Sand</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001660 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001660">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000747"/>
+        <rdfs:label xml:lang="en">Oyster Sand</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001661 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001661">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001663"/>
+        <rdfs:label xml:lang="en">Sabellariid Sand</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001662 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001662">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001663"/>
+        <rdfs:label xml:lang="en">Serpulid Sand</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001663 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001663">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001658"/>
+        <rdfs:label xml:lang="en">Worm Sand</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001664 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001664">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001665"/>
+        <rdfs:label xml:lang="en">Fine Organic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001665 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001665">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
+        <rdfs:label xml:lang="en">Fine Unconsolidated Biogenic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001666 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001666">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000684"/>
+        <rdfs:comment>Substrate dominated by tar, asphalt, or other hydrocarbon material that has extruded onto the seafloor.  This material has cooled from a semi-liquid state and now forms a potential attachment surface for biota.  This substrate is usually associated with seeps, tar mounds, or tar lilly geoforms.</rdfs:comment>
+        <rdfs:label xml:lang="en">Tar</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001672 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001672">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000167"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is 5% to &lt; 80% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter) with the remaining mix composed of Sand and/or Mud.</rdfs:comment>
+        <rdfs:label xml:lang="en">Mixed Gravels</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001670>Classifications throughout the Substrate Component are based on visual percent cover for plan-view images, or for other approaches (e.g., retrieved samples) they may be based on percent weight, percent composition, or other metrics.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>The Co-occurring Elements Modifier (see Section 10.6.2, p. 213, FGDC-STD-018-2012) may be used to describe mixes of origins as well as the presence of secondary substrate units within the observational unit (i.e., image frame, sampling grid cell, etc.)</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001671>The CMECS Coarse, Mixed, and Fine Unconsolidated Mineral Substrate Classes and subordinate units use Folk (1954) terminology to describe particle sizes of loose mineral substrates as shown in the ternary diagram in Figure 7.2 . Units with bracketed letters, e.g., [G], [(g)sM], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).</cmecs:CMECS_00001671>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitCode></cmecs:unitCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001673 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001673">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000393"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel (particles 64 millimeters to &lt; 4,096 millimeters diameter).</rdfs:comment>
+        <rdfs:label xml:lang="en">Very Coarse Gravel</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitCode></cmecs:unitCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001674 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001674">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000393"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel, with a Gravel size of 2 millimeters to &lt; 64 millimeters.</rdfs:comment>
+        <rdfs:label xml:lang="en">Moderately Coarse Gravel</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001675 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001675">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000344"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is &gt; 50% Mud (particles &lt; 0.0625 millimeters in diameter) with the remainder composed of Sand (particles 0.0625 millimeters to 2 millimeters in diameter).</rdfs:comment>
+        <rdfs:label xml:lang="en">Muddy Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001676 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001676">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000344"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface contains no trace of Gravel and is &gt;50% Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter) with the remainder composed of Mud (particles &lt; 0.0625 millimeters in diameter).</rdfs:comment>
+        <rdfs:label xml:lang="en">Sandy Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001677 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001677">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000344"/>
+        <rdfs:comment>Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel to &lt; 5% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter). The remainder is a Sand-Mud mix.</rdfs:comment>
+        <rdfs:label xml:lang="en">Trace Gravels</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001678 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001678">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001677"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter) to &lt; 5% Gravel, and the remaining Sand-Mud mix is 50% or more Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter).</rdfs:comment>
+        <rdfs:label xml:lang="en">Sandy Mixes with Trace Gravel</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Type of Change: Split (Parent Unit: Slightly Gravelly)</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001679 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001679">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001677"/>
+        <rdfs:comment>Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter) to &lt;5% Gravel, and the remaining Sand-Mud mix is 50% or more Mud (particles less than 0.0625 millimeters in diameter).</rdfs:comment>
+        <rdfs:label xml:lang="en">Muddy Mixes with Trace Gravel</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Type of Change: Split (Parent Unit: Slightly Gravelly)</cmecs:CMECS_00001669>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001681 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001681">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001643"/>
+        <rdfs:label xml:lang="en">Worm Reef Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001682 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001682">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
+        <rdfs:label xml:lang="en">Coarse Unconsolidated Biogenic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001683 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001683">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000024"/>
+        <rdfs:comment>Anthropogenic Substrates that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Anthropogenic Substrate surface. Examples include man-made materials such as metal pipelines, concrete bulkheads, and treated-wood pilings that are either fixed (adhered to, embedded in, or otherwise attached to) the environment.</rdfs:comment>
+        <rdfs:label xml:lang="en">Fixed Anthropogenic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Class</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001684 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001684">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000024"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface. Particles may be either loose whole or broken fragments of man-made material or in the case of wood, biogenic but significantly altered.</rdfs:comment>
+        <rdfs:label xml:lang="en">Coarse Unconsolidated Anthropogenic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Class</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001685 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001685">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000024"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (0.004 to &lt; 64 millimeters, equivalent to Geologic Origin Subgroups: Granule and Pebble, and Groups: Sand, and Mud) that cover 50% or greater of the Anthropogenic Substrate surface.</rdfs:comment>
+        <rdfs:label xml:lang="en">Fine Unconsolidated Anthropogenic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Class</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001686 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001686">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001683"/>
+        <rdfs:comment>Anthropogenic Substrates that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Anthropogenic Substrate surface, are consolidated or fixed in the surrounding environment and composed of plastic, trash, or other disposed materials. Examples include PVC piping, valves, or other infrastructural objects.</rdfs:comment>
+        <rdfs:label xml:lang="en">Fixed Trash/Plastic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001687 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001687">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000028"/>
+        <rdfs:comment>Anthropogenic Substrates that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Anthropogenic Substrate surface, are  consolidated or fixed in the surrounding environment and are composed of wood, such as pilings or other support structures.</rdfs:comment>
+        <rdfs:label xml:lang="en">Piling Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001688 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001688">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001684"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface and are composed of aggregate pieces, or fragments.</rdfs:comment>
+        <rdfs:label xml:lang="en">Coarse Unconsolidated Aggregate Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001689 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001689">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001684"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface and are composed of metal pieces or fragments.</rdfs:comment>
+        <rdfs:label xml:lang="en">Coarse Unconsolidated Metal Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001690 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001690">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001684"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface and are composed of plastic or trash pieces or fragments.</rdfs:comment>
+        <rdfs:label xml:lang="en">Coarse Unconsolidated Trash/Plastic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001691 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001691">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001684"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface and are composed of wood pieces or fragments. Examples include pallets, boards, framing, or other human constructed/processed wooden objects. Smaller pieces of anthropogenic wood may be interspersed with the dominant larger fragments.</rdfs:comment>
+        <rdfs:label xml:lang="en">Coarse Unconsolidated Anthropogenic Wood Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001692 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001692">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001685"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (0.004 to &lt; 64 millimeters, equivalent to Geologic Origin Subgroups: Granule and Pebble, and Groups: Sand, and Mud) that cover 50% or greater of the Anthropogenic Substrate surface and is composed of aggregate material.</rdfs:comment>
+        <rdfs:label xml:lang="en">Fine Unconsolidated Aggregate Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001693 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001693">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001685"/>
+        <rdfs:comment>Anthropogenic unconsolidated substrate that is dominated by metal material with particle sizes ranging from 0.0625 millimeters to &lt; 64 millimeters (size of sand to hash) and is composed of metal.</rdfs:comment>
+        <rdfs:label xml:lang="en">Fine Unconsolidated Metal Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001694 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001694">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001685"/>
+        <rdfs:comment>Anthropogenic unconsolidated substrate that is dominated by metal material with particle sizes ranging from 0.0625 millimeters to &lt; 64 millimeters (size of sand to hash) and is composed of trash/plastic.</rdfs:comment>
+        <rdfs:label xml:lang="en">Fine Unconsolidated Trash/Plastic Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001695 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001695">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001685"/>
+        <rdfs:comment>Anthropogenic unconsolidated substrate that is dominated by metal material with particle sizes ranging from 0.0625 millimeters to &lt; 64 millimeters (size of sand to hash) and is composed of wood.</rdfs:comment>
+        <rdfs:label xml:lang="en">Fine Unconsolidated Anthropogenic Wood Substrate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001696 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001696">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001695"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (0.0625 millimeters to &lt; 2 millimeters, equivalent to Geologic Origin Subgroup: Sand) that cover 50% or greater of the Anthropogenic Substrate surface and is composed of wood.</rdfs:comment>
+        <rdfs:label xml:lang="en">Anthropogenic Wood Fines</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001697 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001697">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001694"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (0.0625 millimeters to &lt; 2 millimeters, equivalent to Geologic Origin Subgroup: Sand) that cover 50% or greater of the Anthropogenic Substrate surface and is composed of trash/plastic.</rdfs:comment>
+        <rdfs:label xml:lang="en">Trash/Plastic Fines</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001698 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001698">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001693"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (0.0625 millimeters to &lt; 2 millimeters, equivalent to Geologic Origin Subgroup: Sand) that cover 50% or greater of the Anthropogenic Substrate surface and is composed of metal.</rdfs:comment>
+        <rdfs:label xml:lang="en">Metal Fines</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001699 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001699">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001692"/>
+        <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Fine Anthropogenic particles (0.0625 millimeters to &lt; 2 millimeters, equivalent to Geologic Origin Subgroup: Sand) that cover 50% or greater of the Anthropogenic Substrate surface and is composed of aggregate particles or fragments.</rdfs:comment>
+        <rdfs:label xml:lang="en">Aggregate Fines</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001701 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001701">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000016"/>
+        <rdfs:comment>Artificially built-up material that is either natural or man-made.</rdfs:comment>
+        <rdfs:label xml:lang="en">Constructed</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:unitCode>AI11</cmecs:unitCode>
+        <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001702 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001702">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000639"/>
+        <rdfs:comment>A substrate or deposit formed by the oxidation and precipitation of minerals from a body of water. Mineral precipitate substrates may form nodules, crusts and geoforms.</rdfs:comment>
+        <rdfs:label xml:lang="en">Mineral Precipitate</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001670>Specify the mineral composition if known. 
+Use in combination with Substrate or Geoform Component units as needed.</cmecs:CMECS_00001670>
+        <cmecs:unitCode>MP</cmecs:unitCode>
+        <cmecs:unitType>CMECS Modifier</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001703 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001703">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001702"/>
+        <rdfs:comment>A layer of consolidated substrate overlying other consolidated or unconsolidated material. Crusts may be composed of chemical precipitates (e.g. ferromanganese, salt), calcareous or crustose algae, or may form via sediment diagenesis, resulting in surficial lithification.</rdfs:comment>
+        <rdfs:label xml:lang="en">Crust</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:unitCode>MP01</cmecs:unitCode>
+        <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001704 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001704">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001702"/>
+        <rdfs:comment>Round or spherical concretions that form by accreting in concentric layers around a fragment of some other mineral or biological material, called a nucleus.</rdfs:comment>
+        <rdfs:label xml:lang="en">Nodules</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:unitCode>MP02</cmecs:unitCode>
+        <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001705 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001705">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001702"/>
+        <rdfs:comment>A thin or patchy layer of consolidated substrate overlying other consolidated or unconsolidated material. Patina may be composed of chemical precipitates (e.g. ferromanganese, salt), calcareous or crustose algae, or may form via sediment diagenesis, resulting in surficial lithification.</rdfs:comment>
+        <rdfs:label xml:lang="en">Patina</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:unitCode>MP03</cmecs:unitCode>
+        <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001706 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001706">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000804"/>
+        <rdfs:comment>Containing voids, pores, or interstices, which may or may not connect.</rdfs:comment>
+        <rdfs:label xml:lang="en">Porous</rdfs:label>
+        <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:unitCode>SD17</cmecs:unitCode>
+        <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
     </owl:Class>
 </rdf:RDF>
 
