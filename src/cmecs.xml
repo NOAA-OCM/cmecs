@@ -160,6 +160,27 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- https://w3id.org/CMECS/hasUnitStatus -->
+
+    <owl:DatatypeProperty rdf:about="https://w3id.org/CMECS/hasUnitStatus">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+        <rdfs:domain rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Classes
     //
     ///////////////////////////////////////////////////////////////////////////////////////
@@ -481,16 +502,28 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000024">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000803"/>
-        <rdfs:comment>Benthic substrates where sufficient evidence shows that Anthropogenic Substrate exceeds (is dominant over) that of both Geologic and Biogenic Substrates, when all are considered separately. Anthropogenic substrates are composed of material created by human physical, chemical, or other processes. Examples, include metals, plastics, ceramics, cement, and construction aggregates. Wood, although it is biogenic in origin, is included here to describe instances where it has been shaped, textured, treated, or otherwise altered from its natural condition and thus has different habitat suitability and/or function. 
-Anthropogenic substrates are classified at the Class level by particle size and degree of stability in relation to the surrounding substrate, i.e., fixed (immobile and generally large structures or fragments) or unconsolidated (potentially mobile, of varying particle sizes); Subclass and Group level units are further refined by particle size and composition. The Anthropogenic Origin does not include any Subgroup units but users may provide further descriptive detail if desired. Particle size bins at the Anthropogenic Substrate Class and Subclass levels correspond to the Geologic Substrate units as follows: Class: Fixed Anthropogenic Substrate is equivalent to the Geologic Origin Class: Consolidated Mineral Substrate (≥ 4,096 millimeters in any dimension); Class: Coarse Unconsolidated Anthropogenic Substrate is equivalent to the Geologic Origin Group: Very Coarse Gravel (64 millimeters to &lt; 4,096 millimeters in diameter); Class: Fine Unconsolidated Anthropogenic Substrate Hash is equivalent to the Geologic Origin Groups: Moderately Coarse Gravel (2 millimeters to &lt; 64 millimeters in diameter), Sand (0.0625 millimeters to &lt; 2 millimeters in diameter), and Mud (&lt; 0.0625 millimeters in diameter).
-These units are derived from Wentworth (1922), and they can be broken down into Wentworth grain size classes for greater precision, if desired.</rdfs:comment>
+        <rdfs:comment xml:lang="en-us">Benthic substrates where sufficient evidence shows that Anthropogenic Substrate exceeds (is dominant over) that of both Geologic and Biogenic Substrates, when all are considered separately. Anthropogenic substrates are composed of material created by human physical, chemical, or other processes. Examples, include metals, plastics, ceramics, cement, and construction aggregates. Wood, although it is biogenic in origin, is included here to describe instances where it has been shaped, textured, treated, or otherwise altered from its natural condition and thus has different habitat suitability and/or function.</rdfs:comment>
         <rdfs:label>Anthropogenic Substrate</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
-        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001670>If the Substrate Origin cannot be definitively determined, the analyst may opt to use “Indeterminate”.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>Mixes of origins are addressed through Co-occurring Elements Modifiers (see Section 10); additional Modifier terms, (listed in Section 7.6 and described in detail in Section 10) can be applied as needed to further describe substrate characteristics.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>See Also: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001671>Anthropogenic substrates are classified at the Class level by particle size and degree of stability in relation to the surrounding substrate, i.e., fixed (immobile and generally large structures or fragments) or unconsolidated (potentially mobile, of varying particle sizes); Subclass and Group level units are further refined by particle size and composition. The Anthropogenic Origin does not include any Subgroup units but users may provide further descriptive detail if desired. Particle size bins at the Anthropogenic Substrate Class and Subclass levels correspond to the Geologic Substrate units as follows: 
+•	Class: Fixed Anthropogenic Substrate is equivalent to the Geologic Origin Class: Consolidated Mineral Substrate (≥ 4,096 millimeters in any dimension)
+•	Class: Coarse Unconsolidated Anthropogenic Substrate is equivalent to the Geologic Origin Group: Very Coarse Gravel (64 millimeters to &lt; 4,096 millimeters in diameter)
+•	Class: Fine Unconsolidated Anthropogenic Substrate Hash is equivalent to the Geologic Origin Groups: Moderately Coarse Gravel (2 millimeters to &lt; 64 millimeters in diameter), Sand (0.0625 millimeters to &lt; 2 millimeters in diameter), and Mud (&lt; 0.0625 millimeters in diameter).
+The particle sizes for these units are derived from Wentworth (1922), and they can be broken down into Wentworth grain size classes for greater precision, if desired.</cmecs:CMECS_00001671>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3</cmecs:unitCode>
         <cmecs:unitType>CMECS Component: Substrate Component Origin</cmecs:unitType>
     </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://w3id.org/CMECS/CMECS_00000024"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
+        <owl:annotatedTarget xml:lang="en-us">Benthic substrates where sufficient evidence shows that Anthropogenic Substrate exceeds (is dominant over) that of both Geologic and Biogenic Substrates, when all are considered separately. Anthropogenic substrates are composed of material created by human physical, chemical, or other processes. Examples, include metals, plastics, ceramics, cement, and construction aggregates. Wood, although it is biogenic in origin, is included here to describe instances where it has been shaped, textured, treated, or otherwise altered from its natural condition and thus has different habitat suitability and/or function.</owl:annotatedTarget>
+        <dc:source>Wentworth, C. K. 1922. “A Scale of Grade and Class Terms for Clastic Sediments.” The Journal of Geology 30: 377–392</dc:source>
+        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+    </owl:Axiom>
     
 
 
@@ -1494,12 +1527,31 @@ The Biotic Group level of classification here is a modification of the &quot;Lit
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000101">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000803"/>
-        <rdfs:comment>Substrates where percent cover of non-living Biogenic Substrate exceeds percent cover of both Geologic Substrate and Anthropogenic Substrates, when all are considered separately. Biogenic substrates are classified at the higher levels by taxonomy, and at the lower levels by median particle size—using the units Reef Substrate (&gt; 4,096 millimeters), Rubble (64 millimeters to &lt; 4,096 millimeters), Hash (2 millimeters to &lt; 64 millimeters), and Sand (0.0625 millimeters to &lt; 2 millimeters). These units are derived from Wentworth (1922), and they can be broken down into Wentworth grain size classes for greater precision, if desired. Biogenic Substrate classifications may be based on percent weight (e.g., for retrieved samples); percent cover (e.g., for plan-view images); and visual percent composition (for other approaches). The terms &quot;dominant&quot; and &quot;primarily&quot; in the Biogenic Substrate Origin describe the substrate type that is present in the greatest percent cover, greatest percent weight, or greatest visual percent composition. When two Biogenic Substrate types are present, &quot;dominant&quot; and &quot;primarily&quot; are equivalent to &quot;&gt; 50%&quot;. When three or more types exist, the dominant type may occur at a lower percent-of-total value. Biogenic Substrate types that are present, but do not constitute the dominant feature, may be included as a Co-occurring Element modifier (see Section 10).</rdfs:comment>
+        <rdfs:comment>Benthic substrates where sufficient evidence shows that Biogenic Substrate exceeds (is dominant over) that of both Geologic and Anthropogenic Substrates, when all are considered separately. Biogenic substrates are the non-living material that supports, interperses, or overlays the living biota described in the Biotic Component (see Section 7.2), and is either generated by living biota, such as shells and tests; or are non-living remnants of living biota such as skeletons, dead wood, and detritus.</rdfs:comment>
         <rdfs:label>Biogenic Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001670>If the Substrate Origin cannot be definitively determined, the analyst may opt to use “Indeterminate”.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>Mixes of origins are addressed through Co-occurring Elements Modifiers (see Section 10); additional Modifier terms, (listed in Section 7.6 and described in detail in Section 10) can be applied as needed to further describe substrate characteristics.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>See Also: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001671>Biogenic substrates are classified at the Class level by the level of consolidation, and at the Subclass and Group levels by particle size and biological source of the material. Subgroup units provide further descriptive detail where possible. Particle size bins at the Biogenic Substrate Class, Subclass, and Group levels correspond to the Geologic Substrate units as follows: 
+- Class: Consolidated Biogenic Substrate is equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate (≥ 4,096 millimeters in any dimension)
+- Subclass: Biogenic Rubble is equivalent to the Geologic Substrate Group: Very Coarse Gravel (64 millimeters to &lt; 4,096 millimeters in diameter)
+- Subclass: Biogenic Hash is equivalent to the Geologic Substrate Group: Moderately Coarse Gravel (2 millimeters to &lt; 64 millimeters in diameter)
+- Subclass: Biogenic Sand is equivalent to the Geologic Origin Group: Sand (0.0625 millimeters to &lt; 2 millimeters in diameter)
+- Group: Organic Mud is equivalent to the Geologic Origin Group: Mud (&lt; 0.0625 millimeters in diameter)
+The particle sizes for these units are derived from Wentworth (1922), and they can be broken-down into Wentworth grain size classes for greater precision, if desired.</cmecs:CMECS_00001671>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Origin</cmecs:unitType>
     </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://w3id.org/CMECS/CMECS_00000101"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
+        <owl:annotatedTarget>Benthic substrates where sufficient evidence shows that Biogenic Substrate exceeds (is dominant over) that of both Geologic and Anthropogenic Substrates, when all are considered separately. Biogenic substrates are the non-living material that supports, interperses, or overlays the living biota described in the Biotic Component (see Section 7.2), and is either generated by living biota, such as shells and tests; or are non-living remnants of living biota such as skeletons, dead wood, and detritus.</owl:annotatedTarget>
+        <dc:source>FGDC (Federal Geographic Data Committee), Marine and Coastal Spatial Data Subcommittee. 2012. FGDC-STD-018-2012. “Coastal and Marine Ecological Classification Standard.” Reston, VA. Federal Geographic Data Committee.</dc:source>
+        <dc:source>Wentworth, C. K. 1922. “A Scale of Grade and Class Terms for Clastic Sediments.” The Journal of Geology 30: 377–392</dc:source>
+        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+    </owl:Axiom>
     
 
 
@@ -2335,7 +2387,9 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <rdfs:label>Coarse Unconsolidated Mineral Substrate</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
-        <cmecs:CMECS_00001669>Name change|Change in level up: from subclass to class|Editorial Changes: defintion re-worded|Attribute Changes: Unit Type change, Unit Code change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Changes: Unit Type change, Unit Code change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Change in level up: subclass to class</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Classifications throughout the Substrate Component are based on visual percent cover for plan-view images, or for other approaches (e.g., retrieved samples) they may be based on percent weight, percent composition, or other metrics.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>The Co-occurring Elements Modifier (see Section 10.6.2, p. 213, FGDC-STD-018-2012) may be used to describe mixes of origins as well as the presence of secondary substrate units within the observational unit (i.e., image frame, sampling grid cell, etc.)</cmecs:CMECS_00001670>
@@ -5259,12 +5313,22 @@ The GC is organized into four subcomponents that occur along a spatial continuum
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000389">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000803"/>
-        <rdfs:comment>Benthic substrates where sufficient evidence shows that Geologic Substrate exceeds (is dominant over) both Biogenic and Anthropogenic Substrates, considered separately. Geologic Substrates are composed of consolidated igneous, metamorphic, or sedimentary rock or finer, unconsolidated particles and are classified according to particle size and mixes of particle sizes. When Geologic Substrate is present, but does not constitute the dominant substrate origin, it may be included as a Co-occurring Element.</rdfs:comment>
+        <rdfs:comment>Benthic substrates where percent cover of Rock and Unconsolidated Mineral Substrate exceeds percent cover of both Biogenic and Anthropogenic Substrates, considered separately. When Geologic Substrate is present, but does not constitute the dominant substrate origin, it may be included as a Co-occurring Element.</rdfs:comment>
         <rdfs:label>Geologic Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001670>If the Substrate Origin cannot be definitively determined, the analyst may opt to use “Indeterminate”.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>See Also: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Origin</cmecs:unitType>
     </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://w3id.org/CMECS/CMECS_00000389"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
+        <owl:annotatedTarget>Benthic substrates where percent cover of Rock and Unconsolidated Mineral Substrate exceeds percent cover of both Biogenic and Anthropogenic Substrates, considered separately. When Geologic Substrate is present, but does not constitute the dominant substrate origin, it may be included as a Co-occurring Element.</owl:annotatedTarget>
+        <dc:source>FGDC (Federal Geographic Data Committee), Marine and Coastal Spatial Data Subcommittee. 2012. FGDC-STD-018-2012. “Coastal and Marine Ecological Classification Standard.” Reston, VA. Federal Geographic Data Committee.</dc:source>
+        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+    </owl:Axiom>
     
 
 
@@ -9094,6 +9158,7 @@ High inputs of land drainage can promote increased primary productivity, which m
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000389"/>
         <rdfs:comment>Igneous, metamorphic, or sedimentary rock with particle sizes greater than or equal to 4.0 meters (4,096 millimeters) in any dimension that cover 50% or greater of the Geologic Substrate surface.</rdfs:comment>
         <rdfs:label>Consolidated Mineral Substrate</rdfs:label>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>1.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Class</cmecs:unitType>
@@ -10644,10 +10709,30 @@ Within Soft Sediment Fauna, the Biotic Group is identified as the biota making u
 The Substrate Component (Section 7, p. 98, FGDC-STD-018-2012) is a characterization of the composition and particle size of the surface layers of the substrate; this component is designed to be compatible with a range of sampling tools. The Substrate Component provides guidance to characterize the layers of substrate that support the majority of multicellular life (the upper layer of hard substrate, or (typically) the upper 15 centimeters of soft substrate) in a way that is consistent with a variety of past practices. The Substrate Component and the Biotic Component (Section 8, p. 119, FGDC-STD-018-2012) describe the non-living (Substrate) and living (Biotic) aspects of a plan-view perspective of the seafloor at comparable scales. 
 Substrate Component observational unit scales range from sediment corers or grabs, to sediment profile or plan-view photographs of the seafloor, to defined quadrats or transects, to video clips, to high-resolution acoustic images. At larger scales, the structure, shape, and surface pattern of the substrate are described by the Geoform Component (Section 6, p. 60, FGDC-STD-018-2012).</rdfs:comment>
         <rdfs:label>Substrate Component</rdfs:label>
-        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001670>For All Substrate Component Units:
+CMECS components are intended to be scale-independent and method-independent; the reported scale of substrate “patchiness” is determined by the scale of observation, and so is somewhat method-dependent. To assist with comparability, practitioners should always report sampling gear, methods, units, scale of observation, and scale of reporting in project metadata. Data users should be aware of the methods that were used to collect and report data, and should make note of any data limitations that may exist.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>For All Substrate Component Units:
+CMECS does not prescribe metrics or methodologies for substrate analysis or interpretation at this time. Classifications throughout the Substrate Component may be based on visual percent cover for plan-view images or metrics such as percent weight, or percent composition for other approaches (e.g., retrieved samples).
+.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>For All Substrate Component Units:
+Modifier terms (Section 7.6 and Section 10, FGDC-STD-018-2012) can be applied as needed to further describe substrate characteristics. Recommended modifiers for substrate units include:
+Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence.</cmecs:CMECS_00001670>
+        <cmecs:CMECS_00001670>For All Substrate Component Units:
+The Co-occurring Elements Modifier (see Section 10.6.2, p. 213, FGDC-STD-018-2012) may be used to describe mixes of origins as well as the presence of secondary substrate units within the observational unit (i.e., image frame, sampling grid cell, etc.).</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
+        <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Component: Substrate </cmecs:unitType>
     </owl:Class>
+    <owl:Axiom>
+        <owl:annotatedSource rdf:resource="https://w3id.org/CMECS/CMECS_00000803"/>
+        <owl:annotatedProperty rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
+        <owl:annotatedTarget>Substrate is defined in the Coastal and Marine Ecological Classification Standard (CMECS) as the non-living materials that form an aquatic bottom or seafloor, or that provide a surface (e.g., floating objects, buoys) for growth of attached biota. Substrate may be composed of any substance, natural or man-made. Describing the composition of the substrate is a fundamental part of any ecological classification scheme. Substrate provides context and setting for many aquatic processes, and it provides living space for benthic and attached biota.
+The Substrate Component (Section 7, p. 98, FGDC-STD-018-2012) is a characterization of the composition and particle size of the surface layers of the substrate; this component is designed to be compatible with a range of sampling tools. The Substrate Component provides guidance to characterize the layers of substrate that support the majority of multicellular life (the upper layer of hard substrate, or (typically) the upper 15 centimeters of soft substrate) in a way that is consistent with a variety of past practices. The Substrate Component and the Biotic Component (Section 8, p. 119, FGDC-STD-018-2012) describe the non-living (Substrate) and living (Biotic) aspects of a plan-view perspective of the seafloor at comparable scales. 
+Substrate Component observational unit scales range from sediment corers or grabs, to sediment profile or plan-view photographs of the seafloor, to defined quadrats or transects, to video clips, to high-resolution acoustic images. At larger scales, the structure, shape, and surface pattern of the substrate are described by the Geoform Component (Section 6, p. 60, FGDC-STD-018-2012).</owl:annotatedTarget>
+        <dc:source>FGDC (Federal Geographic Data Committee), Marine and Coastal Spatial Data Subcommittee. 2012. FGDC-STD-018-2012. “Coastal and Marine Ecological Classification Standard.” Reston, VA. Federal Geographic Data Committee.</dc:source>
+        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+    </owl:Axiom>
     
 
 
