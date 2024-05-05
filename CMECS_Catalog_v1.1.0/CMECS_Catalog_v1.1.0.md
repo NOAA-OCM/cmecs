@@ -20,14 +20,7 @@ All other Settings, Components, Modifiers and units remain unchanged from the Co
 
 # Biogeographic Setting
 
-The CMECS Biogeographic Setting is adopted from the Marine Ecoregions of
-the World (MEOW) technique (Spalding et al, 2007) for characterizing
-bioregions of marine coastal and shelf environments. MEOW provides
-global coverage with a nested, three-tiered system of realms, provinces,
-and ecoregions (moving from larger-scale to smaller-scale units). CMECS
-proposes to use the MEOW realms, provinces, and ecoregions for
-describing biogeographic elements of the Estuarine System and the Marine
-Nearshore and Offshore Subsystems.
+The CMECS Biogeographic Setting is adopted from the Marine Ecoregions of the World (MEOW) technique (Spalding et al, 2007) for characterizing bioregions of marine coastal and shelf environments. MEOW provides global coverage with a nested, three-tiered system of realms, provinces, and ecoregions (moving from larger-scale to smaller-scale units). CMECS proposes to use the MEOW realms, provinces, and ecoregions for describing biogeographic elements of the Estuarine System and the Marine Nearshore and Offshore Subsystems.
 
 ## Arctic Realm
 
@@ -181,7 +174,7 @@ waters to a depth of 2 meters below Mean Lower Low Water (MLLW), or to
 the maximum extent of non-persistent emergents, whichever depth is
 greater.
 
-### **Subsystem: Lacustrine Limnetic**
+### Subsystem: Lacustrine Limnetic
 
 The Limnetic Subsystem includes all deepwater habitats within the
 Lacustrine System. “Deepwater habitats” are those that occur at depths
@@ -233,7 +226,7 @@ ecosystem, so it is classified within the Estuarine System instead.
 The Estuarine System has four subsystems: Coastal, Open Water, Tidal
 Riverine Coastal, and Tidal Riverine Open Water.
 
-### **Subsystem: Estuarine Coastal**
+### Subsystem: Estuarine Coastal
 
 The Estuarine Coastal Subsystem extends from the supratidal zone at the
 land margin up to the 4-meter depth contour in waters that have salinity
@@ -280,7 +273,7 @@ transport of sediments and dynamic bedforms.
 The Estuarine Coastal Subsystem is divided in three zones based on tidal
 action:
 
-#### **Tidal Zone: Estuarine Coastal Subtidal**
+#### Tidal Zone: Estuarine Coastal Subtidal
 
 > The substrate is generally continuously submerged in this zone and
 > includes those areas below MLLW.
@@ -856,7 +849,7 @@ ranges for CMECS are provided in Table 5.2.
 
 Salinity (PSS) \< 5
 
-### **Mesohaline Water**
+### Mesohaline Water
 
 Salinity (PSS) 5 to \< 18
 
@@ -914,39 +907,39 @@ temperature are established in Table 5.3.
 
 0°C and below
 
-### **Very Cold Water**
+### Very Cold Water
 
 0°C to \< 5°C (liquid)
 
-<span id="_Toc165301419" class="anchor"></span>**Cold Water**
+### Cold Water
 
 5°C to \< 10°C
 
-### **Cool Water**
+### Cool Water
 
 10°C to \< 15°C
 
-### **Moderate Water**
+### Moderate Water
 
 15°C to \< 20°C
 
-### **Warm Water**
+### Warm Water
 
 20°C to \< 25°C
 
-### **Very Warm Water**
+### Very Warm Water
 
 25°C to \< 30°C
 
-### **Hot Water**
+### Hot Water
 
 30°C to \< 35°C
 
-### **Very Hot Water**
+### Very Hot Water
 
 Greater than or equal to 35°C
 
-## **Hydroform** Subcomponent
+## Hydroform Subcomponent
 
 Hydroforms are physical entities that have a coherent, definable
 structure with identifiable boundaries and characteristic physical
@@ -1935,15 +1928,7 @@ allowing new oceanic crust to reach the surface of the sea floor.
 
 ### Tectonic Setting: Mid-Ocean Ridge
 
-1.  An extremely large, global spreading center. The mid-ocean ridge is
-    a continuous, seismically active, median mountain range extending
-    through the North Atlantic, South Atlantic, Indian, and South
-    Pacific Oceans. It is a broad, fractured swell with a central rift
-    valley and usually extremely rugged topography. The ridge is 1–3
-    kilometers in height, about 1,500 kilometers in width, and over
-    84,000 kilometers in length. Sections of this feature are sometimes
-    named based on the ocean region in which this feature occur (for
-    example, Mid-Atlantic Ridge).
+An extremely large, global spreading center. The mid-ocean ridge is a continuous, seismically active, median mountain range extending through the North Atlantic, South Atlantic, Indian, and South Pacific Oceans. It is a broad, fractured swell with a central rift valley and usually extremely rugged topography. The ridge is 1–3 kilometers in height, about 1,500 kilometers in width, and over 84,000 kilometers in length. Sections of this feature are sometimes named based on the ocean region in which this feature occur (for example, Mid-Atlantic Ridge).
 
 ### Tectonic Setting: Passive Continental Margin
 
@@ -2058,14 +2043,7 @@ large and generally oceanic in character.
 
 ### Physiographic Setting: Fjord
 
-1.  A long, narrow, glacially eroded inlet or arm of the sea. They are
-    often U-shaped, steep-walled, and deep. Because of their depth, they
-    tend to have low surface-area-to-volume ratios. They have moderate
-    watershed-to-water-area ratios and low-to-moderate riverine inputs.
-    Fjords often have a geologic sill formation at the seaward end
-    caused by glacial action. This morphology—combined with a low
-    exchange of bottom waters with the ocean—can result in formation of
-    hypoxic bottom waters.
+A long, narrow, glacially eroded inlet or arm of the sea. They are often U-shaped, steep-walled, and deep. Because of their depth, they tend to have low surface-area-to-volume ratios. They have moderate watershed-to-water-area ratios and low-to-moderate riverine inputs. Fjords often have a geologic sill formation at the seaward end caused by glacial action. This morphology— combined with a low exchange of bottom waters with the ocean— can result in formation of hypoxic bottom waters.
 
 ### Physiographic Setting: Inland/Enclosed Sea
 
@@ -3130,7 +3108,7 @@ them their distinctive qualities.
 > This form includes a wide variety of mass-movement landforms and
 > processes involving the down slope transport (under gravitational
 > influence) of soil and rock material *en masse*. Geoforms that could
-> occur within (or as a result of) landslides are Rubble Field**.**
+> occur within (or as a result of) landslides are Rubble Field.
 
 #### Geoform: Swale/Slack (Level 2)
 
@@ -3159,7 +3137,7 @@ them their distinctive qualities.
 
 > A subaqueous, relict, depositional landform originally constructed by
 > river or longshore, sediment deposits along the outer edge of a
-> wave**-**cut platform, and then later submerged by rising sea level or
+> wave-cut platform, and then later submerged by rising sea level or
 > subsiding land surface (modified from Jackson 1997).
 
 ##### Geoform Type: Marine Terrace (Level 1)
@@ -3231,7 +3209,7 @@ present.
 #### Geoform Type: Tilefish Burrow (Level 2)
 
 > Burrows formed by the Tilefish (sp.). These can be up to 3 meters wide
-> and 1 **-**2 meters deep. In some areas, the density of these burrows
+> and 1 - 2 meters deep. In some areas, the density of these burrows
 > can be over 1,000 per square kilometer, thus significantly altering
 > the benthos.
 
@@ -3313,7 +3291,7 @@ present.
 
 ##### Geoform Type: Aggregate Coral Reef (Levels 1 & 2)
 
-> Continuous, high**-**relief coral formation that occurs in various
+> Continuous, high-relief coral formation that occurs in various
 > shapes and lacks sand channels. This type includes linear coral
 > formations that are oriented parallel to the shelf edge (Zitello et
 > al. 2009).
@@ -3325,7 +3303,7 @@ present.
 > development, sedimentation, and erosion. These are elevated
 > structures, composed of coral fossils and accumulated interstitial
 > sediments. This type includes structures variously referred to as
-> carbonate knolls, coral banks, bio**-**buildups, and lithoherms. Coral
+> carbonate knolls, coral banks, bio-buildups, and lithoherms. Coral
 > carbonate mounds can take on various shapes and sizes, reaching tens
 > of meters in height and tens of kilometers in size. They may or may
 > not currently include biogenic reefs (Roberts et al. 2009).
@@ -3537,7 +3515,7 @@ geoforms.
 
 > An artificially reinforced section of the shoreline (or the structure
 > itself). These can be composed of piles of natural material (such as
-> rip**-**rap), or they may resemble walls of timbers or other
+> rip-rap), or they may resemble walls of timbers or other
 > substance. They may have many purposes but generally are not intended
 > to prevent flooding of lower areas.
 
@@ -3601,7 +3579,7 @@ geoforms.
 
 > An area of the seafloor impacted by dredging activities. In this
 > instance, the term is meant to apply to secondary scarring,
-> smothering, or destruction of epibenthic and near**-**surface infaunal
+> smothering, or destruction of epibenthic and near-surface infaunal
 > communities by dredging activity (rather than the direct removal of
 > material by dredging which would be characterized under the Dredged
 > Channel or other geoforms).
@@ -6307,8 +6285,7 @@ dissolved oxygen, and in deep-sea areas around thermal vents."
 > (such as macroalgal debris, fish kills, or similar large organic
 > inputs). See Figure 8.13 for an example of bacterial decay.
 >
-> <span id="_Toc165302299" class="anchor"></span>Biotic Community:
-> *Beggiatoa* Communities on Decaying Materials
+###### Biotic Community: *Beggiatoa* Communities on Decaying Materials
 
 ##### Biotic Group: Vent Microbes
 
@@ -7211,1456 +7188,694 @@ scope of CMECS.
 
 # Substrate Component
 
-Substrate is defined in the Coastal and Marine Ecological Classification
-Standard (CMECS) as the non-living materials that form an aquatic bottom
-or seafloor, or that provide a surface (e.g., floating objects, buoys)
-for growth of attached biota. Substrate may be composed of any
-substance, natural or man-made. Describing the composition of the
-substrate is a fundamental part of any ecological classification scheme.
-Substrate provides context and setting for many aquatic processes, and
-it provides living space for benthic and attached biota.
+Substrate is defined in the Coastal and Marine Ecological Classification Standard (CMECS) as the non-living materials that form an aquatic bottom or seafloor, or that provide a surface (e.g., floating objects, buoys) for growth of attached biota. Substrate may be composed of any substance, natural or man-made. Describing the composition of the substrate is a fundamental part of any ecological classification scheme. Substrate provides context and setting for many aquatic processes, and it provides living space for benthic and attached biota.
 
-The Substrate Component (Section 7, p. 98, FGDC-STD-018-2012) is a
-characterization of the composition and particle size of the surface
-layers of the substrate; this component is designed to be compatible
-with a range of sampling tools. The Substrate Component provides
-guidance to characterize the layers of substrate that support the
-majority of multicellular life (the upper layer of hard substrate, or
-(typically) the upper 15 centimeters of soft substrate) in a way that is
-consistent with a variety of past practices. The Substrate Component and
-the Biotic Component (Section 8, p. 119, FGDC-STD-018-2012) describe the
-non-living (Substrate) and living (Biotic) aspects of a plan-view
-perspective of the seafloor at comparable scales.
+The Substrate Component (Section 7, p. 98, FGDC-STD-018-2012) is a characterization of the composition and particle size of the surface layers of the substrate; this component is designed to be compatible with a range of sampling tools. The Substrate Component provides guidance to characterize the layers of substrate that support the majority of multicellular life (the upper layer of hard substrate, or (typically) the upper 15 centimeters of soft substrate) in a way that is consistent with a variety of past practices. The Substrate Component and the Biotic Component (Section 8, p. 119, FGDC-STD-018-2012) describe the non-living (Substrate) and living (Biotic) aspects of a plan-view perspective of the seafloor at comparable scales. Substrate Component observational unit scales range from sediment corers or grabs, to sediment profile or plan-view photographs of the seafloor, to defined quadrats or transects, to video clips, to high-resolution acoustic images. At larger scales, the structure, shape, and surface pattern of the substrate are described by the Geoform Component (Section 6, p. 60, FGDC-STD-018-2012).
 
-Substrate Component observational unit scales range from sediment corers
-or grabs, to sediment profile or plan-view photographs of the seafloor,
-to defined quadrats or transects, to video clips, to high-resolution
-acoustic images. At larger scales, the structure, shape, and surface
-pattern of the substrate are described by the Geoform Component (Section
-6, p. 60, FGDC-STD-018-2012).
-
-Implementation Guidance for all Substrate Component Units
-
-The Coastal and Marine Ecological Classification Standard (CMECS) does
-not prescribe metrics or methodologies for substrate analysis or
-interpretation at this time. Classifications throughout the Substrate
-Component may be based on visual percent cover for plan-view images or
-metrics such as percent weight, or percent composition for other
-approaches (e.g., retrieved samples).
-
-CMECS components are intended to be scale-independent and
-method-independent; the reported scale of substrate “patchiness” is
-determined by the scale of observation, and so is somewhat
-method-dependent. To assist with comparability, practitioners should
-always report sampling gear, methods, units, scale of observation, and
-scale of reporting in project metadata. Data users should be aware of
-the methods that were used to collect and report data, and should make
-note of any data limitations that may exist.
-
-Modifier terms (Section 7.6 and Section 10, FGDC-STD-018-2012) can be
-applied as needed to further describe substrate characteristics.
-Recommended modifiers for substrate units include:
-
-*Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones,
-Co-occurring Elements, Coral Reef Zone, Energy Intensity, Induration,
-Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse),
-Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate
-Layering, Surface Pattern, Temporal Persistence.*
-
-The Co-occurring Elements modifier (Section 10.6.2, p. 213,
-FGDC-STD-018-2012) may be used to describe the presence of secondary
-substrate units within the observational unit (i.e., image frame,
-sampling grid cell, etc.)
+  > | **Implementation Guidance for all Substrate Component Units** |
+  > | --- |
+  > | The Coastal and Marine Ecological Classification Standard (CMECS) does not prescribe metrics or methodologies for substrate analysis or interpretation at this time. Classifications throughout the Substrate Component may be based on visual percent cover for plan-view images or metrics such as percent weight, or percent composition for other approaches (e.g., retrieved samples). |
+  >  | CMECS components are intended to be scale-independent and method-independent; the reported scale of substrate “patchiness” is determined by the scale of observation, and so is somewhat method-dependent. To assist with comparability, practitioners should always report sampling gear, methods, units, scale of observation, and scale of reporting in project metadata. Data users should be aware of the methods that were used to collect and report data, and should make note of any data limitations that may exist. |
+  > | Modifier terms (Section 7.6 and Section 10, FGDC-STD-018-2012) can be applied as needed to further describe substrate characteristics. Recommended modifiers for substrate units include: *Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence.* |
+  > | The Co-occurring Elements modifier (Section 10.6.2, p. 213, FGDC-STD-018-2012) may be used to describe the presence of secondary substrate units within the observational unit (i.e., image frame, sampling grid cell, etc.) |
 
 ## Substrate Origin: Geologic Substrate
 
-Benthic substrates where sufficient evidence shows that Geologic
-Substrate exceeds (is dominant over) both Biogenic and Anthropogenic
-Substrates, considered separately. Geologic Substrates are composed of
-consolidated igneous, metamorphic, or sedimentary rock or finer
-unconsolidated particles, and are classified according to particle size
-and mixes of particle sizes. When Geologic Substrate is present, but
-does not constitute the dominant substrate origin, it may be included as
-a Co-occurring Element.
+Benthic substrates where sufficient evidence shows that Geologic Substrate exceeds (is dominant over) both Biogenic and Anthropogenic Substrates, considered separately. Geologic Substrates are composed of consolidated igneous, metamorphic, or sedimentary rock or finer unconsolidated particles, and are classified according to particle size and mixes of particle sizes. When Geologic Substrate is present, but does not constitute the dominant substrate origin, it may be included as a Co-occurring Element.
 
-*Substrate Origin describes the genesis of the substrate, not the
-process by which it is emplaced. If the Substrate Origin cannot be
-definitively determined, the analyst may opt to use “Indeterminate” in
-place of Origin type and use the Geologic Origin units for further
-classification.*
+*Substrate Origin describes the genesis of the substrate, not the process by which it is emplaced. If the Substrate Origin cannot be definitively determined, the analyst may opt to use “Indeterminate” in place of Origin type and use the Geologic Origin units for further classification.*
 
 ### Substrate Class: Consolidated Mineral Substrate
 
-Igneous, metamorphic, or sedimentary rock with particle sizes greater
-than or equal to 4.0 meters (4,096 millimeters) in any dimension that
-cover 50% or greater of the Geologic Substrate surface.
+Igneous, metamorphic, or sedimentary rock with particle sizes greater than or equal to 4.0 meters (4,096 millimeters) in any dimension that cover 50% or greater of the Geologic Substrate surface.
 
-*Depending on the sampling method used and scale of the observational
-unit, classifying larger features may require extrapolating information
-from surrounding observations or additional studies. The Geoform
-Component may also be used to extend the substrate classification for
-such features (p. 227, FGDC-STD-018-2012).*
+*Depending on the sampling method used and scale of the observational unit, classifying larger features may require extrapolating information from surrounding observations or additional studies. The Geoform Component may also be used to extend the substrate classification for such features (p. 227, FGDC-STD-018-2012).*
 
 #### Substrate Subclass: Bedrock
 
-> Substrate with mostly continuous formations of bedrock that cover 50%
-> or more of the Geologic Substrate surface.
+> Substrate with mostly continuous formations of bedrock that cover 50% > or more of the Geologic Substrate surface.
 
 #### Substrate Subclass: Megaclast
 
-> Substrate where individual rocks with particle sizes greater than or
-> equal to 4.0 meters (4,096 millimeters) in any dimension cover 50% or
-> more of the Geologic Substrate surface.
+> Substrate where individual rocks with particle sizes greater than or > equal to 4.0 meters (4,096 millimeters) in any dimension cover 50% or > more of the Geologic Substrate surface.
 
 #### Substrate Subclass: Tar
 
-> Substrate dominated by tar, asphalt, or other hydrocarbon material
-> that has extruded onto the seafloor. This material has cooled from a
-> semi-liquid state and now forms a potential attachment surface for
-> biota. This substrate is usually associated with seeps, tar mounds, or
-> tar lily geoforms.
+> Substrate dominated by tar, asphalt, or other hydrocarbon material > that has extruded onto the seafloor. This material has cooled from a > semi-liquid state and now forms a potential attachment surface for > biota. This substrate is usually associated with seeps, tar mounds, or > tar lily geoforms.
 
 ### Substrate Class: Coarse Unconsolidated Mineral Substrate
 
-Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or
-more of the surface area with ≥ 5% Gravel (2 millimeters to \< 4,096
-millimeters in diameter).
+Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or more of the surface area with ≥ 5% Gravel (2 millimeters to \< 4,096 millimeters in diameter).
 
-*The CMECS Coarse and Fine Unconsolidated Mineral Substrate classes and
-subordinate units use Folk (1954) terminology to describe particle sizes
-of loose mineral substrates as shown in the ternary diagram in Figure
-7.2 (revised version). Units with bracketed letters, e.g., \[G\],
-\[(g)sM\], correspond to the labeled polygons in Figure 7.2, using
-conventions from Folk (1954).*
+*The CMECS Coarse and Fine Unconsolidated Mineral Substrate classes and subordinate units use Folk (1954) terminology to describe particle sizes of loose mineral substrates as shown in the ternary diagram in Figure 7.2 (revised version). Units with bracketed letters, e.g., \[G\], \[(g)sM\], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).*
+
+  > | **Getting Started** |
+  > | --- |
+  > | If Gravel particles make up \> 80% of the substrate, continue classifying using the Gravel Substrate subclass units. |
+  > | If Gravel particles make up ≥ 5% but \< 80%, continue classifying using the Mixed Gravel subclass units. |
+  > | If Gravel particles make up 0.01% to \< 5% continue classifying using the Trace Gravel subclass within the Fine Unconsolidated Mineral Substrate class. |
 
 #### Substrate Subclass: Gravel Substrate \[G\]
+> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel > (particles 2 millimeters to \< 4,096 millimeters in diameter).
 
-Getting Started
-
-If Gravel particles make up \> 80% of the substrate, continue
-classifying using the Gravel Substrate subclass units.
-
-If Gravel particles make up ≥ 5% but \< 80%, continue classifying using
-the Mixed Gravel subclass units.
-
-If Gravel particles make up 0.01% to \< 5% continue classifying using
-the Trace Gravel subclass within the Fine Unconsolidated Mineral
-Substrate class.
-
-> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel
-> (particles 2 millimeters to \< 4,096 millimeters in diameter).
+ > | **Implementation Guidance for Classification of Gravel in All Units** |
+  > | --- |
+  > | Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) **must be identified whenever particle sizes are known or can be estimated** within any mix and at any level of classification. *Examples:* *• Gravel Mixes -\> Pebble Mixes* *• Muddy Sandy Gravel -\> Muddy Sandy Cobble* *• Gravelly Sand -\> Bouldery Sand* |
+> | When classifying mixes of two different Gravel subgroup particle sizes, use combinations of the subgroup unit names with the overall dominant size first. *Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.* |
+> | When classifying mixes, or when there is a need to identify specific particle sizes beyond the subgroup definitions, the subgroup terms for the Gravel group (Boulder, Cobble, Pebble, Granule), Sand group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud group (Silt, Silt-Clay, Clay) may optionally be substituted for the group term. *Examples:* *• Muddy Sandy Gravel -\> Silty Sandy Gravel* *• Slightly Gravelly Sandy Mud -\> Slightly Gravelly Sandy Clay* *• Gravelly Muddy Sand -\> Gravelly Muddy Coarse Sand* *• Slightly Gravelly Sand -\> Slightly Gravelly Medium Sand* |
 
 ##### Substrate Group: Very Coarse Gravel
 
-> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel
-> particles 64 millimeters to \< 4,096 millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel > particles 64 millimeters to \< 4,096 millimeters in diameter.
 
 ###### Substrate Subgroup: Boulder
 
-> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel
-> particles 256 millimeters to \< 4,096 millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel > particles 256 millimeters to \< 4,096 millimeters in diameter.
 
 ###### Substrate Subgroup: Cobble
 
-> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel
-> particles 64 millimeters to \< 256 millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel > particles 64 millimeters to \< 256 millimeters in diameter.
 
 ##### Substrate Group: Moderately Coarse Gravel
 
-> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel
-> particles 2 millimeters to \< 64 millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel > particles 2 millimeters to \< 64 millimeters in diameter.
 
 ###### Substrate Subgroup: Pebble
 
-> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel
-> particles 4 millimeters to \< 64 millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel > particles 4 millimeters to \< 64 millimeters in diameter.
 
 ###### Substrate Subgroup: Granule
 
-> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel
-> particles 2 millimeters to \< 4 millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel > particles 2 millimeters to \< 4 millimeters in diameter.
 
 #### Substrate Subclass: Mixed Gravels
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 80%
-> Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter)
-> with the remaining mix composed of Sand (particles 0.0625 millimeters
-> to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625
-> millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) > with the remaining mix composed of Sand (particles 0.0625 millimeters > to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 > millimeters in diameter).
 
 ##### Substrate Group: Gravel Mixes
-
-> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80%
-> Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter)
-> with the remaining mix composed of Sand (particles 0.0625 millimeters
-> to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625
-> millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) > with the remaining mix composed of Sand (particles 0.0625 millimeters > to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 > millimeters in diameter). 
 
 ###### Substrate Subgroup: Sandy Gravel \[sG\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80%
-> Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter),
-> with Sand (particles 0.0625 millimeters to \< 2 millimeters in
-> diameter) composing 90% or more of the remaining Sand-Mud mix.
+> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > with Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter) composing 90% or more of the remaining Sand-Mud mix.
 
 ###### Substrate Subgroup: Muddy Sandy Gravel \[msG\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80%
-> Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter),
-> with Sand (particles 0.0625 millimeters to \< 2 millimeters in
-> diameter) composing from 50% to \< 90% of the remaining Sand-Mud mix.
+> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > with Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter) composing from 50% to \< 90% of the remaining Sand-Mud mix.
 
 ###### Substrate Subgroup: Muddy Gravel \[mG\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80%
-> Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter),
-> with Mud (particles \< 0.004 millimeters in diameter) composing 50% or
-> more of the remaining Mud-Sand mix.
-
-Implementation Guidance for Classification of Gravel in All Units
-
-Due to the importance of different particle sizes of Gravel as habitat
-for many organisms, Gravel subgroup particle sizes (Boulder, Cobble,
-Pebble, Granule) **must be identified whenever particle sizes are known
-or can be estimated** within any mix and at any level of classification.
-*Examples:*
-
-*• Gravel Mixes -\> Pebble Mixes*
-
-*• Muddy Sandy Gravel -\> Muddy Sandy Cobble*
-
-*• Gravelly Sand -\> Bouldery Sand*
-
-When classifying mixes of two different Gravel subgroup particle sizes,
-use combinations of the subgroup unit names with the overall dominant
-size first.
-
-*Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule,
-Pebble-Granule, Granule-Boulder.*
-
-When classifying mixes, or when there is a need to identify specific
-particle sizes beyond the subgroup definitions, the subgroup terms for
-the Gravel group (Boulder, Cobble, Pebble, Granule), Sand group (Very
-Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and
-Mud group (Silt, Silt-Clay, Clay) may optionally be substituted for the
-group term.
-
-*Examples:*
-
-*• Muddy Sandy Gravel -\> Silty Sandy Gravel*
-
-*• Slightly Gravelly Sandy Mud -\> Slightly Gravelly Sandy Clay*
-
-*• Gravelly Muddy Sand -\> Gravelly Muddy Coarse Sand*
-
-*• Slightly Gravelly Sand -\> Slightly Gravelly Medium Sand*
+> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > with Mud (particles \< 0.004 millimeters in diameter) composing 50% or > more of the remaining Mud-Sand mix.
 
 ##### Substrate Group: Gravelly Mixes
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30%
-> Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter)
-> with the remaining mix composed of Sand (particles 0.0625 millimeters
-> to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625
-> millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) > with the remaining mix composed of Sand (particles 0.0625 millimeters > to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 > millimeters in diameter).
 
 ###### Substrate Subgroup: Gravelly Sand \[gS\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30%
-> Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter),
-> and the remaining Sand-Mud mix is 90% or more Sand (particles 0.0625
-> millimeters to \< 2 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > and the remaining Sand-Mud mix is 90% or more Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Gravelly Muddy Sand \[gmS\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30%
-> Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter),
-> and the remaining Sand-Mud mix is 50% to \< 90% Sand (particles 0.0625
-> millimeters to \< 2 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > and the remaining Sand-Mud mix is 50% to \< 90% Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Gravelly Mud \[gM\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30%
-> Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter),
-> and the remaining Sand-Mud mix is 50% or more Mud (particles \< 0.004
-> millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > and the remaining Sand-Mud mix is 50% or more Mud (particles \< 0.004 > millimeters in diameter).
 
 ### Substrate Class: Fine Unconsolidated Mineral Substrate
 
-Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or
-more of the surface area with \< 5% Gravel (particles 2 millimeters to
-\< 4,096 millimeters in diameter).
+Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or more of the surface area with \< 5% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter).
 
-*The CMECS Coarse and Fine Unconsolidated Mineral Substrate classes and
-subordinate units use Folk (1954) terminology to describe particle sizes
-of loose mineral substrates as shown in the ternary diagram in Figure
-7.2 (revised version). Units with bracketed letters, e.g., \[G\],
-\[(g)sM\], correspond to the labeled polygons in Figure 7.2, using
-conventions from Folk (1954).*
+*The CMECS Coarse and Fine Unconsolidated Mineral Substrate classes and subordinate units use Folk (1954) terminology to describe particle sizes of loose mineral substrates as shown in the ternary diagram in Figure 7.2 (revised version). Units with bracketed letters, e.g., \[G\], \[(g)sM\], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).*
 
 #### Substrate Subclass: Trace Gravels
 
-> Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel
-> to \< 5% Gravel (particles 2 millimeters to \< 4,096 millimeters in
-> diameter) with the remaining mix composed of Sand (particles 0.0625
-> millimeters to \< 2 millimeters in diameter) and/or Mud (particles \<
-> 0.0625 millimeters in diameter).
+> Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel > to \< 5% Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) with the remaining mix composed of Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter) and/or Mud (particles \< > 0.0625 millimeters in diameter).
 
 ##### Substrate Group: Sandy Mixes with Trace Gravel
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace)
-> of Gravel (particles 2 millimeters to \< 4,096 millimeters in
-> diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% or
-> more Sand (particles 0.0625 millimeters to \< 2 millimeters in
-> diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% or > more Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Sand \[(g)S\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace)
-> of Gravel (particles 2 millimeters to \< 4,096 millimeters in
-> diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or
-> more Sand (particles 0.0625 millimeters to \< 2 millimeters in
-> diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or > more Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Muddy Sand \[(g)mS\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace)
-> of Gravel (particles 2 millimeters to \< 4,096 millimeters in
-> diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% to \<
-> 90% Sand (particles 0.0625 millimeters to \< 2 millimeters in
-> diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% to \< > 90% Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
 
 ##### Substrate Group: Muddy Mixes with Trace Gravel
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace)
-> of Gravel (particles 2 millimeters to \< 4,096 millimeters in
-> diameter) to \<5% Gravel, and the remaining Sand-Mud mix is 50% or
-> more Mud (particles \< 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \<5% Gravel, and the remaining Sand-Mud mix is 50% or > more Mud (particles \< 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Sandy Mud \[(g)sM\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace)
-> of Gravel (particles 2 millimeters to \< 4,096 millimeters in
-> diameter) to \<5% Gravel (particles 2 millimeters to \< 4,096
-> millimeters in diameter), and the remaining Sand-Mud mix is 50% to
-> \<90% Mud (particles \< 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \<5% Gravel (particles 2 millimeters to \< 4,096 > millimeters in diameter), and the remaining Sand-Mud mix is 50% to > \<90% Mud (particles \< 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Mud \[(g)M\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace)
-> of Gravel (particles 2 millimeters to \< 4,096 millimeters in
-> diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or
-> more Mud (particles \< 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or > more Mud (particles \< 0.0625 millimeters in diameter).
 
 #### Substrate Subclass: Sandy Substrate
 
-> Geologic Unconsolidated Mineral Substrate surface contains no trace of
-> Gravel and is 50% Sand (particles 0.0625 millimeters to \< 2
-> millimeters in diameter) with the remainder composed of Mud (particles
-> \< 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface contains no trace of > Gravel and is 50% Sand (particles 0.0625 millimeters to \< 2 > millimeters in diameter) with the remainder composed of Mud (particles > \< 0.0625 millimeters in diameter).
 
 ##### Substrate Group: Sand \[S\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is ≥ 90% Sand (particles 0.0625 millimeters to \< 2
-> millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand (particles 0.0625 millimeters to \< 2 > millimeters in diameter).
 
 ###### Substrate Subgroup: Very Coarse Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is ≥ 90% Sand particles 1 millimeter to \< 2 millimeters in
-> diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 1 millimeter to \< 2 millimeters in > diameter.
 
 ###### Substrate Subgroup: Coarse Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is ≥ 90% Sand particles 0.5 millimeters to \< 1 millimeter
-> in diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 0.5 millimeters to \< 1 millimeter > in diameter.
 
 ###### Substrate Subgroup: Medium Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is ≥ 90% Sand particles 0.25 millimeters to \< 0.5
-> millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 0.25 millimeters to \< 0.5 > millimeters in diameter.
 
 ###### Substrate Subgroup: Fine Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is ≥ 90% Sand particles 0.125 millimeters to \< 0.25
-> millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 0.125 millimeters to \< 0.25 > millimeters in diameter.
 
 ###### Substrate Subgroup: Very Fine Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is ≥ 90% Sand particles 0.0625 millimeters to \< 0.125
-> millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 0.0625 millimeters to \< 0.125 > millimeters in diameter.
 
 ##### Substrate Group: Muddy Sand \[mS\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remainder is Mud (particles less than
-> 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remainder is Mud (particles less than > 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Silty Sand \[zS\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remaining Silt-Clay mix is 67% or more
-> Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in
-> diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 67% or more > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
 
 ###### Substrate Subgroup: Silty-Clayey Sand \[zcS\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remaining Silt-Clay mix is 33% to \< 67%
-> Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in
-> diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 33% to \< 67% > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
 
 ###### Substrate Subgroup: Clayey Sand \[cS\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remaining Clay-Silt mix is 67% or more
-> Clay (particles \< 0.0040 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Clay-Silt mix is 67% or more > Clay (particles \< 0.0040 millimeters in diameter).
 
 #### Substrate Subclass: Muddy Substrate
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is \> 50% Mud (particles \< 0.0625 millimeters in diameter)
-> with the remainder composed of Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is \> 50% Mud (particles \< 0.0625 millimeters in diameter) > with the remainder composed of Sand (particles 0.0625 millimeters to 2 > millimeters in diameter).
 
 ##### Substrate Group: Sandy Mud \[sM\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is 50% to 90% Mud (particles \< 0.0625 millimeters in
-> diameter); the remainder is Sand (particles 0.0625 millimeters to \< 2
-> millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to 90% Mud (particles \< 0.0625 millimeters in > diameter); the remainder is Sand (particles 0.0625 millimeters to \< 2 > millimeters in diameter).
 
 ###### Substrate Subgroup: Sandy Silt \[sZ\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remaining Silt-Clay mix is 67% or more
-> Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in
-> diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 67% or more > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
 
 ###### Substrate Subgroup: Sandy Silt-Clay \[sZC\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remaining Silt-Clay mix is 33% to \< 67%
-> Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in
-> diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 33% to \< 67% > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
 
 ###### Substrate Subgroup: Sandy Clay \[sC\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remaining Clay-Silt mix is 67% or more
-> Clay (particles \< 0.004 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Clay-Silt mix is 67% or more > Clay (particles \< 0.004 millimeters in diameter).
 
 ##### Substrate Group: Mud \[M\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is 90% or more Mud (particles \< 0.0625 millimeters in
-> diameter); the remainder (\< 10%) is Sand (particles 0.0625
-> millimeters to \< 2 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 90% or more Mud (particles \< 0.0625 millimeters in > diameter); the remainder (\< 10%) is Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Silt \[Z\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remaining Silt-Clay mix is 67% or more
-> Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in
-> diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 67% or more > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
 
 ###### Substrate Subgroup: Silt-Clay \[ZC\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remaining Silt-Clay mix is \< 33% to 67%
-> Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in
-> diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is \< 33% to 67% > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
 
 ###### Substrate Subgroup: Clay \[C\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of
-> Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2
-> millimeters in diameter); the remaining Clay-Silt mix is 67% or more
-> Clay (particles \< 0.004 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Clay-Silt mix is 67% or more > Clay (particles \< 0.004 millimeters in diameter).
 
 ## Figure 7.2 (Revised) <img src="media/image1.png" style="width:6.83434in;height:5.28874in" />
 
 ## Substrate Origin: Biogenic Substrate
 
-Implementation Guidance for all Biogenic Origin Units
+Benthic substrates where sufficient evidence shows that Biogenic Substrate exceeds (is dominant over) that of both Geologic and Anthropogenic Substrates, when all are considered separately. Biogenic substrates are the non-living material that supports, intersperses, or overlays the living biota described in the Biotic Component (see Section 7.2), and are either generated by living biota, such as shells and tests, or are non-living remnants of living biota, such as skeletons, dead wood, and detritus.
 
-CMECS does not prescribe metrics or methodologies for substrate analysis
-or interpretation at this time. The terms “dominant” and “primarily” in
-the Biogenic Substrate Origin describe the substrate type that is
-present in the greatest visual percent cover for plan-view images or
-metrics such as percent weight, or percent composition for other
-approaches (e.g., retrieved samples).
+Biogenic substrates are classified at the class level by the level of consolidation, and at the subclass and group levels by particle size and biological source of the material. Subgroup units provide further descriptive detail where possible. Particle size bins at the Biogenic Substrate class, subclass, and group levels correspond to the Geologic Substrate units as follows: 
+ - Class: Consolidated Biogenic Substrate is equivalent to the Geologic Origin class: Consolidated Mineral Substrate (≥ 4,096 millimeters in any dimension) 
+ - Subclass: Biogenic Rubble is equivalent to the Geologic Origin group: Very Coarse Gravel (64 millimeters to \< 4,096 millimeters in diameter) 
+ - Subclass: Biogenic Hash is equivalent to the Geologic Origin group: Moderately Coarse Gravel (2 millimeters to \< 64 millimeters in diameter) 
+ - Subclass: Biogenic Sand is equivalent to the Geologic Origin group: Sand (0.0625 millimeters to \< 2 millimeters in diameter) 
+ - Group: Organic Mud is equivalent to the Geologic Origin group: Mud (\< 0.0625 millimeters in diameter) 
 
-When two Biogenic Substrate types are present, “dominant” and
-“primarily” are equivalent to \> 50%. When three or more types exist,
-the dominant type may occur at a lower percent-of-total value. Biogenic
-Substrate types that are present, but do not constitute the dominant
-feature, may be included as a Co-occurring Element modifier (see Section
-10).
+ These units are derived from Wentworth (1922), and they can be broken down into Wentworth grain size classes for greater precision, if desired.
 
-Benthic substrates where sufficient evidence shows that Biogenic
-Substrate exceeds (is dominant over) that of both Geologic and
-Anthropogenic Substrates, when all are considered separately. Biogenic
-substrates are the non-living material that supports, intersperses, or
-overlays the living biota described in the Biotic Component (see Section
-7.2), and are either generated by living biota, such as shells and
-tests, or are non-living remnants of living biota, such as skeletons,
-dead wood, and detritus.
+  > | **Implementation Guidance for all Biogenic Origin Units** |
+  > | ---|
+  > | CMECS does not prescribe metrics or methodologies for substrate analysis or interpretation at this time. The terms “dominant” and “primarily” in the Biogenic Substrate Origin describe the substrate type that is present in the greatest visual percent cover for plan-view images or metrics such as percent weight, or percent composition for other approaches (e.g., retrieved samples). |
+  > |When two Biogenic Substrate types are present, “dominant” and “primarily” are equivalent to \> 50%. When three or more types exist, the dominant type may occur at a lower percent-of-total value. Biogenic Substrate types that are present, but do not constitute the dominant feature, may be included as a Co-occurring Element modifier (see Section 10). |
 
-Biogenic substrates are classified at the class level by the level of
-consolidation, and at the subclass and group levels by particle size and
-biological source of the material. Subgroup units provide further
-descriptive detail where possible. Particle size bins at the Biogenic
-Substrate class, subclass, and group levels correspond to the Geologic
-Substrate units as follows:
-
-- Class: Consolidated Biogenic Substrate is equivalent to the Geologic
-  Origin class: Consolidated Mineral Substrate (≥ 4,096 millimeters in
-  any dimension)
-
-- Subclass: Biogenic Rubble is equivalent to the Geologic Origin group:
-  Very Coarse Gravel (64 millimeters to \< 4,096 millimeters in
-  diameter)
-
-- Subclass: Biogenic Hash is equivalent to the Geologic Origin group:
-  Moderately Coarse Gravel (2 millimeters to \< 64 millimeters in
-  diameter)
-
-- Subclass: Biogenic Sand is equivalent to the Geologic Origin group:
-  Sand (0.0625 millimeters to \< 2 millimeters in diameter)
-
-- Group: Organic Mud is equivalent to the Geologic Origin group: Mud (\<
-  0.0625 millimeters in diameter)
-
-These units are derived from Wentworth (1922), and they can be broken
-down into Wentworth grain size classes for greater precision, if
-desired.
-
-*Substrate Origin describes the genesis of the substrate, not the
-process by which it is emplaced. If the Substrate Origin cannot be
-definitively determined, the analyst may opt to use “Indeterminate” in
-place of origin type and use the Geologic Origin units for further
-classification.*
+*Substrate Origin describes the genesis of the substrate, not the process by which it is emplaced. If the Substrate Origin cannot be definitively determined, the analyst may opt to use “Indeterminate” in place of origin type and use the Geologic Origin units for further classification.*
 
 ### Substrate Class: Consolidated Biogenic Substrate
 
-Non-living, consolidated material formed by living biota that are
-greater than or equal to 4.0 meters (4,096 millimeters, equivalent to
-the Geologic Substrate class Consolidated Mineral Substrate) in any
-dimension and cover 50% or greater of the Biogenic Substrate surface.
-Examples include mounds, ridges, or pavements composed of calcium
-carbonate reef material generated by corals, cemented aggregations of
-shells and worm tubes, and very large woody particles.
+Non-living, consolidated material formed by living biota that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Biogenic Substrate surface. Examples include mounds, ridges, or pavements composed of calcium carbonate reef material generated by corals, cemented aggregations of shells and worm tubes, and very large woody particles.
 
 #### Substrate Subclass: Reef Substrate
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is formed by
-> living, reef-building biota such as scleratinian corals, molluscs, and
-> worms.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is formed by > living, reef-building biota such as scleratinian corals, molluscs, and > worms.
 
 ##### Substrate Group: Coral Reef
 
-> Consolidated substrate that is formed and dominated by living or
-> non-living hard coral reefs (bioherms). The material may be intact
-> coral skeletons in relatively intact condition or may be formed from
-> the agglomeration of coral rubble/hash or other particles into a fixed
-> non-mobile surface.
+> Consolidated substrate that is formed and dominated by living or > non-living hard coral reefs (bioherms). The material may be intact > coral skeletons in relatively intact condition or may be formed from > the agglomeration of coral rubble/hash or other particles into a fixed > non-mobile surface.
 
 ##### Substrate Group: Rhodolith Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is dominated by
-> rhodoliths.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > rhodoliths.
 
 ##### Substrate Group: Shell Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is dominated by
-> non-living cemented, conglomerated, or otherwise self-adhered shell
-> reefs.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > non-living cemented, conglomerated, or otherwise self-adhered shell > reefs.
 
 ###### Substrate Subgroup: Coquina Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is dominated by
-> Shell Reef primarily composed of cemented or conglomerated Coquina
-> shells.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Shell Reef primarily composed of cemented or conglomerated Coquina > shells.
 
 ###### Substrate Subgroup: Crepidula Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is dominated by
-> Shell Reef primarily composed of conglomerated Crepidula shells. While
-> Crepidula are slowly mobile and do not cement their shells, the
-> gregarious settlement of their larvae on conspecifics (Zhao and Qian
-> 2002) can lead to very dense accumulations with a flat, reef-like
-> texture as live shells build over dead shells.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Shell Reef primarily composed of conglomerated Crepidula shells. While > Crepidula are slowly mobile and do not cement their shells, the > gregarious settlement of their larvae on conspecifics (Zhao and Qian > 2002) can lead to very dense accumulations with a flat, reef-like > texture as live shells build over dead shells.
 
 ###### Substrate Subgroup: Mussel Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is dominated by
-> Shell Reef primarily composed of self-adhered or conglomerated mussel
-> shells.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Shell Reef primarily composed of self-adhered or conglomerated mussel > shells.
 
 ###### Substrate Subgroup: Oyster Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is dominated by
-> Shell Reef primarily composed of cemented or conglomerated oyster
-> shells that form a stable substrate surface.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Shell Reef primarily composed of cemented or conglomerated oyster > shells that form a stable substrate surface.
 
 ##### Substrate Group: Worm Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is dominated by
-> cemented or conglomerated calcareous or sandy tubes of polychaetes or
-> other worm-like fauna.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > cemented or conglomerated calcareous or sandy tubes of polychaetes or > other worm-like fauna.
 
 ###### Substrate Subgroup: Sabellariid Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is dominated by
-> Worm Reef primarily composed of cemented mineral-based or shell-based
-> sabellariid worm tubes.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Worm Reef primarily composed of cemented mineral-based or shell-based > sabellariid worm tubes.
 
 ###### Substrate Subgroup: Serpulid Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to
-> 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate
-> class Consolidated Mineral Substrate) in any dimension, that covers
-> 50% or greater of the Biogenic Substrate surface, and is dominated by
-> Worm Reef that is primarily composed of cemented or conglomerated
-> calcareous serpulid worm tubes.
+> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Worm Reef that is primarily composed of cemented or conglomerated > calcareous serpulid worm tubes.
 
 #### Substrate Subclass: Very Large Wood
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0
-> meters (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension, and is composed of
-> non-living, very large wood fragments that cover 50% or greater of the
-> Biogenic Substrate surface. These include rooted, partially buried,
-> and sunken intact non-living woody plant structures, such as remnant
-> trunks, branches, roots, and root networks.
+> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, and is composed of > non-living, very large wood fragments that cover 50% or greater of the > Biogenic Substrate surface. These include rooted, partially buried, > and sunken intact non-living woody plant structures, such as remnant > trunks, branches, roots, and root networks.
 
 ##### Substrate Group: Very Large Trunk or Root Substrate
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0
-> meters (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension, that covers 50% or
-> greater of the Biogenic Substrate surface, and is composed of
-> non-living trees, trunks, branches, roots, or root structures.
+> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living trees, trunks, branches, roots, or root structures.
 
 ###### Substrate Subgroup: Tree
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0
-> meters (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension, that covers 50% or
-> greater of the Biogenic Substrate surface, and is composed of
-> non-living trees.
+> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living trees.
 
 ###### Substrate Subgroup: Very Large Trunk or Branch
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0
-> meters (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension, that covers 50% or
-> greater of the Biogenic Substrate surface, and is composed of
-> non-living, very large branches.
+> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living, very large branches.
 
 ###### Substrate Subgroup: Very Large Wood Fragment
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0
-> meters (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension, that covers 50% or
-> greater of the Biogenic Substrate surface, and is composed of
-> non-living, very large wood fragments.
+> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living, very large wood fragments.
 
 ###### Substrate Subgroup: Very Large Root or Root Network
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0
-> meters (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension, that covers 50% or
-> greater of the Biogenic Substrate surface, and is composed of
-> non-living, very large roots, root balls, or root networks.
+> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living, very large roots, root balls, or root networks.
 
 #### Substrate Subclass: Biogenic Pavement
 
-> Consolidated Biogenic Substrate that is a relatively flat, continuous
-> area of solid substrate greater than or equal to 4.0 meters (4,096
-> millimeters, equivalent to the Geologic Substrate class Consolidated
-> Mineral Substrate) in any dimension, that covers 50% or greater of the
-> Biogenic Substrate surface, and is composed of low-relief carbonate
-> deposits formed by the cemented, remnant skeletons and tests of living
-> biota.
+> Consolidated Biogenic Substrate that is a relatively flat, continuous > area of solid substrate greater than or equal to 4.0 meters (4,096 > millimeters, equivalent to the Geologic Substrate class Consolidated > Mineral Substrate) in any dimension, that covers 50% or greater of the > Biogenic Substrate surface, and is composed of low-relief carbonate > deposits formed by the cemented, remnant skeletons and tests of living > biota.
 
 ##### Substrate Group: Coralline Pavement
 
-> Consolidated Biogenic Substrate that is a relatively flat, continuous
-> area of solid substrate greater than or equal to 4.0 meters (4,096
-> millimeters, equivalent to the Geologic Substrate class Consolidated
-> Mineral Substrate) in any dimension, that covers 50% or greater of the
-> Biogenic Substrate surface, and is composed of carbonate deposits
-> formed by the cemented, remnant skeletons of corals.
+> Consolidated Biogenic Substrate that is a relatively flat, continuous > area of solid substrate greater than or equal to 4.0 meters (4,096 > millimeters, equivalent to the Geologic Substrate class Consolidated > Mineral Substrate) in any dimension, that covers 50% or greater of the > Biogenic Substrate surface, and is composed of carbonate deposits > formed by the cemented, remnant skeletons of corals.
 
 ### Substrate Class: Coarse Unconsolidated Biogenic Substrate
 
-Biogenic Unconsolidated Substrate that is dominated by Biogenic Rubble
-particles (64 millimeters to \< 4,096 millimeters, equivalent to
-Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater
-of the Biogenic Substrate surface. Particles may be either loose whole
-or broken non-living biogenic fragments or, particularly in the larger
-Rubble sizes, particles may be cemented, conglomerated, or otherwise
-attached so as to form consolidated material. The Coarse Unconsolidated
-Biogenic Substrate subclass includes rubble of various origins, as well
-as woody debris.
+Biogenic Unconsolidated Substrate that is dominated by Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface. Particles may be either loose whole or broken non-living biogenic fragments or, particularly in the larger Rubble sizes, particles may be cemented, conglomerated, or otherwise attached so as to form consolidated material. The Coarse Unconsolidated Biogenic Substrate subclass includes rubble of various origins, as well as woody debris.
 
 #### Substrate Subclass: Biogenic Rubble
 
-> Unconsolidated Biogenic Substrate dominated by Biogenic Rubble
-> particles (64 millimeters to \< 4,096 millimeters, equivalent to
-> Geologic Origin subgroups Cobble and Boulder) that cover 50% or
-> greater of the Biogenic Substrate surface. Particles may be either
-> loose whole or broken non-living biogenic fragments or, particularly
-> in the larger Rubble sizes, fragments may be cemented, conglomerated,
-> or otherwise attached so as to form Boulders of consolidated material.
+> Unconsolidated Biogenic Substrate dominated by Biogenic Rubble > particles (64 millimeters to \< 4,096 millimeters, equivalent to > Geologic Origin subgroups Cobble and Boulder) that cover 50% or > greater of the Biogenic Substrate surface. Particles may be either > loose whole or broken non-living biogenic fragments or, particularly > in the larger Rubble sizes, fragments may be cemented, conglomerated, > or otherwise attached so as to form Boulders of consolidated material.
 
 ##### Substrate Group: Algal Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of non-living calcareous algae.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living calcareous algae.
 
 ###### Substrate Subgroup: Rhodolith Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of non-living Rhodolith fragments.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living Rhodolith fragments.
 
 ##### Substrate Group: Coral Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of non-living coral fragments.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living coral fragments.
 
 ##### Substrate Group: Shell Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of non-living shells. Most (but not all) shell-builders are
-> mollusks.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living shells. Most (but not all) shell-builders are > mollusks.
 
 ###### Substrate Subgroup: Coquina Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of cemented or conglomerated Coquina shells. Note that
-> Coquina shells are described in a separate substrate subgroup due to
-> their distinctive features and special significance in many areas.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of cemented or conglomerated Coquina shells. Note that > Coquina shells are described in a separate substrate subgroup due to > their distinctive features and special significance in many areas.
 
 ###### Substrate Subgroup: Crepidula Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of conglomerated Crepidula shells. While Crepidula are slowly
-> mobile and do not cement their shells, the gregarious settlement of
-> their larvae on conspecifics (Zhao and Qian 2002) can lead to very
-> dense accumulations as live shells build over dead shells, and
-> sediments fill in to bind these areas into flat shelly masses.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of conglomerated Crepidula shells. While Crepidula are slowly > mobile and do not cement their shells, the gregarious settlement of > their larvae on conspecifics (Zhao and Qian 2002) can lead to very > dense accumulations as live shells build over dead shells, and > sediments fill in to bind these areas into flat shelly masses.
 
 ###### Substrate Subgroup: Mussel Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of self-adhered or conglomerated mussel shells.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of self-adhered or conglomerated mussel shells.
 
 ###### Substrate Subgroup: Oyster Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of cemented or conglomerated oyster shells.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of cemented or conglomerated oyster shells.
 
 ##### Substrate Group: Wood Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of non-living woody material.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living woody material.
 
 ###### Substrate Subgroup: Very Coarse Woody Debris
 
-> Biogenic Rubble particles (256 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroup Boulder) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of non-living, very coarse woody debris.
+> Biogenic Rubble particles (256 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroup Boulder) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of non-living, very coarse woody debris.
 
 ###### Substrate Subgroup: Coarse Woody Debris
 
-> Biogenic Rubble particles (64 millimeters to \< 256 millimeters,
-> equivalent to Geologic Origin subgroup Cobble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of non-living, coarse woody debris.
+> Biogenic Rubble particles (64 millimeters to \< 256 millimeters, > equivalent to Geologic Origin subgroup Cobble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of non-living, coarse woody debris.
 
 ##### Substrate Group: Worm Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of the cemented or conglomerated calcareous or sandy tubes of
-> polychaetes or other worm-like fauna.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of the cemented or conglomerated calcareous or sandy tubes of > polychaetes or other worm-like fauna.
 
 ###### Substrate Subgroup: Sabellariid Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of sand and shell bits cemented with adhesive proteins into
-> cohesive, clustered tubes by sabellariid worms (e.g., Sabellaria or
-> Phragmatopoma).
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of sand and shell bits cemented with adhesive proteins into > cohesive, clustered tubes by sabellariid worms (e.g., Sabellaria or > Phragmatopoma).
 
 ###### Substrate Subgroup: Serpulid Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Biogenic Substrate surface and are primarily
-> composed of cemented calcareous worm tubes produced by serpulid worms,
-> e.g., Serpula.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of cemented calcareous worm tubes produced by serpulid worms, > e.g., Serpula.
 
 ### Substrate Class: Fine Unconsolidated Biogenic Substrate
 
-Biogenic Unconsolidated Substrate that is dominated by fine biogenic
-substrate particles (0.004 to \< 64 millimeters, equivalent to Geologic
-Origin subgroups Granule and Pebble, and groups Sand and Mud) that cover
-50% or greater of the Biogenic Substrate surface, including hash of
-various origins, as well as organic material and oozes.
+Biogenic Unconsolidated Substrate that is dominated by fine biogenic substrate particles (0.004 to \< 64 millimeters, equivalent to Geologic Origin subgroups Granule and Pebble, and groups Sand and Mud) that cover 50% or greater of the Biogenic Substrate surface, including hash of various origins, as well as organic material and oozes.
 
 #### Substrate Subclass: Biogenic Hash
 
-> Biogenic Unconsolidated Substrate dominated by Biogenic Hash particles
-> (2 to \< 64 millimeters, equivalent to Geologic Origin subgroups
-> Granule and Pebble) that cover 50% or greater of the Biogenic
-> Substrate surface. Particles may be either loose whole or broken
-> non-living biogenic fragments.
+> Biogenic Unconsolidated Substrate dominated by Biogenic Hash particles > (2 to \< 64 millimeters, equivalent to Geologic Origin subgroups > Granule and Pebble) that cover 50% or greater of the Biogenic > Substrate surface. Particles may be either loose whole or broken > non-living biogenic fragments.
 
 ##### Substrate Group: Algal Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of non-living calcareous algae fragments.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of non-living calcareous algae fragments.
 
 ###### Substrate Subgroup: Rhodolith Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of non-living Rhodolith fragments.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of non-living Rhodolith fragments.
 
 ##### Substrate Group: Coral Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of non-living coral fragments.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of non-living coral fragments.
 
 ###### Substrate Subgroup: Acropora Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of non-living Acropora fragments.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of non-living Acropora fragments.
 
 ##### Substrate Group: Shell Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are of primarily
-> composed of non-living shells and shell bits. Most (but not all)
-> shell-builders are mollusks.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are of primarily > composed of non-living shells and shell bits. Most (but not all) > shell-builders are mollusks.
 
 ###### Substrate Subgroup: Coquina Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of cemented or conglomerated Coquina shells and shell bits.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of cemented or conglomerated Coquina shells and shell bits.
 
 ###### Substrate Subgroup: Crepidula Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of loose Crepidula shells and shell bits.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of loose Crepidula shells and shell bits.
 
 ###### Substrate Subgroup: Mussel Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of loose mussel shells and shell bits.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of loose mussel shells and shell bits.
 
 ###### Substrate Subgroup: Oyster Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of loose oyster shells and shell bits.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of loose oyster shells and shell bits.
 
 ##### Substrate Group: Fine Woody Debris
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> non-living fine woody debris.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > non-living fine woody debris.
 
 ##### Substrate Group: Worm Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of fragments of the cemented or conglomerated calcareous or sandy
-> tubes of polychaetes or other worm-like fauna.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of fragments of the cemented or conglomerated calcareous or sandy > tubes of polychaetes or other worm-like fauna.
 
 ###### Substrate Subgroup: Sabellariid Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of fragments of the sand-shell-protein matrix and tubes constructed by
-> sabellariid worms.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of fragments of the sand-shell-protein matrix and tubes constructed by > sabellariid worms.
 
 ###### Substrate Subgroup: Serpulid Hash
 
-> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble) that cover 50% or
-> greater of the Biogenic Substrate surface and are primarily composed
-> of fragments of the calcareous tubes of serpulid worms.
+> Biogenic Hash particles (2 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of fragments of the calcareous tubes of serpulid worms.
 
 #### Substrate Subclass: Biogenic Sand
 
-> Biogenic Unconsolidated Substrate dominated by Biogenic Sand particles
-> (0.0625 millimeters to \< 2 millimeters, equivalent to Geologic Origin
-> group Sand) that cover 50% or greater of the Biogenic Substrate
-> surface and are primarily composed of broken down, non-living biogenic
-> material. Shells or other remains are generally broken and difficult
-> to identify. For this reason, only substrate-forming taxa that produce
-> distinctive Sand types are listed as substrate subgroups.
->
-> *When the composition and origin of Sand is unclear, it is assumed to
-> be mineral Sand, and is classified as a Geologic Origin substrate.*
+> Biogenic Unconsolidated Substrate dominated by Biogenic Sand particles > (0.0625 millimeters to \< 2 millimeters, equivalent to Geologic Origin > group Sand) that cover 50% or greater of the Biogenic Substrate > surface and are primarily composed of broken down, non-living biogenic > material. Shells or other remains are generally broken and difficult > to identify. For this reason, only substrate-forming taxa that produce > distinctive Sand types are listed as substrate subgroups.
+
+> *When the composition and origin of Sand is unclear, it is assumed to > be mineral Sand, and is classified as a Geologic Origin substrate.*
 
 ##### Substrate Group: Algal Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down calcareous algae. This Sand may have a characteristic
-> white color as it becomes bleached by the sun.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down calcareous algae. This Sand may have a characteristic > white color as it becomes bleached by the sun.
 
 ###### Substrate Subgroup: Halimeda Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> recognizable, broken segment-like fronds of Halimeda, a green
-> coralline alga.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > recognizable, broken segment-like fronds of Halimeda, a green > coralline alga.
 
 ###### Substrate Subgroup: Rhodolith Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down Rhodolith material.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down Rhodolith material.
 
 ##### Substrate Group: Coral Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down coral material.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down coral material.
 
 ###### Substrate Subgroup: Diploria Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down Diploria coral.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down Diploria coral.
 
 ##### Substrate Group: Shell Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down shell material.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down shell material.
 
 ###### Substrate Subgroup: Coquina Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down coquina shell.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down coquina shell.
 
 ###### Substrate Subgroup: Mussel Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down mussel shell.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down mussel shell.
 
 ###### Substrate Subgroup: Oyster Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down mussel shell.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down mussel shell.
 
 ##### Substrate Group: Worm Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down mussel shell.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down mussel shell.
 
 ###### Substrate Subgroup: Sabellariid Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down sand-shell-protein matrix and tubes constructed by
-> sabellariid worms.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down sand-shell-protein matrix and tubes constructed by > sabellariid worms.
 
 ###### Substrate Subgroup: Serpulid Sand
 
-> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin group Sand) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> broken-down calcareous tubes of serpulid worms.
+> Biogenic Sand particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin group Sand) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > broken-down calcareous tubes of serpulid worms.
 
 #### Substrate Subclass: Fine Organic Substrate
 
-> Biogenic Unconsolidated Substrate dominated by Fine Organic Substrate
-> particles (0.004 to \< 0.625 millimeters, equivalent to Geologic
-> Origin group Mud) that cover 50% or greater of the Biogenic Substrate
-> surface and are primarily composed of non-living organic material.
+> Biogenic Unconsolidated Substrate dominated by Fine Organic Substrate > particles (0.004 to \< 0.625 millimeters, equivalent to Geologic > Origin group Mud) that cover 50% or greater of the Biogenic Substrate > surface and are primarily composed of non-living organic material.
 
 ##### Substrate Group: Peat
 
-> Fine Organic Substrate particles that cover 50% or greater of the
-> Biogenic Substrate surface and are primarily composed of non-living
-> peat deposits, from modern or prehistoric times.
+> Fine Organic Substrate particles that cover 50% or greater of the > Biogenic Substrate surface and are primarily composed of non-living > peat deposits, from modern or prehistoric times.
 
 ##### Substrate Group: Organic Detritus
 
-> Fine Organic Substrate particles (0.004 to \< 4 millimeters,
-> equivalent to Geologic Origin group Mud) that cover 50% or greater of
-> the Biogenic Substrate surface and are primarily composed of
-> decomposing plant and animal tissues, often in an advanced state of
-> utilization and decay. Organic Detritus may be produced in situ,
-> deposited from above or transported horizontally, or may be remnant
-> material.
+> Fine Organic Substrate particles (0.004 to \< 4 millimeters, > equivalent to Geologic Origin group Mud) that cover 50% or greater of > the Biogenic Substrate surface and are primarily composed of > decomposing plant and animal tissues, often in an advanced state of > utilization and decay. Organic Detritus may be produced in situ, > deposited from above or transported horizontally, or may be remnant > material.
 
 ##### Substrate Group: Organic Mud
 
-> Fine Organic Substrate particles (0.004 to \< 0.625 millimeters,
-> equivalent to Geologic Origin group Mud) that cover 50% or greater of
-> the Biogenic Substrate surface with an organic carbon content of
-> greater than 5%.
+> Fine Organic Substrate particles (0.004 to \< 0.625 millimeters, > equivalent to Geologic Origin group Mud) that cover 50% or greater of > the Biogenic Substrate surface with an organic carbon content of > greater than 5%.
 
 #### Substrate Subclass: Ooze Substrate
 
-> Deep sea substrates that are composed of \> 30% tests, shells, or
-> frustules of small plankton, including diatoms, radiolarians,
-> pteropods, foraminifera, and other marine plankters. Oozes are common
-> in deeper waters far from shore, where terrestrial inputs to the
-> bottom sediments are very low, and where surface productivity is
-> reasonably high.
+> Deep sea substrates that are composed of \> 30% tests, shells, or > frustules of small plankton, including diatoms, radiolarians, > pteropods, foraminifera, and other marine plankters. Oozes are common > in deeper waters far from shore, where terrestrial inputs to the > bottom sediments are very low, and where surface productivity is > reasonably high.
 >
-> *Based on common practice in the field, definition of a substrate as
-> “ooze” requires a 30% or greater (but not necessarily “dominant”) ooze
-> composition within the sediments. Once defined as an “ooze,” the type
-> of ooze is determined by dominant percent composition.*
+> *Based on common practice in the field, definition of a substrate as > “ooze” requires a 30% or greater (but not necessarily “dominant”) ooze > composition within the sediments. Once defined as an “ooze,” the type > of ooze is determined by dominant percent composition.*
 
 ##### Substrate Group: Carbonate Ooze
 
-> Ooze Substrate that cover 50% or greater of the Biogenic Substrate
-> surface and are dominated by calcium carbonate-based shells of
-> foraminifera, coccolithophores, pteropods, or other calcareous
-> plankton. These oozes are limited to seafloors shallower than the
-> carbonate compensation depth (4-5 kilometers); calcium carbonate
-> dissolves in the cold acidic waters deeper than this.
+> Ooze Substrate that cover 50% or greater of the Biogenic Substrate > surface and are dominated by calcium carbonate-based shells of > foraminifera, coccolithophores, pteropods, or other calcareous > plankton. These oozes are limited to seafloors shallower than the > carbonate compensation depth (4-5 kilometers); calcium carbonate > dissolves in the cold acidic waters deeper than this.
 
 ###### Substrate Subgroup: Coccolithophore Ooze
 
-> Ooze Substrate that covers 50% or greater of the Biogenic Substrate
-> surface and is formed primarily from carbonate tests of
-> phytoplanktonic coccolithophores.
+> Ooze Substrate that covers 50% or greater of the Biogenic Substrate > surface and is formed primarily from carbonate tests of > phytoplanktonic coccolithophores.
 
 ###### Substrate Subgroup: Foramniferan Ooze
 
-> Ooze Substrate that covers 50% or greater of the Biogenic Substrate
-> surface and is formed primarily from carbonate tests of
-> foraminiferans.
+> Ooze Substrate that covers 50% or greater of the Biogenic Substrate > surface and is formed primarily from carbonate tests of > foraminiferans.
 
 ###### Substrate Subgroup: Pteropod Ooze
 
-> Ooze Substrate that covers 50% or greater of the Biogenic Substrate
-> surface and is formed primarily from the shells of pteropods (a group
-> of planktonic mollusks).
+> Ooze Substrate that covers 50% or greater of the Biogenic Substrate > surface and is formed primarily from the shells of pteropods (a group > of planktonic mollusks).
 
 ##### Substrate Group: Siliceous Ooze
 
-> Ooze Substrate that covers 50% or greater of the Biogenic Substrate
-> surface and is dominated by silicate-based shells of diatoms,
-> radiolarians, and other organisms. These oozes are limited to
-> seafloors shallower than the carbonate compensation depth (4-5
-> kilometers); calcium carbonate dissolves in the cold acidic waters
-> deeper than this.
+> Ooze Substrate that covers 50% or greater of the Biogenic Substrate > surface and is dominated by silicate-based shells of diatoms, > radiolarians, and other organisms. These oozes are limited to > seafloors shallower than the carbonate compensation depth (4-5 > kilometers); calcium carbonate dissolves in the cold acidic waters > deeper than this.
 
 ###### Substrate Subgroup: Diatomaceous Ooze
 
-> Ooze Substrate that covers 50% or greater of the Biogenic Substrate
-> surface and is formed primarily from the silica-based frustules or
-> tests of phytoplanktonic diatoms.
+> Ooze Substrate that covers 50% or greater of the Biogenic Substrate > surface and is formed primarily from the silica-based frustules or > tests of phytoplanktonic diatoms.
 
 ###### Substrate Subgroup: Radiolarian Ooze
 
-> Ooze Substrate that covers 50% or greater of the Biogenic Substrate
-> surface and is formed primarily from the silica-based tests of
-> amoeba-like radiolarians.
+> Ooze Substrate that covers 50% or greater of the Biogenic Substrate > surface and is formed primarily from the silica-based tests of > amoeba-like radiolarians.
 
 ## Substrate Origin: Anthropogenic Substrate
 
-Benthic substrates where sufficient evidence shows that Anthropogenic
-Substrate exceeds (is dominant over) that of both Geologic and Biogenic
-Substrates, when all are considered separately. Anthropogenic substrates
-are composed of material created by human physical, chemical, or other
-processes. Examples include metals, plastics, ceramics, cement, and
-construction aggregates. Wood, although it is biogenic in origin, is
-included here to describe instances where it has been shaped, textured,
-treated, or otherwise altered from its natural condition and thus has
-different habitat suitability and/or function.
+Benthic substrates where sufficient evidence shows that Anthropogenic Substrate exceeds (is dominant over) that of both Geologic and Biogenic Substrates, when all are considered separately. Anthropogenic substrates are composed of material created by human physical, chemical, or other processes. Examples include metals, plastics, ceramics, cement, and construction aggregates. Wood, although it is biogenic in origin, is included here to describe instances where it has been shaped, textured, treated, or otherwise altered from its natural condition and thus has different habitat suitability and/or function.
+Anthropogenic substrates are classified at the class level by particle size and degree of stability in relation to the surrounding substrate, i.e., fixed (immobile and generally large structures or fragments) or unconsolidated (potentially mobile, of varying particle sizes); Subclass and group level units are further refined by particle size and composition. The Anthropogenic Origin does not include any subgroup units but users may provide further descriptive detail if desired. Particle size bins at the Anthropogenic Substrate class and subclass levels correspond to the Geologic Substrate units as follows:
 
-Anthropogenic substrates are classified at the class level by particle
-size and degree of stability in relation to the surrounding substrate,
-i.e., fixed (immobile and generally large structures or fragments) or
-unconsolidated (potentially mobile, of varying particle sizes); Subclass
-and group level units are further refined by particle size and
-composition. The Anthropogenic Origin does not include any subgroup
-units but users may provide further descriptive detail if desired.
-Particle size bins at the Anthropogenic Substrate class and subclass
-levels correspond to the Geologic Substrate units as follows:
+- Class: Fixed Anthropogenic Substrate is equivalent to the Geologic Origin class Consolidated Mineral Substrate (≥ 4,096 millimeters in any dimension) 
+- Class: Coarse Unconsolidated Anthropogenic Substrate is equivalent to the Geologic Origin group Very Coarse Gravel (64 millimeters to \< 4,096 millimeters in diameter) 
+- Class: Fine Unconsolidated Anthropogenic Substrate Hash is equivalent to the Geologic Origin groups Moderately Coarse Gravel (2 millimeters to \< 64 millimeters in diameter), Sand (0.0625 millimeters to \< 2 millimeters in diameter), and Mud (\< 0.0625 millimeters in diameter).
 
-- Class: Fixed Anthropogenic Substrate is equivalent to the Geologic
-  Origin class Consolidated Mineral Substrate (≥ 4,096 millimeters in
-  any dimension)
+These units are derived from Wentworth (1922), and they can be broken down into Wentworth grain size classes for greater precision, if desired.
 
-- Class: Coarse Unconsolidated Anthropogenic Substrate is equivalent to
-  the Geologic Origin group Very Coarse Gravel (64 millimeters to \<
-  4,096 millimeters in diameter)
+*Substrate Origin describes the genesis of the substrate, not the process by which it is emplaced. If the Substrate Origin cannot be definitively determined, the analyst may opt to use “Indeterminate” in place of origin type and use the Geologic Origin units for further classification.*
 
-- Class: Fine Unconsolidated Anthropogenic Substrate Hash is equivalent
-  to the Geologic Origin groups Moderately Coarse Gravel (2 millimeters
-  to \< 64 millimeters in diameter), Sand (0.0625 millimeters to \< 2
-  millimeters in diameter), and Mud (\< 0.0625 millimeters in diameter).
-
-These units are derived from Wentworth (1922), and they can be broken
-down into Wentworth grain size classes for greater precision, if
-desired.
-
-*Substrate Origin describes the genesis of the substrate, not the
-process by which it is emplaced. If the Substrate Origin cannot be
-definitively determined, the analyst may opt to use “Indeterminate” in
-place of origin type and use the Geologic Origin units for further
-classification.*
+  > | **Implementation Guidance for all Anthropogenic Origin Units** |
+  > | --- |
+  > | CMECS does not prescribe metrics or methodologies for substrate analysis or interpretation at this time. The terms “dominant” and “primarily” in the Anthropogenic Substrate Origin describe the substrate type that is present in the greatest visual percent cover for plan-view images or metrics such as percent weight, or percent composition for other approaches (e.g., retrieved samples).
+  > | When two Anthropogenic Substrate types are present, “dominant” and “primarily” are equivalent to \> 50%. When three or more types exist, the dominant type may occur at a lower percent-of-total value. Anthropogenic Substrate types that are present, but do not constitute the dominant feature, may be included as a Co-occurring Element modifier (see Section 10). |
 
 ### Substrate Class: Fixed Anthropogenic Substrate
 
-Anthropogenic Substrates that are greater than or equal to 4.0 meters
-(4,096 millimeters, equivalent to the Geologic Substrate class
-Consolidated Mineral Substrate) in any dimension and cover 50% or
-greater of the Anthropogenic Substrate surface. Examples include
-man-made materials such as metal pipelines, concrete bulkheads, and
-treated-wood pilings that are either fixed (adhered to, embedded in, or
-otherwise attached to) the environment.
-
-Implementation Guidance for all Anthropogenic Origin Units
-
-CMECS does not prescribe metrics or methodologies for substrate analysis
-or interpretation at this time. The terms “dominant” and “primarily” in
-the Anthropogenic Substrate Origin describe the substrate type that is
-present in the greatest visual percent cover for plan-view images or
-metrics such as percent weight, or percent composition for other
-approaches (e.g., retrieved samples).
-
-When two Anthropogenic Substrate types are present, “dominant” and
-“primarily” are equivalent to \> 50%. When three or more types exist,
-the dominant type may occur at a lower percent-of-total value.
-Anthropogenic Substrate types that are present, but do not constitute
-the dominant feature, may be included as a Co-occurring Element modifier
-(see Section 10).
+Anthropogenic Substrates that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Anthropogenic Substrate surface. Examples include man-made materials such as metal pipelines, concrete bulkheads, and treated-wood pilings that are either fixed (adhered to, embedded in, or otherwise attached to) the environment.
 
 #### Substrate Subclass: Fixed Aggregate Substrate
 
-> Anthropogenic Substrates that are greater than or equal to 4.0 meters
-> (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension and cover 50% or
-> greater of the Anthropogenic Substrate surface are consolidated or
-> fixed in the surrounding environment and are dominated by aggregate,
-> primarily construction, materials. This includes concrete, asphalt,
-> brick, porcelain, or similar materials. Examples of features that form
-> anthropogenic substrates include boat ramps, piers, and seawalls.
+> Anthropogenic Substrates that are greater than or equal to 4.0 meters > (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension and cover 50% or > greater of the Anthropogenic Substrate surface are consolidated or > fixed in the surrounding environment and are dominated by aggregate, > primarily construction, materials. This includes concrete, asphalt, > brick, porcelain, or similar materials. Examples of features that form > anthropogenic substrates include boat ramps, piers, and seawalls.
 
 #### Substrate Subclass: Fixed Metal Substrate
 
-> Anthropogenic Substrates that are greater than or equal to 4.0 meters
-> (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension and cover 50% or
-> greater of the Anthropogenic Substrate surface are consolidated or
-> fixed in the surrounding environment and are composed of metal.
-> Examples include sheet metal, ship hulls/parts, metallic
-> walls/bulkheads, pipes, valves, mooring chains, or other
-> infrastructural objects.
+> Anthropogenic Substrates that are greater than or equal to 4.0 meters > (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension and cover 50% or > greater of the Anthropogenic Substrate surface are consolidated or > fixed in the surrounding environment and are composed of metal. > Examples include sheet metal, ship hulls/parts, metallic > walls/bulkheads, pipes, valves, mooring chains, or other > infrastructural objects.
 
 #### Substrate Subclass: Fixed Trash/Plastic Substrate
 
-> Anthropogenic Substrates that are greater than or equal to 4.0 meters
-> (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension and cover 50% or
-> greater of the Anthropogenic Substrate surface are consolidated or
-> fixed in the surrounding environment and composed of plastic, trash,
-> or other disposed materials. Examples include PVC piping, valves, or
-> other infrastructural objects.
+> Anthropogenic Substrates that are greater than or equal to 4.0 meters > (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension and cover 50% or > greater of the Anthropogenic Substrate surface are consolidated or > fixed in the surrounding environment and composed of plastic, trash, > or other disposed materials. Examples include PVC piping, valves, or > other infrastructural objects.
 
 #### Substrate Subclass: Fixed Anthropogenic Wood Substrate
 
-> Anthropogenic Substrates that are greater than or equal to 4.0 meters
-> (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension and cover 50% or
-> greater of the Anthropogenic Substrate surface are consolidated or
-> fixed in the surrounding environment and are composed of wood that has
-> been shaped, textured, treated, or otherwise altered, and forms a
-> stable surface in the environment. Examples include pilings, posts,
-> daymarks, docks or other infrastructural objects.
+> Anthropogenic Substrates that are greater than or equal to 4.0 meters > (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension and cover 50% or > greater of the Anthropogenic Substrate surface are consolidated or > fixed in the surrounding environment and are composed of wood that has > been shaped, textured, treated, or otherwise altered, and forms a > stable surface in the environment. Examples include pilings, posts, > daymarks, docks or other infrastructural objects.
 
 ##### Substrate Group: Pilings
 
-> Anthropogenic Substrates that are greater than or equal to 4.0 meters
-> (4,096 millimeters, equivalent to the Geologic Substrate class
-> Consolidated Mineral Substrate) in any dimension and cover 50% or
-> greater of the Anthropogenic Substrate surface, are consolidated or
-> fixed in the surrounding environment and are composed of wood, such as
-> pilings or other support structures.
+> Anthropogenic Substrates that are greater than or equal to 4.0 meters > (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension and cover 50% or > greater of the Anthropogenic Substrate surface, are consolidated or > fixed in the surrounding environment and are composed of wood, such as > pilings or other support structures.
 
 ### Substrate Class: Coarse Unconsolidated Anthropogenic Substrate
 
-Unconsolidated Anthropogenic Substrate that is dominated by Coarse
-Anthropogenic particles (64 millimeters to \< 4,096 millimeters,
-equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-50% or greater of the Anthropogenic Substrate surface. Particles may be
-either loose whole or broken fragments of man-made material or in the
-case of wood, biogenic but significantly altered.
+Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface. Particles may be either loose whole or broken fragments of man-made material or in the case of wood, biogenic but significantly altered.
 
 #### Substrate Subclass: Coarse Unconsolidated Aggregate Substrate
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Coarse
-> Anthropogenic particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Anthropogenic Substrate surface and are composed
-> of aggregate pieces, or fragments.
+> Unconsolidated Anthropogenic Substrate that is dominated by Coarse > Anthropogenic particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Anthropogenic Substrate surface and are composed > of aggregate pieces, or fragments.
 
 ##### Substrate Group: Aggregate Rubble
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Coarse
-> Anthropogenic particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Anthropogenic Substrate surface and are composed
-> of rubble-sized aggregate particles/fragments.
+> Unconsolidated Anthropogenic Substrate that is dominated by Coarse > Anthropogenic particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Anthropogenic Substrate surface and are composed > of rubble-sized aggregate particles/fragments.
 
 #### Substrate Subclass: Coarse Unconsolidated Metal Substrate
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Coarse
-> Anthropogenic particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Anthropogenic Substrate surface and are composed
-> of metal pieces or fragments.
+> Unconsolidated Anthropogenic Substrate that is dominated by Coarse > Anthropogenic particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Anthropogenic Substrate surface and are composed > of metal pieces or fragments.
 
 ##### Substrate Group: Metal Rubble
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Coarse
-> Anthropogenic particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Anthropogenic Substrate surface and are composed
-> of metal particles.
+> Unconsolidated Anthropogenic Substrate that is dominated by Coarse > Anthropogenic particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Anthropogenic Substrate surface and are composed > of metal particles.
 
 #### Substrate Subclass: Coarse Unconsolidated Trash/Plastic Substrate
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Coarse
-> Anthropogenic particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Anthropogenic Substrate surface and are composed
-> of plastic or trash pieces or fragments.
+> Unconsolidated Anthropogenic Substrate that is dominated by Coarse > Anthropogenic particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Anthropogenic Substrate surface and are composed > of plastic or trash pieces or fragments.
 
 ##### Substrate Group: Trash/Plastic Rubble
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Coarse
-> Anthropogenic particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Anthropogenic Substrate surface trash or plastic
-> pieces or fragments.
+> Unconsolidated Anthropogenic Substrate that is dominated by Coarse > Anthropogenic particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Anthropogenic Substrate surface trash or plastic > pieces or fragments.
 
 #### Substrate Subclass: Coarse Unconsolidated Anthropogenic Wood Substrate
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Coarse
-> Anthropogenic particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Anthropogenic Substrate surface and are composed
-> of wood pieces or fragments. Examples include pallets, boards,
-> framing, or other human constructed/processed wooden objects. Smaller
-> pieces of anthropogenic wood may be interspersed with the dominant
-> larger fragments.
+> Unconsolidated Anthropogenic Substrate that is dominated by Coarse > Anthropogenic particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Anthropogenic Substrate surface and are composed > of wood pieces or fragments. Examples include pallets, boards, > framing, or other human constructed/processed wooden objects. Smaller > pieces of anthropogenic wood may be interspersed with the dominant > larger fragments.
 
 ##### Substrate Group: Wood Rubble
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Coarse
-> Anthropogenic particles (64 millimeters to \< 4,096 millimeters,
-> equivalent to Geologic Origin subgroups Cobble and Boulder) that cover
-> 50% or greater of the Anthropogenic Substrate surface composed of wood
-> pieces or fragments.
+> Unconsolidated Anthropogenic Substrate that is dominated by Coarse > Anthropogenic particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Anthropogenic Substrate surface composed of wood > pieces or fragments.
 
 ### Substrate Class: Fine Unconsolidated Anthropogenic Substrate
 
-Unconsolidated Anthropogenic Substrate that is dominated by fine
-Anthropogenic Substrate particles (0.004 to \< 64 millimeters,
-equivalent to Geologic Origin subgroups Granule and Pebble, and groups
-Sand and Mud) that cover 50% or greater of the Anthropogenic Substrate
-surface.
+Unconsolidated Anthropogenic Substrate that is dominated by fine Anthropogenic Substrate particles (0.004 to \< 64 millimeters, equivalent to Geologic Origin subgroups Granule and Pebble, and groups Sand and Mud) that cover 50% or greater of the Anthropogenic Substrate surface.
 
 #### Substrate Subclass: Fine Unconsolidated Aggregate Substrate
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Fine
-> Anthropogenic particles (0.004 to \< 64 millimeters, equivalent to
-> Geologic Origin subgroups Granule and Pebble, and groups Sand and Mud)
-> that cover 50% or greater of the Anthropogenic Substrate surface and
-> that is composed of aggregate material.
+> Unconsolidated Anthropogenic Substrate that is dominated by Fine > Anthropogenic particles (0.004 to \< 64 millimeters, equivalent to > Geologic Origin subgroups Granule and Pebble, and groups Sand and Mud) > that cover 50% or greater of the Anthropogenic Substrate surface and > that is composed of aggregate material.
 
 ##### Substrate Group: Aggregate Hash
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Fine
-> Anthropogenic particles (2 millimeters to \< 64 millimeters,
-> equivalent to Geologic Origin subgroups Granule) that cover 50% or
-> greater of the Anthropogenic Substrate surface and that is composed of
-> aggregate particles or fragments.
+> Unconsolidated Anthropogenic Substrate that is dominated by Fine > Anthropogenic particles (2 millimeters to \< 64 millimeters, > equivalent to Geologic Origin subgroups Granule) that cover 50% or > greater of the Anthropogenic Substrate surface and that is composed of > aggregate particles or fragments.
 
 ##### Substrate Group: Aggregate Fines
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Fine
-> Anthropogenic particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin subgroup Sand) that cover 50% or greater
-> of the Anthropogenic Substrate surface and that is composed of
-> aggregate particles or fragments.
+> Unconsolidated Anthropogenic Substrate that is dominated by Fine > Anthropogenic particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin subgroup Sand) that cover 50% or greater > of the Anthropogenic Substrate surface and that is composed of > aggregate particles or fragments.
 
 #### Substrate Subclass: Fine Unconsolidated Metal Substrate
 
-> Anthropogenic unconsolidated substrate that is dominated by metal
-> material with particle sizes ranging from 0.0625 millimeters to \< 64
-> millimeters (size of sand to hash) and is composed of metal.
+> Anthropogenic unconsolidated substrate that is dominated by metal > material with particle sizes ranging from 0.0625 millimeters to \< 64 > millimeters (size of sand to hash) and is composed of metal.
 
 ##### Substrate Group: Metal Hash
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Fine
-> Anthropogenic particles (2 millimeters to \< 64 millimeters,
-> equivalent to Geologic Origin subgroup Granule) that cover 50% or
-> greater of the Anthropogenic Substrate surface and that is composed of
-> metal.
+> Unconsolidated Anthropogenic Substrate that is dominated by Fine > Anthropogenic particles (2 millimeters to \< 64 millimeters, > equivalent to Geologic Origin subgroup Granule) that cover 50% or > greater of the Anthropogenic Substrate surface and that is composed of > metal.
 
 ##### Substrate Group: Metal Fines
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Fine
-> Anthropogenic particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin subgroup Sand) that cover 50% or greater
-> of the Anthropogenic Substrate surface and that is composed of metal.
+> Unconsolidated Anthropogenic Substrate that is dominated by Fine > Anthropogenic particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin subgroup Sand) that cover 50% or greater > of the Anthropogenic Substrate surface and that is composed of metal.
 
 #### Substrate Subclass: Fine Unconsolidated Trash/Plastic Substrate
 
-> Anthropogenic unconsolidated substrate that is dominated by metal
-> material with particle sizes ranging from 0.0625 millimeters to \< 64
-> millimeters (size of sand to hash) and is composed of trash/plastic.
+> Anthropogenic unconsolidated substrate that is dominated by metal > material with particle sizes ranging from 0.0625 millimeters to \< 64 > millimeters (size of sand to hash) and is composed of trash/plastic.
 
 ##### Substrate Group: Trash/Plastic Hash
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Fine
-> Anthropogenic particles (2 millimeters to \< 64 millimeters,
-> equivalent to Geologic Origin subgroups Granule) that cover 50% or
-> greater of the Anthropogenic Substrate surface and that is composed of
-> trash/plastic.
+> Unconsolidated Anthropogenic Substrate that is dominated by Fine > Anthropogenic particles (2 millimeters to \< 64 millimeters, > equivalent to Geologic Origin subgroups Granule) that cover 50% or > greater of the Anthropogenic Substrate surface and that is composed of > trash/plastic.
 
 ##### Substrate Group: Trash/Plastic Fines
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Fine
-> Anthropogenic particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin subgroup Sand) that cover 50% or greater
-> of the Anthropogenic Substrate surface and that is composed of
-> trash/plastic.
+> Unconsolidated Anthropogenic Substrate that is dominated by Fine > Anthropogenic particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin subgroup Sand) that cover 50% or greater > of the Anthropogenic Substrate surface and that is composed of > trash/plastic.
 
 #### Substrate Subclass: Fine Unconsolidated Anthropogenic Wood Substrate
 
-> Anthropogenic unconsolidated substrate that is dominated by metal
-> material with particle sizes ranging from 0.0625 millimeters to \< 64
-> millimeters (size of sand to hash) and is composed of wood.
+> Anthropogenic unconsolidated substrate that is dominated by metal > material with particle sizes ranging from 0.0625 millimeters to \< 64 > millimeters (size of sand to hash) and is composed of wood.
 
 ##### Substrate Group: Wood Hash
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Fine
-> Anthropogenic particles (2 millimeters to \< 64 millimeters,
-> equivalent to Geologic Origin subgroups Granule) that cover 50% or
-> greater of the Anthropogenic Substrate surface and that is composed of
-> wood.
+> Unconsolidated Anthropogenic Substrate that is dominated by Fine > Anthropogenic particles (2 millimeters to \< 64 millimeters, > equivalent to Geologic Origin subgroups Granule) that cover 50% or > greater of the Anthropogenic Substrate surface and that is composed of > wood.
 
 ##### Substrate Group: Wood Fines
 
-> Unconsolidated Anthropogenic Substrate that is dominated by Fine
-> Anthropogenic particles (0.0625 millimeters to \< 2 millimeters,
-> equivalent to Geologic Origin subgroup Sand) that cover 50% or greater
-> of the Anthropogenic Substrate surface and that is composed of wood.
+> Unconsolidated Anthropogenic Substrate that is dominated by Fine > Anthropogenic particles (0.0625 millimeters to \< 2 millimeters, > equivalent to Geologic Origin subgroup Sand) that cover 50% or greater > of the Anthropogenic Substrate surface and that is composed of wood.
 </details>
 
 <details>
@@ -8668,18 +7883,7 @@ surface.
 
 # Modifiers
 
-Modifiers are physicochemical, spatial, geological, biological,
-anthropogenic, and temporal variables with defined categorical values
-and ranges that are used to describe CMECS units. Modifiers can be
-applied when additional information is needed to further characterize an
-identified unit for individual applications. Modifiers provide
-additional environmental, structural, or biological information about
-the ecosystem; modifiers are useful for description and application—but
-they are not required for classification according to the CMECS schema.
-Modifiers are a dynamic component of the CMECS in the sense that users
-are free to apply additional local modifiers for their project needs as
-long as these are reported and do not conflict with modifiers outlined
-in this section.
+Modifiers are physicochemical, spatial, geological, biological, anthropogenic, and temporal variables with defined categorical values and ranges that are used to describe CMECS units. Modifiers can be applied when additional information is needed to further characterize an identified unit for individual applications. Modifiers provide additional environmental, structural, or biological information about the ecosystem; modifiers are useful for description and application—but they are not required for classification according to the CMECS schema. Modifiers are a dynamic component of the CMECS in the sense that users are free to apply additional local modifiers for their project needs as long as these are reported and do not conflict with modifiers outlined in this section.
 
 ## Anthropogenic Modifiers
 
@@ -8687,29 +7891,19 @@ in this section.
 
 #### Aquaculture
 
-> Areas and structures where shellfish or finfish are being raised or
-> confined for harvest. This may also include fish traps and ponds or
-> enclosures.
+> Areas and structures where shellfish or finfish are being raised or > confined for harvest. This may also include fish traps and ponds or > enclosures.
 
 #### Contaminated
 
-> Areas affected by past or present anthropogenic discharge of unnatural
-> or excessive amounts of compounds (such as nutrients, sewage, metals,
-> pesticides, or other materials) to waters or substrates, which results
-> in concentrations significantly higher than those attributable to
-> natural loading.
+> Areas affected by past or present anthropogenic discharge of unnatural > or excessive amounts of compounds (such as nutrients, sewage, metals, > pesticides, or other materials) to waters or substrates, which results > in concentrations significantly higher than those attributable to > natural loading.
 
 #### Developed
 
-> Coastal or marine areas that have been modified by durable and
-> persistent human construction (e.g., artificial reef, pier, seawall,
-> marina, residence, or drilling platform).
+> Coastal or marine areas that have been modified by durable and > persistent human construction (e.g., artificial reef, pier, seawall, > marina, residence, or drilling platform).
 
 #### Dredged
 
-> Landscape that is mechanically altered by the removal of sediments or
-> other materials (e.g., shell) in order to deepen or widen channels
-> (e.g., for navigation or alteration to hydrology).
+> Landscape that is mechanically altered by the removal of sediments or > other materials (e.g., shell) in order to deepen or widen channels > (e.g., for navigation or alteration to hydrology).
 
 #### Exotic
 
@@ -8717,26 +7911,19 @@ in this section.
 
 #### Filled Deposition Site
 
-> Areas where materials (such as sand or shell) have been placed on (or
-> in) an area of coast or a water body.
+> Areas where materials (such as sand or shell) have been placed on (or > in) an area of coast or a water body.
 
 #### Impounded/Diverted
 
-> Areas where artificial construction impedes, redirects, or retains
-> hydrological flow by building or placing barriers (e.g., dams, levees,
-> dikes, berms, seawalls, or piers); these structures are designed to
-> either retain water or to prevent inundation.
+> Areas where artificial construction impedes, redirects, or retains > hydrological flow by building or placing barriers (e.g., dams, levees, > dikes, berms, seawalls, or piers); these structures are designed to > either retain water or to prevent inundation.
 
 #### Restored
 
-> Areas where restoration activities have been conducted; may include
-> planted areas.
+> Areas where restoration activities have been conducted; may include > planted areas.
 
 #### Scarred
 
-> Areas of scarring by natural or anthropogenic activities other than
-> trawling or harvesting. Examples include ice scouring, vessel
-> grounding, prop scarring, or other industrial activities.
+> Areas of scarring by natural or anthropogenic activities other than > trawling or harvesting. Examples include ice scouring, vessel > grounding, prop scarring, or other industrial activities.
 
 #### Trawled/Harvested
 
@@ -8750,10 +7937,7 @@ in this section.
 
 ### Primary Water Source
 
-The Primary Water Source Modifier refers to the provenance of water
-flowing through or into a location. This can range from freshwater
-inputs (from watersheds and sloughs) to seawater exchanges through tidal
-passes.
+The Primary Water Source Modifier refers to the provenance of water flowing through or into a location. This can range from freshwater inputs (from watersheds and sloughs) to seawater exchanges through tidal passes.
 
 #### Estuary
 
@@ -8765,8 +7949,7 @@ passes.
 
 #### Local Ocean Exchange
 
-> Tidal exchange that is primarily marine water at the marine end member
-> interface.
+> Tidal exchange that is primarily marine water at the marine end member > interface.
 
 #### Marine
 
@@ -8784,114 +7967,27 @@ passes.
 
 ### Associated Taxa (Descriptive: Taxa Name)
 
-The Associated Taxa Modifier is used in the Biotic Component to denote
-the presence of biota that are not a classification unit in CMECS; e.g.,
-portunid crabs, groupers, gadids, barracuda, herring, all nekton, and
-other rapidly moving fauna. Further discussions on the use of Associated
-Taxa (as well as examples) are given under Co-occurring Elements,
-Section 10.6.2.
+The Associated Taxa Modifier is used in the Biotic Component to denote the presence of biota that are not a classification unit in CMECS; e.g., portunid crabs, groupers, gadids, barracuda, herring, all nekton, and other rapidly moving fauna. Further discussions on the use of Associated Taxa (as well as examples) are given under Co-occurring Elements, Section 10.6.2.
 
 ### Community Successional Stage
 
-In the ecological literature, successional stage is a concept used to
-characterize identifiable points along a continuum of sequential—and
-somewhat predictable—replacements of taxa following a major disturbance
-which opens up a relatively large space. These stages are based in part
-on the differing organism life-history strategies of biota, and in part
-on their resulting modifications to the physical environment (Odum 1969;
-Ritter, Montagna, and Applebaum 2005). Rosenberg (1976) pointed out that
-the same basic pattern of succession is seen in soft-sediment
-environments in many different parts of the world, in response to
-various stressors (e.g., organic input, temperature stress, or low
-oxygen), noting that species composition (but not the basic pattern)
-differs among settings. Early work on infaunal marine succession
-recognized that this process is a complex and continually varying
-response to a history of disturbance, and that “there is a complete
-spectrum in nature” (Johnson 1972). Nonetheless, there is (along this
-spectrum) a predictable pattern to benthic community structure that
-follows levels of stress and disturbance, and this is a very useful
-construct in understanding the environment (Rosenberg 2001). CMECS
-provides four modifiers for Community Stage in soft-sediment areas;
-these have been described previously (Pearson and Rosenberg 1976, 1978;
-Rhoads and Germano 1982, 1986; Nilsson and Rosenberg 1997, 2000) and are
-shown in Figure 10.1.
+In the ecological literature, successional stage is a concept used to characterize identifiable points along a continuum of sequential—and somewhat predictable—replacements of taxa following a major disturbance which opens up a relatively large space. These stages are based in part on the differing organism life-history strategies of biota, and in part on their resulting modifications to the physical environment (Odum 1969; Ritter, Montagna, and Applebaum 2005). Rosenberg (1976) pointed out that the same basic pattern of succession is seen in soft-sediment environments in many different parts of the world, in response to various stressors (e.g., organic input, temperature stress, or low oxygen), noting that species composition (but not the basic pattern) differs among settings. Early work on infaunal marine succession recognized that this process is a complex and continually varying response to a history of disturbance, and that “there is a complete spectrum in nature” (Johnson 1972). Nonetheless, there is (along this spectrum) a predictable pattern to benthic community structure that follows levels of stress and disturbance, and this is a very useful construct in understanding the environment (Rosenberg 2001). CMECS provides four modifiers for Community Stage in soft-sediment areas; these have been described previously (Pearson and Rosenberg 1976, 1978; Rhoads and Germano 1982, 1986; Nilsson and Rosenberg 1997, 2000) and are shown in Figure 10.1.
 
 #### Stage 0
 
-> These oligozoic soft-sediment areas show little evidence of
-> multi-cellular life; however, benthic samples that are retrieved and
-> processed under magnification from Stage 0 stations will generally
-> produce low numbers of small macrofauna or meiofauna. Multicellular
-> fauna will not be obvious to the unassisted eye when examining
-> sediment, and it will not be obvious in high-resolution images of the
-> seafloor. Bacterial mats may be present. If examining sediment profile
-> images, guidelines from Rhoads and Germano (1982, 1986) can be
-> followed or the Nilsson-Rosenberg BHQ metrics (Nilsson and Rosenberg
-> 1997, 2000) can be used (BHQ values for Stage 0 will range from 0 to
-> 1.99). No evidence of active bioturbation exists, and aRPD depths are
-> typically \< 2 millimeters.
+> These oligozoic soft-sediment areas show little evidence of > multi-cellular life; however, benthic samples that are retrieved and > processed under magnification from Stage 0 stations will generally > produce low numbers of small macrofauna or meiofauna. Multicellular > fauna will not be obvious to the unassisted eye when examining > sediment, and it will not be obvious in high-resolution images of the > seafloor. Bacterial mats may be present. If examining sediment profile > images, guidelines from Rhoads and Germano (1982, 1986) can be > followed or the Nilsson-Rosenberg BHQ metrics (Nilsson and Rosenberg > 1997, 2000) can be used (BHQ values for Stage 0 will range from 0 to > 1.99). No evidence of active bioturbation exists, and aRPD depths are > typically \< 2 millimeters.
 
 #### Stage 1
 
-> These associations are inhabited by small opportunistic fauna (e.g.,
-> capitellids and spionids) in the upper centimeter of sediment. Larger
-> fauna are not present, although juvenile individuals of larger species
-> may occur. Names of small, opportunistic local species typical of
-> Stage 1 are available in the regional literature. Surface expressions
-> include small tubes (\< 2 millimeters in diameter) of polychaetes or
-> other fauna, or evidence of oligochaete burrowing activities.
-> Subsurface evidence of either small worms or small burrow structures
-> will primarily occur in the upper centimeter of sediment. If examining
-> sediment profile images, guidelines from Rhoads and Germano (1982,
-> 1986) can be followed or the Nilsson-Rosenberg BHQ metrics (Nilsson
-> and Rosenberg 1997, 2000) can be used (Stage 1 BHQ values will range
-> from 2 to \< 5). Bioturbation depths will be shallow, with an aRPD
-> depth typically \> 2 millimeters to \< 2 centimeters.
+> These associations are inhabited by small opportunistic fauna (e.g., > capitellids and spionids) in the upper centimeter of sediment. Larger > fauna are not present, although juvenile individuals of larger species > may occur. Names of small, opportunistic local species typical of > Stage 1 are available in the regional literature. Surface expressions > include small tubes (\< 2 millimeters in diameter) of polychaetes or > other fauna, or evidence of oligochaete burrowing activities. > Subsurface evidence of either small worms or small burrow structures > will primarily occur in the upper centimeter of sediment. If examining > sediment profile images, guidelines from Rhoads and Germano (1982, > 1986) can be followed or the Nilsson-Rosenberg BHQ metrics (Nilsson > and Rosenberg 1997, 2000) can be used (Stage 1 BHQ values will range > from 2 to \< 5). Bioturbation depths will be shallow, with an aRPD > depth typically \> 2 millimeters to \< 2 centimeters.
 
 #### Stage 2
 
-> Communities are characterized by fauna of intermediate sizes typically
-> inhabiting the upper 2-4 centimeters of sediment. This stage is
-> considered transitional and is often variable; in a percentage of
-> samples it will be difficult to clearly distinguish Stage 2 from other
-> stages within the continuous spectrum presented by natural
-> environments. Regional literature identifying species typical of Stage
-> 2 may be referenced. Surface evidence of Stage 2 communities includes
-> openings to small burrows (defined as excavations with a lumen width
-> \< 1 centimeter) and the presence of mid-sized tube dwelling fauna
-> (e.g., robust Ampelisca tube mats; tubes \> 2 millimeters in diameter;
-> or tubes longer than 30 millimeters if very thin). Subsurface evidence
-> includes burrows of polychaetes or other fauna in the upper 2-4
-> centimeters of sediment, small shallow-dwelling opportunistic
-> bivalves, and small feeding voids in the upper 4 centimeters of
-> sediment. If examining sediment profile images, guidelines from Rhoads
-> and Germano (1982, 1986) can be followed or the Nilsson-Rosenberg BHQ
-> metrics (Nilsson and Rosenberg 1997, 2000) can be used (BHQ for Stage
-> 2 will range from 5 to 10).
+> Communities are characterized by fauna of intermediate sizes typically > inhabiting the upper 2-4 centimeters of sediment. This stage is > considered transitional and is often variable; in a percentage of > samples it will be difficult to clearly distinguish Stage 2 from other > stages within the continuous spectrum presented by natural > environments. Regional literature identifying species typical of Stage > 2 may be referenced. Surface evidence of Stage 2 communities includes > openings to small burrows (defined as excavations with a lumen width > \< 1 centimeter) and the presence of mid-sized tube dwelling fauna > (e.g., robust Ampelisca tube mats; tubes \> 2 millimeters in diameter; > or tubes longer than 30 millimeters if very thin). Subsurface evidence > includes burrows of polychaetes or other fauna in the upper 2-4 > centimeters of sediment, small shallow-dwelling opportunistic > bivalves, and small feeding voids in the upper 4 centimeters of > sediment. If examining sediment profile images, guidelines from Rhoads > and Germano (1982, 1986) can be followed or the Nilsson-Rosenberg BHQ > metrics (Nilsson and Rosenberg 1997, 2000) can be used (BHQ for Stage > 2 will range from 5 to 10).
 
 #### Stage 3
 
-> These communities are identified by larger, long-lived, deep burrowing
-> fauna or by evidence of the activities of those fauna; burrowing
-> activities typically extend deeper than 5 centimeters. Characteristic
-> species vary among localities and among environments; species can be
-> identified through regionally appropriate literature. Common surface
-> expression may include very large tube-building fauna (\> 3
-> millimeters in diameter or \> 30 mm in length), larger fecal mounds,
-> burrowing urchins or ophiuroids, pits or tunnel openings (e.g.,
-> crustacean excavations with a lumen width of \> 1 centimeter), or
-> large digging spoils associated with pits or tunnels. Subsurface
-> characteristics include oxygenated or active faunal feeding voids at 5
-> centimeters or deeper, active tunnels (subsurface excavations with a
-> lumen width of \> 1 centimeter) at depth, or presence of large
-> polychaetes or other fauna. Frequently, evidence of smaller,
-> opportunistic fauna will also be present in Stage 3 communities; these
-> fauna are not necessarily eliminated by larger fauna. If evaluating
-> sediment profile images, guidelines from Rhoads and Germano (1982,
-> 1986) can be followed, or the Nilsson-Rosenberg Benthic Habitat
-> Quality (BHQ) metric (Nilsson and Rosenberg 1997, 2000) can be used
-> (Stage 3 will have BHQ \> 10). Extensive bioturbation will be
-> evidenced by deep RPD and aRPD depths.
+> These communities are identified by larger, long-lived, deep burrowing > fauna or by evidence of the activities of those fauna; burrowing > activities typically extend deeper than 5 centimeters. Characteristic > species vary among localities and among environments; species can be > identified through regionally appropriate literature. Common surface > expression may include very large tube-building fauna (\> 3 > millimeters in diameter or \> 30 mm in length), larger fecal mounds, > burrowing urchins or ophiuroids, pits or tunnel openings (e.g., > crustacean excavations with a lumen width of \> 1 centimeter), or > large digging spoils associated with pits or tunnels. Subsurface > characteristics include oxygenated or active faunal feeding voids at 5 > centimeters or deeper, active tunnels (subsurface excavations with a > lumen width of \> 1 centimeter) at depth, or presence of large > polychaetes or other fauna. Frequently, evidence of smaller, > opportunistic fauna will also be present in Stage 3 communities; these > fauna are not necessarily eliminated by larger fauna. If evaluating > sediment profile images, guidelines from Rhoads and Germano (1982, > 1986) can be followed, or the Nilsson-Rosenberg Benthic Habitat > Quality (BHQ) metric (Nilsson and Rosenberg 1997, 2000) can be used > (Stage 3 will have BHQ \> 10). Extensive bioturbation will be > evidenced by deep RPD and aRPD depths.
 
 ### Invertebrate Community Organism Size
 
@@ -8917,64 +8013,27 @@ organisms that occur in both large and small individual sizes.
 
 #### Large Megafauna
 
-> Benthic invertebrate communities that are dominated by organisms that
-> typically reach a body size of \> 3 to 10 centimeters in the smallest
-> dimension (e.g., height, width), with this measurement not to include
-> the length of slender, lateral protrusions (such as arms or
-> tentacles).
+> Benthic invertebrate communities that are dominated by organisms that > typically reach a body size of \> 3 to 10 centimeters in the smallest > dimension (e.g., height, width), with this measurement not to include > the length of slender, lateral protrusions (such as arms or > tentacles).
 
 #### Megafauna
 
-> Benthic invertebrate communities that are dominated by organisms that
-> typically reach a body size of \> 1 to 3 centimeters in the smallest
-> dimension (e.g., height, width), with this measurement not to include
-> the length of slender, lateral protrusions (such as arms or
-> tentacles). These communities may be identified by evidence of these
-> fauna (e.g., large mounds or pit or tunnel openings of \> 1 to 3
-> centimeters).
+> Benthic invertebrate communities that are dominated by organisms that > typically reach a body size of \> 1 to 3 centimeters in the smallest > dimension (e.g., height, width), with this measurement not to include > the length of slender, lateral protrusions (such as arms or > tentacles). These communities may be identified by evidence of these > fauna (e.g., large mounds or pit or tunnel openings of \> 1 to 3 > centimeters).
 
 #### Large Macrofauna
 
-> Benthic invertebrate communities that are dominated by organisms with
-> a body width (smallest dimension) of \> 2 millimeters to 1 centimeter;
-> living organisms larger than this size range are rare in these
-> infaunal or epifaunal associations.
+> Benthic invertebrate communities that are dominated by organisms with > a body width (smallest dimension) of \> 2 millimeters to 1 centimeter; > living organisms larger than this size range are rare in these > infaunal or epifaunal associations.
 
 #### Small Macrofauna
 
-> Benthic invertebrate communities that are dominated by organisms with
-> a body width (smallest dimension) of \> 0.5 to 2 millimeters; living
-> organisms larger than this size range are rare in these infaunal or
-> epifaunal associations.
+> Benthic invertebrate communities that are dominated by organisms with > a body width (smallest dimension) of \> 0.5 to 2 millimeters; living > organisms larger than this size range are rare in these infaunal or > epifaunal associations.
 
 #### Meiofauna
 
-> Benthic invertebrate communities that are dominated by organisms with
-> a body width (smallest dimension) of 0.5 mm or less, that would
-> typically pass through an 0.5 mm sieve but be retained on an 0.25 mm
-> sieve. Living organisms larger than this size range are rare in the
-> infaunal or epifaunal association; the modifier may be applied to any
-> classification unit within Faunal Bed.
+> Benthic invertebrate communities that are dominated by organisms with > a body width (smallest dimension) of 0.5 mm or less, that would > typically pass through an 0.5 mm sieve but be retained on an 0.25 mm > sieve. Living organisms larger than this size range are rare in the > infaunal or epifaunal association; the modifier may be applied to any > classification unit within Faunal Bed.
 
 ### Phytoplankton Productivity
 
-Productivity is a general categorization of the level of primary
-productivity—that is, the photosynthetic activity of autotrophs,
-including plankton, benthic microalgae, macroalgae, and vascular
-vegetation. The density of phytoplankton can be estimated by measuring
-the level of chlorophyll a in the water column, since all phytoplankton
-contain this fluorescent pigment enabling the harvesting of light. This
-measure also indirectly reflects the abundance of dissolved labile
-macronutrients (DIN and DIP), which phytoplankton use in photosynthetic
-processes. In broad terms, chlorophyll a content reflects net
-productivity, giving an indication of the trophic status of the system
-or the balance of primary production; secondary consumption by
-zooplankton, fish, and predators; and export from the system.
-Productivity is indicated by chlorophyll a concentration in water
-columns and by total biomass in macroalgal and rooted vascular plant
-communities. For water column phytoplankton communities, the modifier
-categories were derived, with modification, from the NOAA Estuarine
-Eutrophication Survey (NOAA 1997).
+Productivity is a general categorization of the level of primary productivity—that is, the photosynthetic activity of autotrophs, including plankton, benthic microalgae, macroalgae, and vascular vegetation. The density of phytoplankton can be estimated by measuring the level of chlorophyll a in the water column, since all phytoplankton contain this fluorescent pigment enabling the harvesting of light. This measure also indirectly reflects the abundance of dissolved labile macronutrients (DIN and DIP), which phytoplankton use in photosynthetic processes. In broad terms, chlorophyll a content reflects net productivity, giving an indication of the trophic status of the system or the balance of primary production; secondary consumption by zooplankton, fish, and predators; and export from the system. Productivity is indicated by chlorophyll a concentration in water columns and by total biomass in macroalgal and rooted vascular plant communities. For water column phytoplankton communities, the modifier categories were derived, with modification, from the NOAA Estuarine Eutrophication Survey (NOAA 1997).
 
 #### Oligotrophic (Phytoplankton Productivity)
 
@@ -8990,23 +8049,7 @@ Eutrophication Survey (NOAA 1997).
 
 ### Macrovegetation Productivity
 
-Productivity is a general categorization of the level of primary
-productivity—that is, the photosynthetic activity of autotrophs,
-including plankton, benthic microalgae, macroalgae, and vascular
-vegetation. The density of phytoplankton can be estimated by measuring
-the level of chlorophyll a in the water column, since all phytoplankton
-contain this fluorescent pigment enabling the harvesting of light. This
-measure also indirectly reflects the abundance of dissolved labile
-macronutrients (DIN and DIP), which phytoplankton use in photosynthetic
-processes. In broad terms, chlorophyll a content reflects net
-productivity, giving an indication of the trophic status of the system
-or the balance of primary production; secondary consumption by
-zooplankton, fish, and predators; and export from the system.
-Productivity is indicated by chlorophyll a concentration in water
-columns and by total biomass in macroalgal and rooted vascular plant
-communities. For water column phytoplankton communities, the modifier
-categories were derived, with modification, from the NOAA Estuarine
-Eutrophication Survey (NOAA 1997).
+Productivity is a general categorization of the level of primary productivity—that is, the photosynthetic activity of autotrophs, including plankton, benthic microalgae, macroalgae, and vascular vegetation. The density of phytoplankton can be estimated by measuring the level of chlorophyll a in the water column, since all phytoplankton contain this fluorescent pigment enabling the harvesting of light. This measure also indirectly reflects the abundance of dissolved labile macronutrients (DIN and DIP), which phytoplankton use in photosynthetic processes. In broad terms, chlorophyll a content reflects net productivity, giving an indication of the trophic status of the system or the balance of primary production; secondary consumption by zooplankton, fish, and predators; and export from the system. Productivity is indicated by chlorophyll a concentration in water columns and by total biomass in macroalgal and rooted vascular plant communities. For water column phytoplankton communities, the modifier categories were derived, with modification, from the NOAA Estuarine Eutrophication Survey (NOAA 1997).
 
 #### Oligotrophic (Macrovegetation Productivity)
 
@@ -9024,9 +8067,7 @@ Eutrophication Survey (NOAA 1997).
 
 ### Temporal Persistence
 
-The Temporal Persistence Modifier describes the permanency or
-variability of a hydromorphic, geomorphic, or biological feature.
-
+The Temporal Persistence Modifier describes the permanency or variability of a hydromorphic, geomorphic, or biological feature.
 #### Hours
 
 #### Days
@@ -9045,10 +8086,7 @@ variability of a hydromorphic, geomorphic, or biological feature.
 
 ### Energy Direction
 
-Energy can be classified according to its principal direction of travel
-or influence. In the case of tidal energy, this is generally an
-oscillation between onshore and offshore motions. In the case of
-currents and waves, the energy is usually directional.
+Energy can be classified according to its principal direction of travel or influence. In the case of tidal energy, this is generally an oscillation between onshore and offshore motions. In the case of currents and waves, the energy is usually directional.
 
 #### Baroclinic Energy Direction
 
@@ -9102,8 +8140,7 @@ Energy Intensity is classified into four categories as shown on Table
 
 ### Energy Type
 
-The Energy Type Modifier is adapted from Dethier (1990) and Zacharias et
-al. (1998) with type categories as described in Table 10.9.
+The Energy Type Modifier is adapted from Dethier (1990) and Zacharias et al. (1998) with type categories as described in Table 10.9.
 
 #### Current (Energy Type)
 
@@ -9111,13 +8148,11 @@ al. (1998) with type categories as described in Table 10.9.
 
 #### Internal Wave (Energy Type)
 
-> Vertical and transverse oscillating water motion- below the surface-
-> due to seismic energy or a pressure differential.
+> Vertical and transverse oscillating water motion- below the surface- > due to seismic energy or a pressure differential.
 
 #### Surface Wave (Energy Type)
 
-> Vertical and transverse oscillating surface water motion due to wind
-> or seismic energy.
+> Vertical and transverse oscillating surface water motion due to wind > or seismic energy.
 
 #### Tide (Energy Type)
 
@@ -9129,18 +8164,11 @@ al. (1998) with type categories as described in Table 10.9.
 
 ### Induration
 
-The stability of the substrate is a strong determinant of the
-suitability of an area for colonization by sessile organisms, and for
-feeding or burrowing activities by benthic epifauna and infauna. The
-Induration Modifier can be used to describe the hardness or amount of
-consolidation of bottom sediments (Substrate Component units).
-Induration is often measured with acoustic tools. The following
-categories are adopted from Greene et al. (2007).
+The stability of the substrate is a strong determinant of the suitability of an area for colonization by sessile organisms, and for feeding or burrowing activities by benthic epifauna and infauna. The Induration Modifier can be used to describe the hardness or amount of consolidation of bottom sediments (Substrate Component units). Induration is often measured with acoustic tools. The following categories are adopted from Greene et al. (2007).
 
 #### Hard Induration
 
-> Strongly consolidated fine sediment with low water content, or rock
-> outcrop, or bedrock.
+> Strongly consolidated fine sediment with low water content, or rock > outcrop, or bedrock.
 
 #### Mixed Induration
 
@@ -9148,48 +8176,27 @@ categories are adopted from Greene et al. (2007).
 
 #### Soft Induration
 
-> Loose, fine, unconsolidated, or sediment-covered substrate with a high
-> water content.
+> Loose, fine, unconsolidated, or sediment-covered substrate with a high > water content.
 
 ### Mineral Precipitate
 
-A substrate or deposit formed by the oxidation and precipitation of
-minerals from a body of water. Mineral precipitate substrates may form
-nodules, crusts and geoforms.
+A substrate or deposit formed by the oxidation and precipitation of minerals from a body of water. Mineral precipitate substrates may form nodules, crusts and geoforms.
 
 #### Crust
 
-> A layer of consolidated substrate overlying other consolidated or
-> unconsolidated material. Crusts may be composed of chemical
-> precipitates (e.g. ferromanganese, salt), calcareous or crustose
-> algae, or may form via sediment diagenesis, resulting in surficial
-> lithification.
+> A layer of consolidated substrate overlying other consolidated or > unconsolidated material. Crusts may be composed of chemical > precipitates (e.g. ferromanganese, salt), calcareous or crustose > algae, or may form via sediment diagenesis, resulting in surficial > lithification.
 
 #### Nodules
 
-> Round or spherical concretions that form by accreting in concentric
-> layers around a fragment of some other mineral or biological material,
-> called a nucleus.
+> Round or spherical concretions that form by accreting in concentric > layers around a fragment of some other mineral or biological material, > called a nucleus.
 
 #### Patina
 
-> A thin or patchy layer of consolidated substrate overlying other
-> consolidated or unconsolidated material. Patina may be composed of
-> chemical precipitates (e.g. ferromanganese, salt), calcareous or
-> crustose algae, or may form via sediment diagenesis, resulting in
-> surficial lithification.
+> A thin or patchy layer of consolidated substrate overlying other > consolidated or unconsolidated material. Patina may be composed of > chemical precipitates (e.g. ferromanganese, salt), calcareous or > crustose algae, or may form via sediment diagenesis, resulting in > surficial lithification.
 
 ### Seafloor Rugosity
 
-Seafloor Rugosity, a measure of surface "roughness"", is applicable at
-several scales using different measures (e.g., bathymetric x-y-z data,
-measured transect data, video data). Rugosity is derived as the ratio of
-surface area to planar (flat) area for a grid cell, or as the ratio of
-surface area to linear area along transects, and is calculated as
-follows: ƒr = Ar / Ag where Ar is the real (true, actual) surface area
-and Ag is the geometric surface area (IUPAC 1997). Values for Seafloor
-Rugosity are taken from Greene et al. 2007. The five rugosity types and
-their associated numeric values are given in Table 10.11.
+Seafloor Rugosity, a measure of surface "roughness"", is applicable at several scales using different measures (e.g., bathymetric x-y-z data, measured transect data, video data). Rugosity is derived as the ratio of surface area to planar (flat) area for a grid cell, or as the ratio of surface area to linear area along transects, and is calculated as follows: ƒr = Ar / Ag where Ar is the real (true, actual) surface area and Ag is the geometric surface area (IUPAC 1997). Values for Seafloor Rugosity are taken from Greene et al. 2007. The five rugosity types and their associated numeric values are given in Table 10.11.
 
 #### Very Low (Rugosity)
 
@@ -9213,9 +8220,7 @@ their associated numeric values are given in Table 10.11.
 
 ### Small Scale Slope
 
-The Slope Modifier refers to the angle of the substrate at a scale
-appropriate for the feature being described; Greene et al.’s (2007)
-geological classification is followed here to characterize slope.
+The Slope Modifier refers to the angle of the substrate at a scale appropriate for the feature being described; Greene et al.’s (2007) geological classification is followed here to characterize slope.
 
 #### Flat (Small Scale Slope)
 
@@ -9239,144 +8244,75 @@ geological classification is followed here to characterize slope.
 
 ### Substrate Descriptor
 
-The Substrate Component describes substrate size and composition,
-considering substrate origin as Geologic, Biogenic, and Anthropogenic.
-The Geologic classifications follow Wentworth (1922) and Folk (1954) to
-describe particle sizes and mixes, but do not consider geologic
-composition or several other important attributes. Substrate descriptors
-provide consistent terminology to meet these needs. Certain substrate
-descriptors may be used for other applications as well, e.g.,
-Well-Mixed, Patchy, and Well-Sorted can be used to describe biotic
-communities or other units.
+The Substrate Component describes substrate size and composition, considering substrate origin as Geologic, Biogenic, and Anthropogenic. The Geologic classifications follow Wentworth (1922) and Folk (1954) to describe particle sizes and mixes, but do not consider geologic composition or several other important attributes. Substrate descriptors provide consistent terminology to meet these needs. Certain substrate descriptors may be used for other applications as well, e.g., Well-Mixed, Patchy, and Well-Sorted can be used to describe biotic communities or other units.
 
 #### Carbonate (Substrate)
 
-> Geologic Origin particles or substrates composed mainly of carbonate
-> minerals, e.g., limestone, dolostone.
+> Geologic Origin particles or substrates composed mainly of carbonate > minerals, e.g., limestone, dolostone.
 
 #### Compacted (Substrate)
 
-> Unconsolidated sediments with very little water content and a hard,
-> packed form that resists penetration and resuspension. This is one of
-> several terms that are used in CMECS to describe the fluid consistency
-> of substrates.
+> Unconsolidated sediments with very little water content and a hard, > packed form that resists penetration and resuspension. This is one of > several terms that are used in CMECS to describe the fluid consistency > of substrates.
 
 #### Floc (Substrate)
 
-> A layer of very fine particles suspended in the water column just
-> above firmer sediment. This is often most apparent with visual or
-> imaging techniques, and may appear as a turbid or cloudy layer above a
-> more defined sediment surface. This is one of several terms that are
-> used in CMECS to describe the fluid consistency of substrates.
+> A layer of very fine particles suspended in the water column just > above firmer sediment. This is often most apparent with visual or > imaging techniques, and may appear as a turbid or cloudy layer above a > more defined sediment surface. This is one of several terms that are > used in CMECS to describe the fluid consistency of substrates.
 
 #### Fluid (Substrate)
 
-> Substrate with high water content. When a palmful of sediment is
-> squeezed in the hand, most or all flows through the fingers after full
-> pressure (Schoeneberger et al. 2002). This is one of several terms
-> that are used to describe the fluid consistency of substrates in
-> CMECS.
+> Substrate with high water content. When a palmful of sediment is > squeezed in the hand, most or all flows through the fingers after full > pressure (Schoeneberger et al. 2002). This is one of several terms > that are used to describe the fluid consistency of substrates in > CMECS.
 
 #### Gas (Substrate)
 
-> Subsurface bubbles of gas, possibly resulting from methanogenesis or
-> other biogeochemical processes, are present. Escaping gas may or may
-> not express at the sediment surface.
+> Subsurface bubbles of gas, possibly resulting from methanogenesis or > other biogeochemical processes, are present. Escaping gas may or may > not express at the sediment surface.
 
 #### Mobile (Substrate)
 
-> Bedded sediments which regularly resuspend and/or move with local
-> hydrodynamics due to the density, grain size, shape, and/or high water
-> content of the sediment, or due to the higher hydrodynamic energy
-> experienced in the local area. This term is used in CMECS to describe
-> or predict behavior of substrates.
+> Bedded sediments which regularly resuspend and/or move with local > hydrodynamics due to the density, grain size, shape, and/or high water > content of the sediment, or due to the higher hydrodynamic energy > experienced in the local area. This term is used in CMECS to describe > or predict behavior of substrates.
 
 #### Non-Mobile (Substrate)
 
-> Bedded sediments which do not regularly resuspend and/or move with
-> local hydrodynamics due to the density, grain size, shape, and/or
-> compaction (low water content) of the sediment particles, or due to
-> the lower hydrodynamic energy experienced in the local area. This term
-> is used in CMECS to describe or predict behavior of substrates.
+> Bedded sediments which do not regularly resuspend and/or move with > local hydrodynamics due to the density, grain size, shape, and/or > compaction (low water content) of the sediment particles, or due to > the lower hydrodynamic energy experienced in the local area. This term > is used in CMECS to describe or predict behavior of substrates.
 
 #### Mud Clasts (Substrate)
 
-> Compacted or consolidated fragments (clumps, lumps, balls, shards,
-> etc.) of mud or clay, typically occurring at the sediment surface,
-> with diameters of millimeters to \< 1 meter.
+> Compacted or consolidated fragments (clumps, lumps, balls, shards, > etc.) of mud or clay, typically occurring at the sediment surface, > with diameters of millimeters to \< 1 meter.
 
 #### Patchy (Substrate)
 
-> Different elements within a sample, observational unit, or reporting
-> unit are grouped into clusters or patches at the scale of the sample
-> or unit. "Patchy" implies that clusters of elements or particles are
-> arranged in a haphazard manner, as clusters of pebbles scattered on
-> sand. This is one of several terms used in CMECS to describe unit
-> variability.
+> Different elements within a sample, observational unit, or reporting > unit are grouped into clusters or patches at the scale of the sample > or unit. "Patchy" implies that clusters of elements or particles are > arranged in a haphazard manner, as clusters of pebbles scattered on > sand. This is one of several terms used in CMECS to describe unit > variability.
 
 #### Pelagic Clay (Substrate)
 
-> Deep sea Geologic Substrates composed primarily of aeolian deposits,
-> volcanic ash, and other non-biogenic materials that sink into the very
-> deep oceans, or may be generated in the deep oceans. Pelagic Clays
-> contain less than 30% ooze materials (tests, shells, and frustules of
-> plankters) and are found in areas of low surface productivity.
+> Deep sea Geologic Substrates composed primarily of aeolian deposits, > volcanic ash, and other non-biogenic materials that sink into the very > deep oceans, or may be generated in the deep oceans. Pelagic Clays > contain less than 30% ooze materials (tests, shells, and frustules of > plankters) and are found in areas of low surface productivity.
 
 #### Red Clay (Substrate)
 
-> A type of Pelagic Clay composed primarily of aeolian dust, with
-> various marine-generated particles mixed in (fish bones, teeth,
-> authigenic mineral deposits). Red clays are distinguished by their
-> characteristic bright red or brown color and are found in the deepest
-> and most remote ocean areas. Red Clay contains less than 30% ooze
-> materials.
+> A type of Pelagic Clay composed primarily of aeolian dust, with > various marine-generated particles mixed in (fish bones, teeth, > authigenic mineral deposits). Red clays are distinguished by their > characteristic bright red or brown color and are found in the deepest > and most remote ocean areas. Red Clay contains less than 30% ooze > materials.
 
 #### Siliciclastic (Substrate)
 
-> Geologic Substrate Origin particles or substrates composed primarily
-> of silicate minerals e.g., quartz, sandstone, siltstone.
+> Geologic Substrate Origin particles or substrates composed primarily > of silicate minerals e.g., quartz, sandstone, siltstone.
 
 #### Sulfidic (Substrate)
 
-> Substrate in which bacterial sulfate reduction is an important
-> biogeochemical process; this generally occurs in anaerobic
-> environments and is often identifiable by a very low reflectance black
-> or blue color, and a characteristic "rotten egg" odor when sediments
-> are examined in air.
+> Substrate in which bacterial sulfate reduction is an important > biogeochemical process; this generally occurs in anaerobic > environments and is often identifiable by a very low reflectance black > or blue color, and a characteristic "rotten egg" odor when sediments > are examined in air.
 
 #### Volcaniclastic (Substrate)
 
-> Geologic Origin particles or substrates composed primarily of volcanic
-> rock, crystals, glassy pumice, ash, or other volcanic products.
+> Geologic Origin particles or substrates composed primarily of volcanic > rock, crystals, glassy pumice, ash, or other volcanic products.
 
 #### Volcanic Ash (Substrate)
 
-> A substrate or substrate layer composed primarily of volcanic dust and
-> volcanic ash, often with various aeolian or marine-generated particles
-> mixed in. In areas of the deep sea, where terrigenous input and
-> bioturbation are limited, Volcanic Ash may be present in distinct
-> layers at depth in the substrate matrix (see the "Layers" modifier).
+> A substrate or substrate layer composed primarily of volcanic dust and > volcanic ash, often with various aeolian or marine-generated particles > mixed in. In areas of the deep sea, where terrigenous input and > bioturbation are limited, Volcanic Ash may be present in distinct > layers at depth in the substrate matrix (see the "Layers" modifier).
 
 #### Well-Mixed (Substrate)
 
-> Different elements within a sample, observational unit, or reporting
-> unit are well-mixed or poorly-sorted at the scale of the sample or
-> unit. Well-mixed implies that elements or particles are completely and
-> relatively evenly intermingled, e.g., Granule/Sand/Mud particles in an
-> area with high bioturbation. This is one of several terms used in
-> CMECS to describe unit variability. Note that CMECS does not use the
-> equivalent geological term "Poorly-Sorted", because the descriptor may
-> be used to describe distributions of non-geological features (such as
-> biological communities or Geoform Component structures).
+> Different elements within a sample, observational unit, or reporting > unit are well-mixed or poorly-sorted at the scale of the sample or > unit. Well-mixed implies that elements or particles are completely and > relatively evenly intermingled, e.g., Granule/Sand/Mud particles in an > area with high bioturbation. This is one of several terms used in > CMECS to describe unit variability. Note that CMECS does not use the > equivalent geological term "Poorly-Sorted", because the descriptor may > be used to describe distributions of non-geological features (such as > biological communities or Geoform Component structures).
 
 #### Well-Sorted (Substrate)
 
-> Different elements within a sample, observational unit, or reporting
-> unit are separated into different areas at the scale of the sample or
-> unit. Well-sorted implies that elements or particles are (or have
-> been) separated and arranged in a non- haphazard manner, as an area of
-> Coarse Sand adjacent to an area of Clay. This is one of several terms
-> used in CMECS to describe unit variability.
+> Different elements within a sample, observational unit, or reporting > unit are separated into different areas at the scale of the sample or > unit. Well-sorted implies that elements or particles are (or have > been) separated and arranged in a non- haphazard manner, as an area of > Coarse Sand adjacent to an area of Clay. This is one of several terms > used in CMECS to describe unit variability.
 
 #### Porous
 
@@ -9384,62 +8320,35 @@ communities or other units.
 
 ### Surface Pattern
 
-The surface of the seafloor may be flat (on a scale of centimeters or
-meters), or it may be characterized by roughness or pattern. The
-Substrate Component describes substrate size and composition, while the
-Geoform Component describes texture or shape—including the Surface
-Pattern Modifier. These roughness patterns may have physical origins
-(e.g., caused by wave or current action) or biological origins (due to
-activities of life forms, e.g., mounds or tunnels). Physically
-influenced bedforms may appear as regularly spaced “sand ripples” (with
-a wavelength on the order of centimeters), which may be indicative of
-wave oscillations or of current flows. Physical energy in soft-sediment
-areas may occur through riverine flow or tidally driven flow, leading to
-erosion and deposition of mobile sediment layers.
+The surface of the seafloor may be flat (on a scale of centimeters or meters), or it may be characterized by roughness or pattern. The Substrate Component describes substrate size and composition, while the Geoform Component describes texture or shape—including the Surface Pattern Modifier. These roughness patterns may have physical origins (e.g., caused by wave or current action) or biological origins (due to activities of life forms, e.g., mounds or tunnels). Physically influenced bedforms may appear as regularly spaced “sand ripples” (with a wavelength on the order of centimeters), which may be indicative of wave oscillations or of current flows. Physical energy in soft-sediment areas may occur through riverine flow or tidally driven flow, leading to erosion and deposition of mobile sediment layers.
 
 #### Biological (Surface Pattern)
 
-> Roughness appears due to bioturbation, fecal mounds, tunneling,
-> feeding or locomotory activities of megafauna, or other faunal
-> activities. Further characterization of biological features is
-> described in the Biotic Component.
+> Roughness appears due to bioturbation, fecal mounds, tunneling, > feeding or locomotory activities of megafauna, or other faunal > activities. Further characterization of biological features is > described in the Biotic Component.
 
 #### Irregular (Surface Pattern)
 
-> Sediment surface has a perceptible roughness or texture that is
-> non-regular in either frequency, direction, or amplitude.
+> Sediment surface has a perceptible roughness or texture that is > non-regular in either frequency, direction, or amplitude.
 
 #### Physical (Surface Pattern)
 
-> Roughness appears due to water motion, but the nature of the roughness
-> is other than Rippled.
+> Roughness appears due to water motion, but the nature of the roughness > is other than Rippled.
 
 #### Rippled (Surface Pattern)
 
-> Closely spaced, regular, repeating, vertical variations in the height
-> of a sandy or muddy bottom, with a very short wavelength on the order
-> of centimeters. A rippled substrate is generally caused by the
-> physical processes of water motion.
+> Closely spaced, regular, repeating, vertical variations in the height > of a sandy or muddy bottom, with a very short wavelength on the order > of centimeters. A rippled substrate is generally caused by the > physical processes of water motion.
 
 #### Scarred (Surface Pattern)
 
-> Roughness appears due to localized sediment disturbance resulting
-> either from natural causes (e.g., slumps) or anthropogenic causes
-> (e.g., anchor scars, propeller scars, trawl scars, or other fishing
-> gear scars), but not as an artifact of camera or sampling gear
-> deployment.
+> Roughness appears due to localized sediment disturbance resulting > either from natural causes (e.g., slumps) or anthropogenic causes > (e.g., anchor scars, propeller scars, trawl scars, or other fishing > gear scars), but not as an artifact of camera or sampling gear > deployment.
 
 #### Smooth (Surface Pattern)
 
-> No perceptible roughness or texture to sediment surface at scales of
-> less than 1 meter.
+> No perceptible roughness or texture to sediment surface at scales of > less than 1 meter.
 
 ### Tidal Regime (Amplitude)
 
-The Tidal Regime Modifier refers to the height difference between mean
-high tide and mean low tide at the coast. The mean range gives a proxy
-for the energy and flow associated with tidal motions. Tidal Regime is
-shown in Table 10.15.
+The Tidal Regime Modifier refers to the height difference between mean high tide and mean low tide at the coast. The mean range gives a proxy for the energy and flow associated with tidal motions. Tidal Regime is shown in Table 10.15.
 
 #### Atidal
 
@@ -9467,9 +8376,7 @@ shown in Table 10.15.
 
 ### Wave Regime (Amplitude)
 
-This modifier is intended to quantify intensity of wave energy by
-amplitude, and can be applied on any time scale, as specified by the
-user.
+This modifier is intended to quantify intensity of wave energy by amplitude, and can be applied on any time scale, as specified by the user.
 
 #### Quiescent
 
@@ -9503,18 +8410,7 @@ user.
 
 ### Oxygen Regime
 
-Oxygen concentration is an important water column modifier. Oxygen is
-critical to aerobic organisms and to aerobic processes (such as chemical
-oxidation and microbial respiration). Dissolved oxygen levels change
-daily in a dramatic way in systems such as estuaries, where they often
-go from hypoxic (at night) to saturated (during the day). The Oxygen
-Regime Modifier is intended for use in reporting persistent oxygen
-conditions, or can be used to explain variable regimes as described by
-the user. Oxygen levels are determined according to the following
-ranges, for the time scales and durations specified by the user;
-practitioners may specify, e.g., “oxygen varies from highly oxic during
-daylight hours to severely hypoxic at night”. Furthermore, practitioners
-should note that oxygen saturation varies with temperature and pressure.
+Oxygen concentration is an important water column modifier. Oxygen is critical to aerobic organisms and to aerobic processes (such as chemical oxidation and microbial respiration). Dissolved oxygen levels change daily in a dramatic way in systems such as estuaries, where they often go from hypoxic (at night) to saturated (during the day). The Oxygen Regime Modifier is intended for use in reporting persistent oxygen conditions, or can be used to explain variable regimes as described by the user. Oxygen levels are determined according to the following ranges, for the time scales and durations specified by the user; practitioners may specify, e.g., “oxygen varies from highly oxic during daylight hours to severely hypoxic at night”. Furthermore, practitioners should note that oxygen saturation varies with temperature and pressure.
 
 #### Anoxic
 
@@ -9542,40 +8438,21 @@ should note that oxygen saturation varies with temperature and pressure.
 
 ### Photic Quality
 
-Photic quality is a highly variable parameter. In many cases, water is
-clear and downwelling light penetration extends the photic zone to the
-bottom of the water column. In cases of reduced water clarity, light is
-highly attenuated. Photic exposure depends on the depth, sun angle,
-cloud cover, time of year, and other factors. Moreover, the depth of the
-shift from photic to aphotic occurs at different points in the water
-column, depending on the ecosystem, watershed, and suspended substances
-reducing water clarity.
+Photic quality is a highly variable parameter. In many cases, water is clear and downwelling light penetration extends the photic zone to the bottom of the water column. In cases of reduced water clarity, light is highly attenuated. Photic exposure depends on the depth, sun angle, cloud cover, time of year, and other factors. Moreover, the depth of the shift from photic to aphotic occurs at different points in the water column, depending on the ecosystem, watershed, and suspended substances reducing water clarity.
 
-Vertical zones are evaluated relative to the penetration of light
-(photic and aphotic) for both water column and benthic components. The
-depth of the photic zone can also be calculated from ocean color imagery
-using satellite algorithms (Lee et al. 2007).
+Vertical zones are evaluated relative to the penetration of light (photic and aphotic) for both water column and benthic components. The depth of the photic zone can also be calculated from ocean color imagery using satellite algorithms (Lee et al. 2007).
 
 #### Aphotic
 
-> Region of the water column where no ambient light penetrates, no
-> photosynthesis occurs, and animals cannot make use of visual cues
-> based on even reduced levels of ambient light. In oceans, this zone
-> typically lies below 500-1,000 meters of depth. In turbid estuaries,
-> this zone may be very shallow.
+> Region of the water column where no ambient light penetrates, no > photosynthesis occurs, and animals cannot make use of visual cues > based on even reduced levels of ambient light. In oceans, this zone > typically lies below 500-1,000 meters of depth. In turbid estuaries, > this zone may be very shallow.
 
 #### Dysphotic
 
-> Region of the water column, below the compensation depth, that
-> receives less than 2% of the surface light; plants and algae cannot
-> achieve positive photosynthetic production in this region, but some
-> ambient light does penetrate such that animals can make use of visual
-> cues based on reduced levels of ambient light.
+> Region of the water column, below the compensation depth, that > receives less than 2% of the surface light; plants and algae cannot > achieve positive photosynthetic production in this region, but some > ambient light does penetrate such that animals can make use of visual > cues based on reduced levels of ambient light.
 
 #### Photic
 
-> Region of the water column where ambient light is \> 2% of surface
-> light and phototrophic organisms can photosynthesize.
+> Region of the water column where ambient light is \> 2% of surface > light and phototrophic organisms can photosynthesize.
 
 #### Seasonally Photic
 
@@ -9585,41 +8462,13 @@ using satellite algorithms (Lee et al. 2007).
 
 #### aRPD and RPD Depth
 
-> The apparent Redox Potential Discontinuity (aRPD) is a measurement of
-> the depth of the “color break,” that is, the maximum color difference
-> below the sediment-water interface at which lighter-colored (tan,
-> brown, beige, yellow, or red), more-oxidized surface sediments
-> transition into darker-colored (grey, black, or blue-black),
-> more-reduced deeper sediments. The depth of the aRPD is easily
-> measured, and it has been found to be an extremely useful parameter in
-> characterizing certain biogeochemical aspects of the sedimentary
-> environment. For instance, the aRPD represents the depth at which iron
-> exists as colored, insoluble, ferric hydroxides, which dissolve into
-> solution as iron monosulfides in a reducing environment, e.g., in the
-> presence of sulfate reduction (Teal et al. 2009).
+> The apparent Redox Potential Discontinuity (aRPD) is a measurement of the depth of the “color break,” that is, the maximum color difference below the sediment-water interface at which lighter-colored (tan, brown, beige, yellow, or red), more-oxidized surface sediments transition into darker-colored (grey, black, or blue-black) more-reduced deeper sediments. The depth of the aRPD is easily measured, and it has been found to be an extremely useful parameter in characterizing certain biogeochemical aspects of the sedimentary environment. For instance, the aRPD represents the depth at which iron exists as colored, insoluble, ferric hydroxides, which dissolve into solution as iron monosulfides in a reducing environment, e.g., in the presence of sulfate reduction (Teal et al. 2009).
+> 
+> The aRPD is strongly correlated to the true RPD depth (Grizzle and Penniman 1991; Rosenberg et al. 2001), which is the depth where Eh (measured sediment reduction/oxidation potential) is zero. Both values are very useful as proxies for bioturbation (because the values are extended deeper by the effects of bioturbating fauna), and both are correlated to bottom-water dissolved-oxygen concentration (Rosenberg 1977; Diaz, Cutter, and Rhoads 1994; Cicchetti et al. 2006). The aRPD can be measured with a variety of techniques including retrieval of cores, sediment profile imaging, and direct observation. The RPD can be measured using microelectrodes, either in retrieved cores or *in situ*.
 >
-> The aRPD is strongly correlated to the true RPD depth (Grizzle and
-> Penniman 1991; Rosenberg et al. 2001), which is the depth where Eh
-> (measured sediment reduction/oxidation potential) is zero. Both values
-> are very useful as proxies for bioturbation (because the values are
-> extended deeper by the effects of bioturbating fauna), and both are
-> correlated to bottom-water dissolved-oxygen concentration (Rosenberg
-> 1977; Diaz, Cutter, and Rhoads 1994; Cicchetti et al. 2006). The aRPD
-> can be measured with a variety of techniques including retrieval of
-> cores, sediment profile imaging, and direct observation. The RPD can
-> be measured using microelectrodes, either in retrieved cores or *in
-> situ*.
+> RPD (centimeters) – The RPD is measured with electrodes, and is > reported in centimeters.
 >
-> RPD (centimeters) – The RPD is measured with electrodes, and is
-> reported in centimeters.
->
-> aRPD depth (centimeters), muddy sediments – The aRPD depth is measured
-> at the color transition based on direct observation or from images,
-> and it can be reported in centimeters or following the terms defined
-> below (from Nilsson and Rosenberg 1997). These modifier terms apply
-> only to sediments that contain some mud; aRPD depths manifest
-> differently in sand sediments that are dominated by different
-> diffusional processes and rates.
+> aRPD depth (centimeters), muddy sediments – The aRPD depth is measured > at the color transition based on direct observation or from images, > and it can be reported in centimeters or following the terms defined > below (from Nilsson and Rosenberg 1997). These modifier terms apply > only to sediments that contain some mud; aRPD depths manifest > differently in sand sediments that are dominated by different > diffusional processes and rates.
 
 #### Zero (aRPD and RPD Depth)
 
@@ -9681,13 +8530,7 @@ users.
 
 ### Temperature Range
 
-As with salinity, temperature is considered a classifier for the Water
-Column Component, i.e., it is an essential parameter for measurement in
-order to effectively classify the water column. Likewise, users may wish
-to apply the CMECS terminology for temperature within other components
-when the water column itself is not being classified. The temperature
-ranges are repeated here in the modifier section to allow this
-convenience for users.
+As with salinity, temperature is considered a classifier for the Water Column Component, i.e., it is an essential parameter for measurement in order to effectively classify the water column. Likewise, users may wish to apply the CMECS terminology for temperature within other components when the water column itself is not being classified. The temperature ranges are repeated here in the modifier section to allow this convenience for users.
 
 #### Frozen/Superchilled (Temperature Range)
 
@@ -9727,16 +8570,7 @@ convenience for users.
 
 ### Turbidity
 
-Turbidity is a factor of the suspended solids and color within the water
-column, and it affects light attenuation and the depth to which light
-penetrates in the water column. This is critically important for
-autotrophs that convert light to photosynthetic products. Turbidity also
-has important effects on visual hunting and predation avoidance. While
-turbidity is frequently reported in Nephelometric Turbidity Units
-(NTUs), CMECS establishes categories for turbidity based on Secchi disk
-depth; it would be difficult to standardize turbidity by NTUs due to
-regional variations in background measurements. Secchi disk observations
-are commonly used in the marine environment.
+Turbidity is a factor of the suspended solids and color within the water column, and it affects light attenuation and the depth to which light penetrates in the water column. This is critically important for autotrophs that convert light to photosynthetic products. Turbidity also has important effects on visual hunting and predation avoidance. While turbidity is frequently reported in Nephelometric Turbidity Units (NTUs), CMECS establishes categories for turbidity based on Secchi disk depth; it would be difficult to standardize turbidity by NTUs due to regional variations in background measurements. Secchi disk observations are commonly used in the marine environment.
 
 #### Extremely Turbid
 
@@ -9760,34 +8594,23 @@ are commonly used in the marine environment.
 
 ### Turbidity Type
 
-The provenance of the attenuating substance, whether the reduced water
-clarity is derived from chlorophyll pigments (e.g., phytoplankton
-blooms), from color due to dissolved substances in the water (e.g.,
-gelbstoff or tannins), from imported mineral terrigenous sediments, or
-from carbonate particulates in resuspension, is an important qualitative
-characteristic of turbidity. This qualitative assessment can be used in
-addition to a qualitative or quantitative evaluation of the degree of
-turbidity in the water column.
+The provenance of the attenuating substance, whether the reduced water clarity is derived from chlorophyll pigments (e.g., phytoplankton blooms), from color due to dissolved substances in the water (e.g., gelbstoff or tannins), from imported mineral terrigenous sediments, or from carbonate particulates in resuspension, is an important qualitative characteristic of turbidity. This qualitative assessment can be used in addition to a qualitative or quantitative evaluation of the degree of turbidity in the water column.
 
 #### Carbonate Particulates
 
-> Attenuation produced by suspended precipitated CaCO3 in the water
-> column, generally creating an opaque "milky" appearance.
+> Attenuation produced by suspended precipitated CaCO3 in the water > column, generally creating an opaque "milky" appearance.
 
 #### Chlorophyll
 
-> Attenuation produced by chlorophyll a, b, c, or d as constituents of
-> live phytoplankton in the water column.
+> Attenuation produced by chlorophyll a, b, c, or d as constituents of > live phytoplankton in the water column.
 
 #### Colloidal Precipitates
 
-> Dispersed particulates that precipitate out of the water to form
-> aggregations such as marine snow.
+> Dispersed particulates that precipitate out of the water to form > aggregations such as marine snow.
 
 #### Mineral Precipitates
 
-> Attenuation produced by suspended inorganic sediments derived from
-> soil and rock weathering.
+> Attenuation produced by suspended inorganic sediments derived from > soil and rock weathering.
 
 #### Detritus
 
@@ -9803,14 +8626,7 @@ turbidity in the water column.
 
 ### Turbidity Provenance
 
-The provenance of the attenuating substance―whether the reduced water
-clarity is derived from chlorophyll pigments (e.g., phytoplankton
-blooms), from color due to dissolved substances in the water (e.g.,
-gelbstoff or tannins), from imported mineral terrigenous sediments, or
-from carbonate particulates in resuspension—is an important qualitative
-characteristic of turbidity. This qualitative assessment can be used in
-addition to a qualitative or quantitative evaluation of the degree of
-turbidity in the water column.
+The provenance of the attenuating substance―whether the reduced water clarity is derived from chlorophyll pigments (e.g., phytoplankton blooms), from color due to dissolved substances in the water (e.g., gelbstoff or tannins), from imported mineral terrigenous sediments, or from carbonate particulates in resuspension—is an important qualitative characteristic of turbidity. This qualitative assessment can be used in addition to a qualitative or quantitative evaluation of the degree of turbidity in the water column.
 
 #### Allochthonous
 
@@ -9830,31 +8646,15 @@ turbidity in the water column.
 
 #### Resuspended
 
-> Deposited materials mixed into the water column by currents (e.g.,
-> bottom sediments).
+> Deposited materials mixed into the water column by currents (e.g., > bottom sediments).
 
 #### Terrigenous Origin
 
-> Materials, water, or energy in a water body resulting from land
-> drainage or wind deposits.
+> Materials, water, or energy in a water body resulting from land > drainage or wind deposits.
 
 ### Water Column Stability Regime
 
-Water column stability can be characterized as stratified, partially
-mixed, and well-mixed. This structure is defined by density
-differentials from bottom to surface, as shown in the table below. Water
-Column Stability is assessed using the more universally applied delta
-Sigma-t to calculate stability, which incorporates salinity, temperature
-into the calculation of density and adjusts for adiabatic effects (Pond
-and Pickard 1983). The Stability Regime modifier compares the calculated
-delta Sigma-t, or the relative density of two water parcels by
-subtraction of the density of the surface layer from the density of the
-deeper layer. If the density difference equals or exceeds 0.125, the
-water column is considered to be vertically stable; if it differs by
-less than 0.125, and density is homogeneous between the upper and lower
-layers, the water column is classified as well-mixed. If the density
-difference is less than 0.125 and variable between the two layers, the
-water column is classified as partially mixed.
+Water column stability can be characterized as stratified, partially mixed, and well-mixed. This structure is defined by density differentials from bottom to surface, as shown in the table below. Water Column Stability is assessed using the more universally applied delta Sigma-t to calculate stability, which incorporates salinity, temperature into the calculation of density and adjusts for adiabatic effects (Pond and Pickard 1983). The Stability Regime modifier compares the calculated delta Sigma-t, or the relative density of two water parcels by subtraction of the density of the surface layer from the density of the deeper layer. If the density difference equals or exceeds 0.125, the water column is considered to be vertically stable; if it differs by less than 0.125, and density is homogeneous between the upper and lower layers, the water column is classified as well-mixed. If the density difference is less than 0.125 and variable between the two layers, the water column is classified as partially mixed.
 
 #### Partially Stratified
 
@@ -9872,15 +8672,7 @@ water column is classified as partially mixed.
 
 ### Benthic Depth Zone
 
-The depths of benthic zones vary depending on regional geology and
-turbidity. It is often useful to describe a specific depth or range of
-depths for the bottom, and the CMECS Benthic Depth Zone Modifiers
-represent the major divisions in a gradient from land to the deep ocean
-bottom. They are generally based on the zones in which surf or ocean
-swell influences bottom communities, lower limits of vegetation (such as
-kelp), overall photic availability, and temperature. The zones within
-this category are drawn or adapted from Greene et al. (2007) and Connor
-(1997).
+The depths of benthic zones vary depending on regional geology and turbidity. It is often useful to describe a specific depth or range of depths for the bottom, and the CMECS Benthic Depth Zone Modifiers represent the major divisions in a gradient from land to the deep ocean bottom. They are generally based on the zones in which surf or ocean swell influences bottom communities, lower limits of vegetation (such as kelp), overall photic availability, and temperature. The zones within this category are drawn or adapted from Greene et al. (2007) and Connor (1997).
 
 #### Littoral
 
@@ -9916,169 +8708,89 @@ this category are drawn or adapted from Greene et al. (2007) and Connor
 
 ### Co-occurring Elements (Descriptive)
 
-Nature is inherently a mixture or a continuum. CMECS provides an
-ecologically meaningful methodology to classify nature into discrete
-environmental types using consistent threshold values that define
-primary classification units. However, in natural coastal and marine
-settings, less abundant, co-occurring (or secondary) features are
-frequently mixed into these primary classification types at some level
-beneath a classification threshold. Therefore, these co-occurring
-features are not recognized in the syntax of the primary classification.
-In some situations, project goals may require identification of these
-co-occurring features and associated taxa. In other situations,
-identification of co-occurring materials, taxa, or mixes may detract
-from project goals.
+Nature is inherently a mixture or a continuum. CMECS provides an ecologically meaningful methodology to classify nature into discrete environmental types using consistent threshold values that define primary classification units. However, in natural coastal and marine settings, less abundant, co-occurring (or secondary) features are frequently mixed into these primary classification types at some level beneath a classification threshold. Therefore, these co-occurring features are not recognized in the syntax of the primary classification. In some situations, project goals may require identification of these co-occurring features and associated taxa. In other situations, identification of co-occurring materials, taxa, or mixes may detract from project goals.
 
-CMECS provides a modifier, Co-occurring Elements, for identification of
-secondary CMECS classification units that are mixed into a primary
-classification unit at a level below the classification threshold.
-Co-occurring Elements are used in the hierarchical Biotic and Substrate
-Components when the primary feature and the co-occurring feature are
-both units in that same Component. More information and examples of
-Co-occurring Elements can be found on page 213.
+CMECS provides a modifier, Co-occurring Elements, for identification of secondary CMECS classification units that are mixed into a primary classification unit at a level below the classification threshold. Co-occurring Elements are used in the hierarchical Biotic and Substrate Components when the primary feature and the co-occurring feature are both units in that same Component. More information and examples of Co-occurring Elements can be found on page 213.
 
 ### Coral Reef Zone
 
-All coral reef environments contain distinct horizontal and vertical
-zones created by differences in depth, morphology, wave and current
-energy, temperature, and light. The following zones are commonly present
-on shallow and mesophotic reefs (Zitello et al. 2009).
+All coral reef environments contain distinct horizontal and vertical zones created by differences in depth, morphology, wave and current energy, temperature, and light. The following zones are commonly present on shallow and mesophotic reefs (Zitello et al. 2009).
 
 #### Back Reef (Coral Reef Zone)
 
-> Area between the seaward edge of a lagoon floor and the landward edge
-> of a reef crest. This zone is present only when a reef crest exists.
+> Area between the seaward edge of a lagoon floor and the landward edge > of a reef crest. This zone is present only when a reef crest exists.
 
 #### Bank/Shelf (Coral Reef Zone)
 
-> Deeper water area (usually \> 30 meters) extending offshore from the
-> seaward edge of the fore reef (or shoreline) to the beginning of the
-> bank/shelf escarpment where the insular shelf drops off into deep,
-> oceanic water.
+> Deeper water area (usually \> 30 meters) extending offshore from the > seaward edge of the fore reef (or shoreline) to the beginning of the > bank/shelf escarpment where the insular shelf drops off into deep, > oceanic water.
 
 #### Bank/Shelf Escarpment (Coral Reef Zone)
 
-> The edge of the bank/shelf where depth increases rapidly into deep
-> oceanic water. This zone begins at approximately 20-30 meters depth,
-> near the depth limit of features visible in aerial images. This zone
-> extends well into depths exceeding those that can be seen on aerial
-> photos, and this zone is intended to capture the transition from the
-> bank/shelf to deep waters of the open ocean.
+> The edge of the bank/shelf where depth increases rapidly into deep > oceanic water. This zone begins at approximately 20-30 meters depth, > near the depth limit of features visible in aerial images. This zone > extends well into depths exceeding those that can be seen on aerial > photos, and this zone is intended to capture the transition from the > bank/shelf to deep waters of the open ocean.
 
 #### Fore Reef (Coral Reef Zone)
 
-> Area from the seaward edge of the reef crests (which slopes into
-> deeper water) to the landward edge of the bank/shelf platform.
-> Features not forming an emergent reef crest- but still having a
-> seaward-facing slope that is significantly greater than the slope of
-> the bank/shelf- are also designated as forereef.
+> Area from the seaward edge of the reef crests (which slopes into > deeper water) to the landward edge of the bank/shelf platform. > Features not forming an emergent reef crest- but still having a > seaward-facing slope that is significantly greater than the slope of > the bank/shelf- are also designated as forereef.
 
 #### Lagoon (Coral Reef Zone)
 
-> Shallow area (relative to the deeper water of the bank/shelf) between
-> the shoreline intertidal zone and a back reef or barrier island. This
-> zone is protected from the high-energy waves commonly experienced on
-> the bank/shelf and reef crest. If no reef crest is present, there is
-> no lagoon zone.
+> Shallow area (relative to the deeper water of the bank/shelf) between > the shoreline intertidal zone and a back reef or barrier island. This > zone is protected from the high-energy waves commonly experienced on > the bank/shelf and reef crest. If no reef crest is present, there is > no lagoon zone.
 
 #### Reef Crest (Coral Reef Zone)
 
-> The flattened, emergent (especially during low tides) or nearly
-> emergent segment of a reef. This zone lies between the back reef and
-> fore reef zones. In aerial images, breaking waves will often be
-> visible at the seaward edge of this zone.
+> The flattened, emergent (especially during low tides) or nearly > emergent segment of a reef. This zone lies between the back reef and > fore reef zones. In aerial images, breaking waves will often be > visible at the seaward edge of this zone.
 
 #### Reef Flat (Coral Reef Zone)
 
-> Shallow (semi-exposed) area between the shoreline intertidal zone and
-> the reef crest of a fringing reef. This zone is protected from the
-> high-energy waves commonly experienced on the shelf and reef crest.
-> Reef flat is typically not present if there is a lagoon zone.
+> Shallow (semi-exposed) area between the shoreline intertidal zone and > the reef crest of a fringing reef. This zone is protected from the > high-energy waves commonly experienced on the shelf and reef crest. > Reef flat is typically not present if there is a lagoon zone.
 
 #### Ridges and Swales (Coral Reef Zone)
 
-> An area of numerous thin, narrow, discontinuous bands of coral ridges
-> and leeward sand- and sediment-filled swales. Debris and reef-rubble
-> fields behind many of the reefs may obscure these margin-parallel
-> seabed features. In Florida, for example, this zone extends for an
-> estimated 200 kilometers along the Florida shelf (from Key Largo to
-> Halfmoon Shoal), and it is discontinuous due to (a) topography, (b)
-> inconsistent responses of coral reefs to changing sea levels, and (c)
-> varying effects of the physical environment on reefs and sediments.
+> An area of numerous thin, narrow, discontinuous bands of coral ridges > and leeward sand- and sediment-filled swales. Debris and reef-rubble > fields behind many of the reefs may obscure these margin-parallel > seabed features. In Florida, for example, this zone extends for an > estimated 200 kilometers along the Florida shelf (from Key Largo to > Halfmoon Shoal), and it is discontinuous due to (a) topography, (b) > inconsistent responses of coral reefs to changing sea levels, and (c) > varying effects of the physical environment on reefs and sediments.
 
 #### Shoreline/Intertidal (Coral Reef Zone)
 
-> Area between the mean high water line (or the landward edge of
-> emergent vegetation- such as Red Mangrove- when present) and the
-> lowest spring tide level (excluding emergent segments of barrier
-> reefs).
+> Area between the mean high water line (or the landward edge of > emergent vegetation- such as Red Mangrove- when present) and the > lowest spring tide level (excluding emergent segments of barrier > reefs).
 
 #### Vertical Wall (Coral Reef Zone)
 
-> Area with near-vertical slope from the shore to the shelf (or shelf
-> escarpment). This zone is typically narrow and may not be
-> distinguishable in remotely gathered imagery; however, it is included
-> because it is recognized as a biologically important feature.
+> Area with near-vertical slope from the shore to the shelf (or shelf > escarpment). This zone is typically narrow and may not be > distinguishable in remotely gathered imagery; however, it is included > because it is recognized as a biologically important feature.
 
 ### Enclosure
 
-Enclosure represents the degree of isolation of a water body from other
-waters because of enclosure by a land mass. In estuaries, enclosure
-determines the degree of exchange of water, materials, energy, and biota
-between the estuary and the sea. More enclosed water bodies have longer
-water residence times, can tend to be more evaporative and hypersaline,
-and can more readily trap and retain materials within them.
+Enclosure represents the degree of isolation of a water body from other waters because of enclosure by a land mass. In estuaries, enclosure determines the degree of exchange of water, materials, energy, and biota between the estuary and the sea. More enclosed water bodies have longer water residence times, can tend to be more evaporative and hypersaline, and can more readily trap and retain materials within them.
 
 #### Unenclosed
 
-> Greater than or equal to 150-degree angular gap from landward end of
-> water body to seaward opening; no confining land masses (e.g.,
-> islands) within or just outside water body.
+> Greater than or equal to 150-degree angular gap from landward end of > water body to seaward opening; no confining land masses (e.g., > islands) within or just outside water body.
 
 #### Partially enclosed
 
-> 90-degree to less than 150-degree angular gap from landward end of
-> water body to seaward opening.
+> 90-degree to less than 150-degree angular gap from landward end of > water body to seaward opening.
 
 #### Significantly enclosed
 
-> 45-degree to less than 90-degree angular gap from landward end of
-> water body to seaward opening.
+> 45-degree to less than 90-degree angular gap from landward end of > water body to seaward opening.
 
 #### Very enclosed
 
-> 10-degree to less than 45-degree angular gap from landward end of
-> water body to seaward opening.
+> 10-degree to less than 45-degree angular gap from landward end of > water body to seaward opening.
 
 #### Enclosed
 
-> Essentially separated from the ocean; waters are completely surrounded
-> by land or with a narrow channel connection to the sea. This category
-> includes perched estuaries and lagoonal estuaries.
+> Essentially separated from the ocean; waters are completely surrounded > by land or with a narrow channel connection to the sea. This category > includes perched estuaries and lagoonal estuaries.
 
 #### Intermittent
 
-> Class of water bodies that regularly close due to low flow, opening
-> seasonally during high flow. Also called ICOLL (Intermittently Closed
-> and Open Lake or Lagoon).
+> Class of water bodies that regularly close due to low flow, opening > seasonally during high flow. Also called ICOLL (Intermittently Closed > and Open Lake or Lagoon).
 
 ### Percent Cover Range
 
-To classify a unit to the class and subclass level of the Biotic
-Component, a user needs to know the relative percent cover of each of
-the components of the substrate. The degree of substrate cover for each
-biotic feature is assessed using the following ranges. These categories
-can also be used as a modifier to describe the density of vegetation
-(such as seagrasses) or other substrate components, and are useful in
-the Substrate component as well. Coarse Percent Cover can be described
-using one of five coarse descriptors, e.g., "Sparse", or, if greater
-detail is needed, Fine Percent Cover can be described using one of
-eleven range categories, e.g., "10 to less than 20%".
+To classify a unit to the class and subclass level of the Biotic Component, a user needs to know the relative percent cover of each of the components of the substrate. The degree of substrate cover for each biotic feature is assessed using the following ranges. These categories can also be used as a modifier to describe the density of vegetation (such as seagrasses) or other substrate components, and are useful in the Substrate component as well. Coarse Percent Cover can be described using one of five coarse descriptors, e.g., "Sparse", or, if greater detail is needed, Fine Percent Cover can be described using one of eleven range categories, e.g., "10 to less than 20%".
 
 #### Fine Percent Cover Range
 
-> Fine Percent Cover can be described using one of eleven range
-> categories, e.g., "10 to less than 20 percent".
+> Fine Percent Cover can be described using one of eleven range > categories, e.g., "10 to less than 20 percent".
 
 ##### Less than 1%
 
@@ -10102,8 +8814,7 @@ eleven range categories, e.g., "10 to less than 20%".
 
 #### Coarse Percent Cover Range
 
-> Coarse Percent Cover can be described using one of five coarse
-> descriptors, e.g., "Sparse".
+> Coarse Percent Cover can be described using one of five coarse > descriptors, e.g., "Sparse".
 
 ##### 90 to 100%
 
@@ -10119,8 +8830,7 @@ eleven range categories, e.g., "10 to less than 20%".
 
 ### Elevation Profile
 
-The Profile Modifier refers to the elevation of a feature relative to
-the surrounding level of the water or bed.
+The Profile Modifier refers to the elevation of a feature relative to the surrounding level of the water or bed.
 
 #### None (Elevation Profile)
 
@@ -10140,27 +8850,11 @@ the surrounding level of the water or bed.
 
 ### Substrate Layering (Descriptive)
 
-Although certain large fauna may penetrate several meters below the
-surface in soft sediments, CMECS generally considers the uppermost 15
-centimeters of fine substrates, recognizing that evidence of very-deep
-burrowing fauna will also be present in the top 15 centimeters. The
-upper 15 centimeters of substrate may present as a set of horizontal
-layers constituting a three-dimensional matrix. A basic identification
-of horizontal substrate layers can be accomplished by describing the
-characteristics of these layers and recording the mean thickness in
-centimeters together with the ordering of each layer below the sediment
-surface.
+Although certain large fauna may penetrate several meters below the surface in soft sediments, CMECS generally considers the uppermost 15 centimeters of fine substrates, recognizing that evidence of very-deep burrowing fauna will also be present in the top 15 centimeters. The upper 15 centimeters of substrate may present as a set of horizontal layers constituting a three-dimensional matrix. A basic identification of horizontal substrate layers can be accomplished by describing the characteristics of these layers and recording the mean thickness in centimeters together with the ordering of each layer below the sediment surface.
 
-The structuring of distinctly layered sediments is captured in CMECS as
-a modifier using any SC classifiers, modifiers, or descriptors in the
-following format, with measurements indicating thickness or depth of the
-examined layers (as specified): "Modifier: Layering – 4 centimeters
-(thick) Coarse Sand Layer over \> 11 centimeters (thick) Sandy Silt-Clay
-Layer". More examples can be found on page 219.
+The structuring of distinctly layered sediments is captured in CMECS as a modifier using any SC classifiers, modifiers, or descriptors in the following format, with measurements indicating thickness or depth of the examined layers (as specified): "Modifier: Layering – 4 centimeters (thick) Coarse Sand Layer over \> 11 centimeters (thick) Sandy Silt-Clay Layer". More examples can be found on page 219.
 
-The term “veneer" may be used to describe a thin (\< 1 centimeter thick)
-covering of one sediment type over another sediment type, ex. "Modifier:
-Layering – Mud veneer over Cobbles".
+The term “veneer" may be used to describe a thin (\< 1 centimeter thick) covering of one sediment type over another sediment type, ex. "Modifier: Layering – Mud veneer over Cobbles".
 </details>
 
 <details>
@@ -10168,753 +8862,331 @@ Layering – Mud veneer over Cobbles".
 
 # References
 
-Abell, R., M. Thieme, C. Revenga, M. Bryer, M. Kottelat, N. Bogutskaya,
-B. Coad, et al. 2008. “Freshwater Ecoregions of the World: A New Map of
-Biogeographic Units for Freshwater Biodiversity Conservation.”
-*BioScience* 58 (5): 403–414.
-
-Allee, R. J., M. Dethier, D. Brown, L. Deegan, G. R. Ford, T. R.
-Hourigan, J. Maragos, et al. 2000. *Marine and Estuarine Ecosystem and
-Habitat Classification*. National Oceanic and Atmospheric Administration
-technical memorandum. NMFS-F/SPO­
-
-43.National Oceanic and Atmospheric Administration.
+Abell, R., M. Thieme, C. Revenga, M. Bryer, M. Kottelat, N. Bogutskaya, B. Coad, et al. 2008. “Freshwater Ecoregions of the World: A New Map of Biogeographic Units for Freshwater Biodiversity Conservation.” *BioScience* 58 (5): 403–414.
 
-Anderson, T. J., Syms, C., Roberts, D. A., Howard, D. F. 2009.
-“Multi-Scale Fish– Habitat Associations and the Use of Habitat
-Surrogates to Predict the Organisation and Abundance of Deep-Water Fish
-Assemblages.” *Journal of Experimental Marine Biology and Ecology*
-379(1-2): 34-42.
-
-Baek, S. H., H. H. Shin, H-W Choi, S. Shimode, O. M. Hwang, K. Shin, and
-Y-O. Kim. 2011. “Ecological Behavior of the Dinoflagellate *Ceratium
-furca* in Jangmok Harbor of Jinhae Bay, Korea.” *Journal of Plankton
-Research* 33 (12): 1842-1846.
-
-Bailey, R. G., P. E. Avers, T. King, and W. H. McNab, eds. 1994.
-*Ecoregions and Subregions of the United States*. Colored map; scale
-1:7,500,000. Accompanied by a supplementary table of map unit
-descriptions compiled and edited by W. H. McNab and R. G. Bailey.
-Prepared for the U.S. Department of Agriculture, Forest Service.
-Washington, DC: U.S. Geological Survey.
-
-Barnes, R. D. 1980. *Invertebrate Zoology*. Philadelphia: Saunders
-College / Holt, Rinehart and Wilson.
+Allee, R. J., M. Dethier, D. Brown, L. Deegan, G. R. Ford, T. R. Hourigan, J. Maragos, et al. 2000. *Marine and Estuarine Ecosystem and Habitat Classification*. National Oceanic and Atmospheric Administration technical memorandum. NMFS-F/SPO­-43.National Oceanic and Atmospheric Administration.
 
-Bates, R. L., and J. A. Jackson, eds. 1984. *Dictionary of Geological
-Terms*. 3rd ed. Garden City, NY: Anchor Press.
+Anderson, T. J., Syms, C., Roberts, D. A., Howard, D. F. 2009. “Multi-Scale Fish– Habitat Associations and the Use of Habitat Surrogates to Predict the Organisation and Abundance of Deep-Water Fish Assemblages.” *Journal of Experimental Marine Biology and Ecology* 379(1-2): 34-42.
 
-Blair, T. C. and J. G. McPherson. 1999. “Grain-Size and Textural
-Classification of Coarse Sedimentary Particles.” *Journal of Sedimentary
-Research* 69: 6-19.
+Baek, S. H., H. H. Shin, H-W Choi, S. Shimode, O. M. Hwang, K. Shin, and Y-O. Kim. 2011. “Ecological Behavior of the Dinoflagellate *Ceratium furca* in Jangmok Harbor of Jinhae Bay, Korea.” *Journal of Plankton Research* 33 (12): 1842-1846.
 
-Boothroyd, J. C., N. E. Friedrich, and S. R. McGinn. 1985. “Geology of
-Microtidal Coastal Lagoons: Rhode Island.” *Marine Geology* 63: 35–76.
-
-Bradley, M.P., and M.H. Stolt. 2006. “Landscape-Level Seagrass-Sediment
-Relationships in a Coastal Lagoon.” *Aquatic Botany* 84:121-128.
-
-Cairns, S. D. 1992. “Worldwide Distribution of the Stylasteridae
-(Cnidaria: Hydrozoa).” *Scientia Marina* 56: 125–130.
+Bailey, R. G., P. E. Avers, T. King, and W. H. McNab, eds. 1994. *Ecoregions and Subregions of the United States*. Colored map; scale 1:7,500,000. Accompanied by a supplementary table of map unit descriptions compiled and edited by W. H. McNab and R. G. Bailey. Prepared for the U.S. Department of Agriculture, Forest Service. Washington, DC: U.S. Geological Survey.
 
-Caselle, J. E., B. P. Kinlan, and R. R. Warner. 2010. “Temporal and
-Spatial Scales of Influence on Nearshore Fish Settlement in the Southern
-California Bight.” *Bulletin of Marine Science* 86 (2): 355–385.
+Barnes, R. D. 1980. *Invertebrate Zoology*. Philadelphia: Saunders College / Holt, Rinehart and Wilson.
 
-Cermeño, P., C. de Vargas, F. Abrantes, and P. G. Falkowski. 2010.
-“Phytoplankton Biogeography and Community Stability in the Ocean.” *PloS
-one* 5 (4): e10037.
+Bates, R. L., and J. A. Jackson, eds. 1984. *Dictionary of Geological Terms*. 3rd ed. Garden City, NY: Anchor Press.
 
-Cicchetti, G., J. S. Latimer, S. A. Rego, W. G. Nelson, B. J. Bergen,
-and L. L. Coiro. 2006. “Relationships between Nearbottom Dissolved
-Oxygen and Sediment Profile Camera Measures.” *Journal of Marine
-Systems* 62: 124–141.
-
-Cleland, D. T., J. A. Freeouf, J. E. Keys, G. J. Nowacki, C. A.
-Carpenter, and W. H. McNab. 2005. *Ecological Subregions: Sections and
-Subsections for the Conterminous United States.* Colored map; scale
-1:3,500,000. Washington, DC:
-
-U.S.Department of Agriculture, Forest Service.
+Blair, T. C. and J. G. McPherson. 1999. “Grain-Size and Textural Classification of Coarse Sedimentary Particles.” *Journal of Sedimentary Research* 69: 6-19.
 
-Comer, P., D. Faber-Langendoen, R. Evans, S. Gawler, C. Josse, G.
-Kittel, S. Menard, et al. 2003. *Ecological Systems of the United
-States: A Working Classification of U.S. Terrestrial Systems.*
-Arlington, VA: NatureServe.
-
-Commonwealth of Australia. 2010. “*National Marine Bioregionalisation of
-Australia*.”
+Boothroyd, J. C., N. E. Friedrich, and S. R. McGinn. 1985. “Geology of Microtidal Coastal Lagoons: Rhode Island.” *Marine Geology* 63: 35–76.
 
-Department of Sustainability, Environment, Water, Population and
-Communities.
-
-Connor, D. W. 1995. “The Development of a Biotope Classification in
-Great Britain and Ireland—Principles and Structure of Classification.”
-In *Classification of Benthic Marine Biotopes of the North–East
-Atlantic*, 30–46. Edited by K. Hiscock. Proceedings of a BioMar-Life
-workshop held in Cambridge, November 16–18, 1994. Peterborough, UK:
-Joint Nature Conservation Committee.
-
-Connor, D. W. 1997. *Marine Biotope Classification for Britain and
-Ireland*. Peterborough, UK: Joint Nature Conservation Review.
-
-Connor, D. W., J. H. Allen, N. Golding, L. M. Lieberknecht, K. O.
-Northen, and J.B.
-
-Reker. 2003. “Introductory Text.” In The National Marine Habitat
-Classification for
-
-Britain and Ireland. Version 03.02. Peterborough, UK: Joint Nature
-Conservation Committee.
-
-Connor, D. W., J. H. Allen, N.Golding, K. L. Howell, L. M. Lieberknecht,
-K. O. Northen, and J. B. Reker. 2004. *The Marine Habitat Classification
-for Britain and Ireland.* Version 04.05. Peterborough, UK: Joint Nature
-Conservation Committee.
-http://jncc.defra.gov.uk/MarineHabitatClassification.
+Bradley, M.P., and M.H. Stolt. 2006. “Landscape-Level Seagrass-Sediment Relationships in a Coastal Lagoon.” *Aquatic Botany* 84:121-128.
 
-Cunliffe, M., and J. C. Murrell. 2009. “The Sea-Surface Microlayer Is a
-Gelatinous Biofilm.” *The ISME Journal* 3:1001–1003.
+Cairns, S. D. 1992. “Worldwide Distribution of the Stylasteridae (Cnidaria: Hydrozoa).” *Scientia Marina* 56: 125–130.
 
-Curtis, J. T. 1959. *The Vegetation of Wisconsin: An Ordination of Plant
-Communities*. Madison, WI: University of Wisconsin Press.
+Caselle, J. E., B. P. Kinlan, and R. R. Warner. 2010. “Temporal and Spatial Scales of Influence on Nearshore Fish Settlement in the Southern California Bight.” *Bulletin of Marine Science* 86 (2): 355–385.
 
-Cushing, D. H. 1990. “Plankton Production and Year-Class Strength in
-Fish Populations: An Update of the Match/Mismatch Hypothesis.” *Advances
-in Marine Biology* 26: 249–294.
+Cermeño, P., C. de Vargas, F. Abrantes, and P. G. Falkowski. 2010. “Phytoplankton Biogeography and Community Stability in the Ocean.” *PloS one* 5 (4): e10037.
 
-Davies, C.E., D. Moss, and M.O. Hill. 2004. *EUNIS Habitat
-Classification Revised 2004*. Report to European Environment Agency,
-European Topic Center on Nature Protection and Biodiversity
+Cicchetti, G., J. S. Latimer, S. A. Rego, W. G. Nelson, B. J. Bergen, and L. L. Coiro. 2006. “Relationships between Nearbottom Dissolved Oxygen and Sediment Profile Camera Measures.” *Journal of Marine Systems* 62: 124–141.
 
-Davis, R. A., Jr. 1994. “Barrier Island Systems—A Geologic Overview.” In
-*Geology of Holocene Barrier Island Systems,* 1–46. Edited by R. A.
-Davis. New York: Springer-Verlag.
+Cleland, D. T., J. A. Freeouf, J. E. Keys, G. J. Nowacki, C. A. Carpenter, and W. H. McNab. 2005. *Ecological Subregions: Sections and Subsections for the Conterminous United States.* Colored map; scale 1:3,500,000. Washington, DC: U.S.Department of Agriculture, Forest Service.
 
-Dean, W. E., M. Leinen, and D. A. V. Stow. 1985. “Classification of
-Deep-Sea, Fine-Grained Sediments.” *Journal of Sedimentary Petrology*
-55: 250-256.
+Comer, P., D. Faber-Langendoen, R. Evans, S. Gawler, C. Josse, G. Kittel, S. Menard, et al. 2003. *Ecological Systems of the United States: A Working Classification of U.S. Terrestrial Systems.* Arlington, VA: NatureServe.
 
-De’ath, G., J. M. Lough, and K. E. Fabricius. 2009. “Declining Coral
-Calcification on the Great Barrier Reef.” *Science* 323: 116–119.
+Commonwealth of Australia. 2010. “*National Marine Bioregionalisation of Australia*.”
 
-Degraer, S., E. Verfaillie, W. Willems, E. Adriaens, M. Vincx, and V.
-Van Lancker. 2008. “Habitat Suitability Modelling as a Mapping Tool for
-Macrobenthic Communities: An Example from the Belgian Part of the North
-Sea.” *Continental Shelf Research* 28: 369-379.
+Department of Sustainability, Environment, Water, Population and Communities.
 
-Demas, G.P., Rabenhorst, M.C., and Stevenson, J.C. 1996. “Subaqueous
-Soils: A Pedological Approach to the Study of Shallow-Water Habitats.”
-*Estuaries* 19:229­237.
+Connor, D. W. 1995. “The Development of a Biotope Classification in Great Britain and Ireland—Principles and Structure of Classification.” In *Classification of Benthic Marine Biotopes of the North–East Atlantic*, 30–46. Edited by K. Hiscock. Proceedings of a BioMar-Life workshop held in Cambridge, November 16–18, 1994. Peterborough, UK: Joint Nature Conservation Committee.
 
-Derous, S., T. Agardy, H. Hillewaert, K. Hostens, G. Jamieson, L.
-Lieberknecht, J. Mees, et al. 2007. “A Concept for Biological Valuation
-in the Marine Environment.” *Oceanologia* 49 (1): 99–128.
+Connor, D. W. 1997. *Marine Biotope Classification for Britain and Ireland*. Peterborough, UK: Joint Nature Conservation Review.
 
-Dethier, M. 1990. *A Marine and Estuarine Habitat Classification System
-for Washington State*. Washington State Department of Natural Resources.
+Connor, D. W., J. H. Allen, N. Golding, L. M. Lieberknecht, K. O. Northen, and J.B.
 
-Diaz, R. J., G. R. Cutter, and D. C. Rhoads. 1994. “The Importance of
-Bioturbation to Continental Slope Sediment Structure and Benthic
-Processes off Cape Hatteras, NC.” *Deep-Sea Research II* 41: 719–734.
+Reker. 2003. “Introductory Text.” In The National Marine Habitat Classification for Britain and Ireland. Version 03.02. Peterborough, UK: Joint Nature Conservation Committee.
 
-EPA (Environmental Protection Agency). 2001. *Draft Level III and IV
-Ecoregions of EPA Region 4*. Map; scale 1:2,000,000. Corvallis, OR: U.S.
-Environmental Protection Agency, National Health and Environmental
-Effects Research Laboratory, Western Ecology Division.
+Connor, D. W., J. H. Allen, N.Golding, K. L. Howell, L. M. Lieberknecht, K. O. Northen, and J. B. Reker. 2004. *The Marine Habitat Classification for Britain and Ireland.* Version 04.05. Peterborough, UK: Joint Nature Conservation Committee. http://jncc.defra.gov.uk/MarineHabitatClassification.
 
-Fisher, J. J., and E. J. Simpson. 1979. “Washover and Tidal
-Sedimentation Rates as Environmental Factors in Development of a
-Transgressive Barrier Shoreline.” In *Barrier Islands from the Gulf of
-St. Lawrence to Gulf of Mexico*, 127–148. Edited by S. P. Leatherman.
-New York: Academic Press.
+Cunliffe, M., and J. C. Murrell. 2009. “The Sea-Surface Microlayer Is a Gelatinous Biofilm.” *The ISME Journal* 3:1001–1003.
 
-FGDC (Federal Geographic Data Committee). 1996a. *FGDC Standards
-Reference Model*. Reston, VA: Federal Geographic Data Committee.
+Curtis, J. T. 1959. *The Vegetation of Wisconsin: An Ordination of Plant Communities*. Madison, WI: University of Wisconsin Press.
 
-FGDC (Federal Geographic Data Committee). 1996b. FGDC-STD-004.
-*Classification of Wetlands and Deepwater Habitats of the United
-States*. Reston, VA: Federal Geographic Data Committee.
+Cushing, D. H. 1990. “Plankton Production and Year-Class Strength in Fish Populations: An Update of the Match/Mismatch Hypothesis.” *Advances in Marine Biology* 26: 249–294.
 
-FGDC (Federal Geographic Data Committee). 1997. FGDC-STD-006. *Soil
-Geographic Data Standard*. Reston, VA: Federal Geographic Data
-Committee.
+Davies, C.E., D. Moss, and M.O. Hill. 2004. *EUNIS Habitat Classification Revised 2004*. Report to European Environment Agency, European Topic Center on Nature Protection and Biodiversity
 
-FGDC (Federal Geographic Data Committee). 2001. FGDC-STD-001.2-2001.
-*Metadata Profile for Shoreline Data*. Reston, VA: Federal Geographic
-Data Committee.
+Davis, R. A., Jr. 1994. “Barrier Island Systems—A Geologic Overview.” In *Geology of Holocene Barrier Island Systems,* 1–46. Edited by R. A. Davis. New York: Springer-Verlag.
 
-FGDC (Federal Geographic Data Committee). 2008. FGDC-STD-005-2008.
-*National Vegetation Classification Standard*, Version 2. Reston, VA:
-U.S. Geological Survey.
+Dean, W. E., M. Leinen, and D. A. V. Stow. 1985. “Classification of Deep-Sea, Fine-Grained Sediments.” *Journal of Sedimentary Petrology* 55: 250-256.
 
-FGDC (Federal Geographic Data Committee). 2010. *Draft Coastal and
-Marine Ecological Classification Standard*, released for public review
-on August 15, 2010. Reston, VA: Federal Geographic Data Committee.
-
-FGDC (Federal Geographic Data Committee). 2012. FGDC-STD-018–2012.
-*Coastal and Marine Ecological Classification Standard*. Reston, VA:
-Marine and Coastal Spatial Data Subcommittee, Federal Geographic Data
-Committee.
+De’ath, G., J. M. Lough, and K. E. Fabricius. 2009. “Declining Coral Calcification on the Great Barrier Reef.” *Science* 323: 116–119.
 
-Flemming, B.W. 2000. “A revised textural classification of gravel-free
-muddy sediments on the basis of ternary diagrams.” *Continental Shelf
-Research* 20: 1125-1137.
-
-Fletcher, A. 1973. “The Ecology of Marine (Supra Littoral) Lichens on
-Some Rocky Shores of Anglesey.” *Lichenologist* 5: 401–422.
-
-Folk, R.L., 1954. “The Distinction between Grain Size and Mineral
-Composition in Sedimentary-Rock Nomenclature.” *The Journal of Geo*logy
-62: 344-359*.*
-
-Folk, R. L. 1974. Petrology of Sedimentary Rocks. Austin, TX: Hemphill
-Publishing Company.
-
-Garbary, A., A. Miller, R. Scrosati, K. Kim, and W. Schofield. 2008.
-“Distribution and Salinity Tolerance of Intertidal Mosses from Nova
-Scotian Salt Marshes.” *The Bryologist* 111 (2): 282–291.
-
-Gilbert, O. L., and V. J. Giavarini. 1997. “The Lichen Vegetation of
-Acid Watercourses in England.” *Lichenologist* 29: 347–367.
-
-Gleason, H. A. 1926. “The Individualistic Concept of the Plant
-Association.” *Bulletin of the Torrey Botanical Club* 53: 7–26.
-
-Greene, H. G., J. J. Bizzarro, V. M. O’Connell, and C. K. Brylinsky.
-2007. “Construction
-
-of Digital Potential Marine Benthic Habitat Maps Using a Coded
-Classification
-
-Scheme and Its Applications.” In *Mapping the Seafloor for Habitat
-Characterization,* 141–155. Special Paper 47. Edited by B. J. Todd and
-H. G. Greene. Geological Association of Canada.
-
-Grizzle, R. E., and C. A. Penniman. 1991. “Effects of Organic Enrichment
-on Estuarine Macrofaunal Benthos: A Comparison of Sediment Profile
-Imaging and Traditional Methods.” *Marine Ecology Progress Series* 74:
-249–262.
-
-Guarinello, M., E. J. Shumchenia, and J. W. King. 2010. “Marine Habitat
-Classification for Ecosystem-Based Management: A Proposed Hierarchical
-Framework.” *Environmental Management* 45 (4): 793–806.
-
-Hamylton, S.M. and T. Spencer. 2011. “Geomorphological Modelling of
-Tropical Marine Landscapes: Optical Remote Sensing, Patches and Spatial
-Statistics.” *Continental Shelf Research* 31(2), S151-S161.
-
-Hansel, C. M., and C. A. Francis. 2006. “Coupled Photochemical and
-Enzymatic Mn(II) Oxidation Pathways of a Planktonic *Roseobacter*-like
-Bacterium.” *Applied Environmental Microbiology* 72(5): 3543–3549.
-
-Harden, S. L., and D. F. Williams. 1989. “Stable Carbon Isotopic
-Evidence for Sources of Particulate Organic Carbon Found in Sea Foam.”
-*Estuaries and Coasts* 12(1):49­56.
-
-Harris, M. S., P. T. Gayes, J. L. Kindinger, J. G. Flocks, D. E.
-Krantzft, and P. Donovan.
-
-2005\. “Quaternary Geomorphology and Modern Coastal Development in
-Response
-
-to an Inherent Geologic Framework: An Example from Charleston, South
-Carolina.” *Journal of Coastal Research* 21: 49–64.
-
-Hawksworth, D. L. 2000. “Freshwater and Marine Lichen-Forming Fungi.” In
-*Aquatic Mycology Across the Millennium*. Edited by K. D. Hyde, W. H.
-Ho, and S. B. Pointing. *Fungal Diversity* 5: 1–7.
-
-Hewitt, J. E., S. F. Thrush, P. Legendre, G. A. Funnell, J. Ellis, and
-M. Morrison. 2004. “Mapping of Marine Soft-Sediment Communities:
-Integrated Sampling for Ecological Interpretation.” *Ecological
-Applications* 14: 1203–1216.
-
-Heyman, W. D., and D. J. Wright. (2011) “Marine Geomorphology in the
-Design of Marine Reserve Networks.” *The Professional Geographer* 63
-(4): 429–442.
-
-Higgins, J. V., M. T. Bryer, M. L. Khoury, and T. W. Fitzhugh. 2005. “A
-Freshwater Classification Approach for Biodiversity Conservation
-Planning.” *Conservation Biology* 19(2): 432-445.
-
-Hiscock, K., and H. Tyler-Walters. 2003. “Assessing the Sensitivity of
-Seabed Biotopes to Human Activities and Natural Events.” In *Marine Life
-Information Network: Biology and Sensitivity Key Information
-Sub-Programme*. Plymouth, UK: Marine Biological Association of the
-United Kingdom. Last access ed June 13, 2005.
-http://www.marlin.ac.uk/PDF/Biotope_sens_brochure.pdf.
-
-Holthus, P. F., and J. E. Maragos. 1995. “Marine Ecosystem
-Classification for the Tropical Island Pacific.” In *Marine and Coastal
-Biodiversity in the Tropical Island Pacific Region. V. 1: Species
-Systematics and Information Management Priorities*, 239–278. Edited by
-J. E. Maragos, M. N. Peterson, L. G. Eldredge, J. E. Bardach, and H. F.
-Takeuchi. Honolulu: Program on Environment, East-West Center.
-
-Howes, D. E., J. R. Harper, and E. Owens. 1994. *British Columbia
-Physical Shore-zone Mapping System*. British Columbia, Canada: Resource
-Inventory Committee.
-
-IUPAC. Compendium of Chemical Terminology, 2nd ed. (the "Gold Book").
-1997. Compiled by A. D. McNaught and A. Wilkinson. Oxford: Blackwell
-Scientific Publications. XML on-line corrected version:
-http://goldbook.iupac.org (2006-) created by M. Nic, J. Jirat, B.
-Kosata; updates compiled by A. Jenkins.
-
-Jackson, J. A., ed. 1997. *Glossary of Geology*. Alexandria, VA:
-American Geological Institute.
-
-Jennings, M. D., D. Faber-Langendoen, O. L. Loucks, R. K Peet and D. R.
-Roberts, 2006. “Standards for Associations and Alliances of the U.S.
-National Vegetation Classification.” *Ecological Monographs* 79(2):
-173-199.
-
-Johnson, R. G. 1972. “Conceptual Models of Benthic Marine Communities.”
-In *Models in Paleobiology*, 148–159. Edited by T. J. M. Schopf. San
-Francisco, CA: Freeman, Cooper and Company.
-
-Kappes, M., S. Shaffer, Y. Tremblay, D. G. Foley, D. M. Palacios, P. W.
-Robinson, and
-
-S. J. Bograd. 2010. “Hawaiian Albatrosses Track Interannual Variability
-of Marine Habitats in the North Pacific.” *Progress in Oceanography* 86
-(1-2): 246–260.
-
-Keary, P., K. A. Klepeis, and F. J. Vine. 2009. *Global Tectonics*. 3rd
-ed. Hoboken, NJ: Wiley-Blackwell.
-
-Keen, T. R. and K. T. Holland. 2010. The Coastal Dynamics of
-Heterogeneous Sedimentary Environments: Numerical Modeling of Nearshore
-Hydrodynamics and Sediment Transport. Report. NRL/MR/7320--10-9242 Naval
-Research Laboratory. Ocean Dynamics and Prediction Branch. Oceanography
-Division. Stennis Space Center, MS 39529-5004. 140 pp.
-
-Kendall, M. S., J. D. Christensen, and Z. Hillis-Starr. 2003.
-“Multi-Scale Data Used to Analyze the Spatial Distribution of French
-Grunts, *Haemulon flavolineatum*, Relative to Hard and Soft Bottom in a
-Benthic Landscape.” *Environmental Biology of Fishes* 66: 19–26.
-
-Kendall, M.S., M.E. Monaco, K.R. Buja, J.D. Christensen, C.R. Kruer, and
-M. Finkbeiner, R.A. Warner. 2001. *Methods Used to Map the Benthic
-Habitats of Puerto Rico and the U.S. Virgin Islands*. Silver Spring, MD:
-National Oceanic and Atmospheric Administration (NOAA). National Ocean
-Service (NOS), National Centers for Coastal Ocean Science (NOS)
-Biogeography Program.
-
-Keys, J. E., Jr., C. A. Carpenter, S. L. Hooks, F. G. Koenig, W. H.
-McNab, W. E. Russell, and M-L. Smith. 1995. *Ecological Units of the
-Eastern United States ­First Approximation.* Colored map and booklet of
-map unit tables; presentation scale 1:3,500,000. Atlanta, GA: U.S.
-Department of Agriculture, Forest Service.
-
-Kleypas, J., J. W. McManus, and L. A. B. Menez. 1999. “Environmental
-Limits to Coral Reef Development: Where Do We Draw the Line?” *American
-Zoologist*, 39:146­159.
-
-Kutcher, T. E. 2008. *Habitat and Land Cover Classification Scheme for
-the National Estuarine Research Reserve System*. Silver Spring, MD:
-National Oceanic and Atmospheric Administration, Office of Ocean and
-Coastal Resource Management, Estuarine Reserves Division.
-
-Lander, M. E., T. R. Loughlin, M. G. Logsdon, G. R. Van Blaricom, B. S.
-Fadely, and L.
-
-W. Fritz. 2009. “Regional Differences in the Spatial and Temporal
-Heterogeneity of Oceanographic Habitat Used by Steller Sea Lions.”
-*Ecological Applications* 19 (6): 1645–1659.
-
-Latz, M. I., M. Bovard, V. VanDelinder, E. Segre, J. Rohr, and A.
-Groisman. 2008. “Bioluminescent Response of Individual Dinoflagellate
-Cells to Hydrodynamic Stress Measured with Millisecond Resolution in a
-Microfluidic Device.” *Journal of Experimental Biology* 211: 2865-2875.
-
-Lee, Z. P., A.Weidemann, J. Kindle, R. Arnone, K. L. Carder, and C.
-Davis. 2007. "Euphotic Zone Depth: Its Derivation and Implication to
-Ocean-Color Remote Sensing" *Marine Science Faculty Publications.* Paper
-11. http://scholarcommons.usf.edu/msc_facpub/11.
-
-Lion, L. W., and J. O. Leckie. 1981. “The Biogeochemistry of the Air-Sea
-Interface.” *Annual Review of Earth and Planetary Sciences* 9: 449-484.
-
-Littler, M. M., D. S. Littler, and P. R. Taylor. 1983. “Evolutionary
-Strategies in a Tropical Barrier Reef System: Functional-Form Groups of
-Marine Macroalgae.” *Journal of Phycology* 19: 229–237.
-
-Lobban, C. S., and P. J. Harrison. 1997. *Seaweed Ecology and
-Physiology*. Cambridge, UK: Cambridge University Press.
-
-Lorenson, T. D., F. D. Hostettler, R. J. Rosenbauer, K. E. Peters, K. A.
-Kvenvolden, J. A. Dougherty, C. E. Gutmacher, F. L. Wong, and W. R.
-Normark. 2009. *Natural Offshore Seepage and Related Tarball
-Accumulation on the California Coastline; Santa Barbara Channel and the
-Southern Santa Maria Basin; Source Identification and Inventory*. U.S.
-Geological Survey Open-File Report 2009-1225 and Minerals Management
-Service report 2009-030.
-
-Madden, C. J., and D. H. Grossman. 2004. *A Framework for a
-Coastal/Marine Ecological Classification Standard*. Arlington, VA:
-NatureServe.
-
-Madden, C. J., D. H. Grossman, and K. L. Goodin. 2005. *Coastal and
-Marine Systems of North America: Framework for an Ecological
-Classification Standard: Version II*. Arlington, VA: NatureServe.
-
-Madden, C. J., R. Smith, E. Dettmann, and N. Detenbeck. 2008. “A
-Typology of
-
-Estuaries Supporting the Development of a National Nutrient Criteria
-Framework
-
-for Estuarine Systems.” Chap. 3 in *Development of Nutrient Criteria for
-the*
-
-*Nation’s Estuaries: Technical Document.* Edited by P. Glibert et al.
-Report of the National Nutrient Criteria Development Workgroup. U.S.
-Environmental Protection Agency.
-
-Madley, K., A. B. Sargent, and F. J. Sargent. 2002. *Development of a
-System for Classification of Habitats in Estuarine and Marine
-Environments (SCHEME) for Florida*. Report to the U.S. Environmental
-Protection Agency Gulf of Mexico Program (Grant Assistance Agreement
-MX-97408100). St. Petersburg, FL: Florida Marine Research Institute,
-Florida Fish and Wildlife Conservation Commission.
-
-McArthur, M. A., B. P. Brooke, R. Przeslawski, D. A. Ryan, V. L.
-Lucieer, S. Nichol, A.
-
-W. McCallum, et al. 2010. “On the Use of Abiotic Surrogates to Describe
-Marine Benthic Biodiversity.” *Estuarine, Coastal and Shelf Science* 88:
-21–32.
-
-McDougall, P. T., M. Janowicz, and R. F. Taylor. 2007. *Habitat
-Classification in the Gulf of Maine: A Review of Schemes and a
-Discussion of Related Regional Issues*. Gulf of Maine Council on the
-Marine Environment.
-
-McIntosh, R. P. 1993. “The Continuum Continued: John T. Curtis’
-Influence on Ecology.” In *John T. Curtis: Fifty Years of Wisconsin
-Plant Ecology*, 95–122. Edited by J. S. Fralish, R. P. McIntosh, and O.
-L Loucks. Madison, WI: Wisconsin Academy of Sciences, Arts and Letters.
-
-Menge, B. A. 1976. “Organization of the New England Rocky Intertidal
-Community: Role of Predation, Competition, and Environmental
-Heterogeneity.” *Ecological Monographs* 46 (4): 355–393.
-
-Ministry of Fisheries and Department of Conservation. 2008. *Marine
-Protected Areas: Classification, Protection Standard and Implementation
-Guidelines*. Wellington, NZ: Ministry of Fisheries and Department of
-Conservation.
-
-Murawski, S., J. Steele, P. Taylor, M. Fogarty, M. Sissenwine, M. Ford,
-and C. Suchman. 2010. “Why Compare Marine Ecosystems?” *ICES Journal of
-Marine Science* 67: 1–9.
-
-Neuendorf, K. K. E., J. P. Mehl, Jr., J. Jackson. 2005. *Glossary of
-Geology*. 5th ed. Alexandria, VA: American Geological Institute.
-
-Nilsson, H. C., and R. Rosenberg. 1997. “Benthic Habitat Quality
-Assessment of an Oxygen Stressed Fjord by Surface and Sediment Profile
-Images.” *Journal of Marine Systems* 11: 249–264.
-
-Nilsson, H. C., and R. Rosenberg. 2000. “Succession in Marine Benthic
-Habitats and Fauna in Response to Oxygen Deficiency: Analyzed by
-Sediment Profile Imaging and by Grab Samples.” *Marine Ecology Progress
-Series* 197: 139–149.
-
-NOAA (National Oceanic and Atmospheric Administration). 1997. *NOAA’s
-Estuarine Eutrophication Survey, Vol. 4: Gulf of Mexico Region*. Silver
-Spring, MD: NOAA, Office of Ocean Resources and Assessment.
-
-NOAA (National Oceanic and Atmospheric Administration). 2001. *Benthic
-Habitats of Puerto Rico and the U.S. Virgin Islands. Methods Used to Map
-the Benthic Habitats of Puerto Rico and the U.S. Virgin Islands.* Silver
-Spring, MD: National Centers for Coastal Ocean Science, Biogeography
-Program.
-
-Odum, E. P. 1969. “The Strategy of Ecosystem Development.” *Science*
-164: 262–270.
-
-Olenin, S., and J. Ducrotoy. 2006. “The Concept of Biotope in Marine
-Ecology and Coastal Management.” *Marine Pollution Bulletin* 53: 20–29.
-
-OMB (Office of Management and Budget). 2002. *OMB Circular A-16*,
-Coordination of Geographic Information, and Related Spatial Data
-Activities. Washington, DC: Office of Management and Budget.
-
-Omernik, J. M. 1995. “Ecoregions: A Framework for Environmental
-Management.” In *Biological Assessment and Criteria: Tools for Water
-Resource Planning and Decision Making.* Edited by W. S. Davis and T. P.
-Simon. Boca Raton, FL: Lewis Publishers.
-
-Pahl-Wostl, C., and R. E. Ulanowicz. 1993. “Quantification of Species as
-Functional Units within an Ecological Network.” *Ecological Modeling*
-66: 65–79.
-
-Parks, N. 2002. “A *Lingua Franca* for Marine Habitat Classification—an
-Idea Whose Time Has Come.” *BioScience* 52(4): 324.
-
-Parry M. L., O. F. Canziani, J. P. Palutikof, P. J. van der Linden, C.
-E. Hanson, eds. 2007. *Climate Change 2007: Impacts, Adaptation And
-Vulnerability. Contribution of Working Group II to the Fourth Assessment
-Report of the Intergovernmental Panel on Climate Change*.
-Intergovernmental Panel on Climate Change. Last accessed October 2,
-2011. http://www.ipcc.ch/ipccreports/ar4-wg2.htm.
-
-Pearson, T. H., and R. Rosenberg. 1976. “A Comparative Study of the
-Effects on the Marine Environment of Wastes from Cellulose Industries in
-Scotland and Sweden.” *Ambio* 5: 77–79.
-
-Pearson, T. H., and R. Rosenberg. 1978. “Macrobenthic Succession in
-Relation to Organic Enrichment and Pollution of the Marine Environment.”
-*Oceanography and Marine Biology: An Annual Review* 16: 229–311.
-
-Peterson, F. F. 1981. *Landforms of the Basin and Range Province Defined
-for Soil Survey*. Technical Bulletin No. 28. Reno, NV: Nevada
-Agricultural Experiment Station.
-
-Pond, S. and G. L. Pickard. 1983. *Dynamical Oceanography*. Pergamon
-Press. 320 pp.
-
-Poppe, L.J., A.H. Eliason, and M.E. Hastings. 2003. “A Visual Basic
-Program to Classify Sediments Based on Gravel-Sand-Silt-Clay Ratios.”
-*Computers and Geosciences* 29: 805-809.
-
-Post, A. L. 2008. “The Application of Physical Surrogates to Predict the
-Distribution of Marine Benthic Organisms.” *Ocean and Coastal
-Management* 51 (2): 161–179.
-
-Reid, B. J. M., J. A. Reid, C. J. Jenkins, M. E. Hastings, S. J.
-Williams, L. J. Poppe, G. A. Norton, et al. 2005. *usSEABED: Atlantic
-Coast Offshore Surficial Sediment.* U.S. Geological Survey.
-
-Reilly, F., Jr., R. Spagnolo, and E. Ambrogio. 1999. “Marine and
-Estuarine Shallow Water Science and Management: The Interrelationship
-among Habitats and Their Management.” *Estuaries* 22 (3B): 731–734.
-
-Resource Information Standards Committee. 2002. *British Columbia Marine
-Ecological Classification: Marine Ecosections and Ecounits*, Version
-2*.* British Columbia, Canada: Resources Information Standards
-Committee.
-
-Rhoads, D. C., and J. D. Germano. 1982. “Characterization of
-Organism-Sediment Relationships Using Sediment Profile Imaging: An
-Efficient Method of Remote Ecological Monitoring of the Seafloor
-(REMOTS<sup>®</sup> System).” *Marine Ecology Progress Series* 8:
-115–128.
-
-Rhoads, D. C., and J. D. Germano. 1986. “Interpreting Long-Term Changes
-in Benthic Community Structure: A New Protocol.” *Hydrobiologia* 142:
-291–308.
-
-Rhoads, D. C., and D. K. Young. 1970. “The Influence of Deposit Feeding
-Organisms on Sediment Stability and Community Trophic Structure.”
-*Journal of Marine Research* 28: 150–178.
-
-Ritter, C., P. A. Montagna, and S. Applebaum. 2005. “Short-Term
-Succession Dynamics of Macrobenthos in a Salinity Stressed Estuary.”
-*Journal of Experimental Marine Biology and Ecology* 323: 57–69.
-
-Ritter, D. F., R. C. Kochel, and J. R. Miller. 1995. *Process
-Geomorphology.* 3rd ed. Dubuque, IA: Wm. C. Brown, Publishers.
-
-Roberts, J. M., A. J. Wheeler, and A. Freiwald. 2006. “Reefs of the
-Deep: The Biology and Geology of Cold-Water Coral Ecosystems.” *Science*
-213: 543–547.
-
-Roberts, J.M., A. Wheeler, A. Freiwald, and S. Cairns, S. 2009.
-*Cold-Water Corals: the Biology and Geology of Deep-Sea Coral Habitats.*
-Cambridge: Cambridge University Press.
-
-Rosenberg, R. 1976. “Benthic Faunal Dynamics during Succession Following
-Pollution Abatement in a Swedish Estuary.” *Oikos* 27: 414–427.
-
-Rosenberg, R. 1977. “Benthic Macrofaunal Dynamics, Production, and
-Dispersion in an Oxygen-Deficient Estuary of West Sweden.” *Journal of
-Experimental Marine Biology and Ecology* 26: 107-133.
-
-Rosenberg, R. 2001. “Marine Benthic Faunal Successional Stages and
-Related Sedimentary Activity.” *Scientia Marina* 65: 107–119.
-
-Rosenberg, R., H.C. Nilsson, and R.J. Diaz. 2001. “Response of benthic
-fauna and changing sediment redox profiles over a hypoxic gradient.”
-*Estuarine, Coastal, and Shelf Science* 53: 343-350.
-
-Schlee, J.S. 1973. *Atlantic Continental Shelf and Slope of the United
-State--Sediment Texture of the North-Eastern Part.* U.S. Geological
-Survey Professional Paper 529­L.
-
-Schoch, G. C. 1996. “The Classification of Nearshore Habitats: A Spatial
-Distribution Model.” Master’s thesis, Oregon State University.
-
-Schoch, G. C. 1999. *Identifying Replicate Habitats in the Nearshore:
-Partitioning the Heterogeneity of Complex Shorelines*. Report.
-Corvallis, OR: Oregon State University.
-
-Schoeneberger, P. J., and D. A. Wysocki. 2005. *Geomorphic Description
-System.* Version
-
-3.3. Lincoln, NE: U.S. Department of Agriculture, Natural Resources
-Conservation Service, National Soil Survey Center.
-
-Schoeneberger, P. J., D. A. Wysocki, E. C. Benham, and W. D. Broderson,
-eds. 2002. *Field Book for Describing and Sampling Soils.* Version 2.0.
-Lincoln, NE: U.S. Department of Agriculture, Natural Resources
-Conservation Service, National Soil Survey Center.
-
-Shepard, F. P. 1954. “Nomenclature Based on Sand-Silt-Clay Ratios.”
-*Journal of Sedimentary Petrology* 24: 151–158.
-
-Short, A.D. 2006. “Australian Beach Systems—Nature and Distribution.”
-*Journal of Coastal Research* 22(1): 11-27.
-
-Shumchenia, E. J., and J. W. King. 2010. “Comparison of Methods for
-Integrating Biological and Physical Data for Marine Habitat Mapping and
-Classification.” *Continental Shelf Research* 30: 1717–1729.
-
-Skov, H., T. Gunnlaugsson, W. P. Budgell, J. Horne, L. Nøttestad, E.
-Olsen, H. Søiland,
-
-G.Víkingsson, and G. Waring. 2008. “Small-Scale Spatial Variability of
-Sperm and Sei Whales in Relation to Oceanographic and Topographic
-Features Along the Mid-Atlantic Ridge.” *Deep Sea Research II* 55:
-254-268.
-
-Soil Survey Staff. 2010. *Keys to Soil Taxonomy, 11th edition.*
-USDA-NRCS, U.S. Government Printing Office, Washington, D.C.
-
-South Carolina Department of Natural Resources, Marine Resources
-Division. 2008.
-
-*Final Report for South Carolina’s 2004–2005 Intertidal Oyster Survey
-and Related Reef Restoration/Enhancement Program: An Integrated Oyster
-Resource/Habitat Management and Restoration Program Using Novel
-Approaches*. Final report completed for National Oceanic and Atmospheric
-Administration Award No. NA04NMF4630309. South Carolina Department of
-Natural Resources.
-
-Spalding. M. D., H. E. Fox, G. R. Allen, N. Davidson, Z. A. Ferdana, M.
-Finlayson, B. S.
-
-Halpern, et al. 2007. “Marine Ecoregions of the World: A
-Bioregionalization of Coastal and Shelf Areas.” *BioScience* 57 (7):
-573–583.
-
-Stakes et al. 1999. “Cold-Seeps and Authigenic Carbonate Formation in
-Monterey Bay, California.” *Marine Geology* 159 (1-4): 93–109.
-
-Steneck R. S. 1988. “Herbivory on Coral Reefs: A Synthesis.”
-*Proceedings of the 6th International Coral Reef Symposium: Vol. 1:
-Plenary Addressess and Status review.*
-
-Volume 1: Plenary Addresses and Status Review. Townsville, Australia.
-
-Steneck, R. S., and M. N. Dethier. 1994. “A Functional Group Approach to
-the Structure of Algal-Dominated Communities.” *Oikos* 69 (3): 476–598.
-
-Stephenson, T. A., and A. Stephenson. 1972. *Life between Tide Marks on
-Rocky Shores*. San
-
-Stolt, M., M. Bradley, J. Turenne, M. Payne, E. Scherer, G. Cicchetti,
-E. Shumchenia, M. Guarinello, J. King, J. Boothroyd, B. Oakley, C.
-Thornber, and P. August. 2011. “Mapping Shallow Coastal Ecosystems: A
-Case Study of a Rhode Island Lagoon.” *Journal of Coastal Research*
-27:1-15.
-
-Teal, L.R., R. Parker, G. Fones, and M. Solan. 2009. “Simultaneous
-Determination of *In Situ* Vertical Transitions of Color, Pore-Water
-Metals, and Visualization of Infaunal Activity in Marine Sediments.”
-*Limnology and Oceanography* 54: 1801-1810.
-
-Thrush, S. F., and P. K. Dayton. 2010. “What Can Ecology Contribute to
-Ecosystem-Based Management?” *Annual Review of Marine Science* 2 (1):
-419–441.
-
-Ulanowicz, R. E. 1996. “Ecosystem Development: Symmetry Arising?”
-*Symmetry: Culture and Science*. 7 (3): 321–334.
-
-UNESCO (United Nations Educational, Scientific and Cultural
-Organization). 1981. “The Practical Salinity Scale 1978 and he
-International Equation of State of Seawater 1980.” Appendix I, *Tenth
-Report of the Joint Panel on Oceanographic Tables and Standards*. Paris:
-UNESCO. UNESCO Technical Papers in Marine Science No. 36.
-
-UNESCO (United Nations Educational, Scientific and Cultural
-Organization). 2009. *Global Open Ocean and Deep Seabed
-(GOODS)—Biogeographic Classification*. UNESCO-Intergovernmental
-Oceanographic Commission. IOC Technical Series No. 84.
-
-U.S.Army Corps of Engineers. 2003. “Surf Zone Hydrodynamics.” Chapter 4
-in *Coastal Engineering Manual*. Vicksburg, Mississippi: Coastal and
-Hydraulics Laboratory, Waterways Experiment Station.
-http://chl.erdc.usace.army.mil/Media/1/8/1/CEM_Part-II_Chap-4.pdf.
-
-U.S. Department of Agriculture, Natural Resources Conservation Service.
-2008. “Glossary of Landform and Geologic Terms.” *National Soil Survey
-Handbook (NSSH)*, 629–685. Title 430-VI. U.S. Department of Agriculture.
-http://soils.usda.gov/technical/handbook/.
-
-Valentine, P.C., B.J. Todd and V.E. Kostylev. 2005. “Classification of
-Marine Sublittoral Habitats, with Application to the Northeastern North
-America Region.” *American*
-
-Wells, D.V., R.D. Conkwright, J.M. Hill, and M.J. Park. 1994. *The
-Surficial Sediments of Assawoman Bay and Isle of Wight Bay, Maryland:
-Physical and Chemical Characteristics.* Baltimore, MD: Coastal and
-Estuarine Geology File Report Number 94-2, Maryland Geological Survey.
-
-Wentworth, C. K. 1922. “A Scale of Grade and Class Terms for Clastic
-Sediments.” *The Journal of Geology* 30: 377–392. Francisco, CA: W.H.
-Freeman.
-
-Wetzel, R. G. 2001. *Limnology. Lake and River Ecosystems*. San Diego,
-CA: Academic Press.
-
-Whittaker R. H. 1962. “Classification of Natural Communities.”
-*Botanical Review* 28: 1– 80.
-
-Whittaker, R. H. 1975. *Communities and Ecosystems*. New York:
-MacMillan.
-
-Wilhelmsson, D., T. Malm, R. Thompson, J. Tchou, G. Sarantakos, N.
-McCormick, S. Luitjens, et al., eds. 2010. *Greening Blue Energy:
-Identifying and Managing the Biodiversity Risks and Opportunities of
-Offshore Renewable Energy*, 102. Gland, Switzerland: International Union
-for Conservation of Nature.
-
-Wilkinson, T. A. C., E. Wiken, J. B. Creel, T. F. Hourigan, T. Agardy,
-H. Herrmann, L. Janishevski, C. Madden, L. Morgan, and M. Padilla**.**
-2009. *Marine Ecoregions of North America*. Montreal, Canada: Commission
-for Environmental Cooperation.
-
-Wu, J. 1999. “Hierarchy and Scaling: Extrapolating Information along a
-Scaling Ladder.” *Canadian Journal of Remote Sensing* 25: 367–380.
-
-Wu, J. et al. 2000. “Multiscale Analysis of Landscape Heterogeneity:
-Scale Variance and Pattern Metrics.” *Geographic Information Sciences* 6
-(1): 6–19.
-
-Zacharias, M. A., D. E. Howes, J. R. Harper, and P. Wainwright. 1998.
-“The British Columbia Marine Ecosystem Classification: Rationale,
-Development, and Verification.” *Coastal Management* 26: 105–124.
-
-Zajac, R. N., R. B. Whitlach, and S. F. Thrush. 1998. “Recolonization
-and Succession in Soft-Sediment Infaunal Communities: the Spatial Scale
-of Controlling Factors.” *Hydrobiologia* 375/376: 227–240.
-
-Zale, A.V., and S.G. Merrifield. 1989. *Species Profiles: Life Histories
-and Environmental Requirements of Coastal Fishes and Invertebrates
-(South Florida) – Reef-Building Tube Worm.* U.S. Fish Wildlife Service.
-Biol. Rep. 82(11.115). U.S. Army Corps of Engineers, TR EL-82-4.
-
-Zhao, B. and P-Y. Qian. 2002. “Larval Settlement and Metamorphosis in
-the Slipper Limpet *Crepidula onyx* (Sowerby) in Response to Conspecific
-Cues and the Cues from Biofilm.” *Journal of Experimental Marine Biology
-and Ecology* 269: 39–5.
-
-Zitello, A. G., L. J. Bauer, T. A. Battista, P. W. Mueller, M. S.
-Kendall, and M. E. Monaco. 2009. *Shallow-Water Benthic Habitats of St.
-John, U.S. Virgin Islands*. National Oceanic and Atmospheric
-Administration Technical Memorandum NOS NCCOS 96. Silver Spring, MD:
-National Oceanic and Atmospheric Administration.
+Degraer, S., E. Verfaillie, W. Willems, E. Adriaens, M. Vincx, and V. Van Lancker. 2008. “Habitat Suitability Modelling as a Mapping Tool for Macrobenthic Communities: An Example from the Belgian Part of the North Sea.” *Continental Shelf Research* 28: 369-379.
+
+Demas, G.P., Rabenhorst, M.C., and Stevenson, J.C. 1996. “Subaqueous Soils: A Pedological Approach to the Study of Shallow-Water Habitats.” *Estuaries* 19:229­237.
+
+Derous, S., T. Agardy, H. Hillewaert, K. Hostens, G. Jamieson, L. Lieberknecht, J. Mees, et al. 2007. “A Concept for Biological Valuation in the Marine Environment.” *Oceanologia* 49 (1): 99–128.
+
+Dethier, M. 1990. *A Marine and Estuarine Habitat Classification System for Washington State*. Washington State Department of Natural Resources.
+
+Diaz, R. J., G. R. Cutter, and D. C. Rhoads. 1994. “The Importance of Bioturbation to Continental Slope Sediment Structure and Benthic Processes off Cape Hatteras, NC.” *Deep-Sea Research II* 41: 719–734.
+
+EPA (Environmental Protection Agency). 2001. *Draft Level III and IV Ecoregions of EPA Region 4*. Map; scale 1:2,000,000. Corvallis, OR: U.S. Environmental Protection Agency, National Health and Environmental Effects Research Laboratory, Western Ecology Division.
+
+Fisher, J. J., and E. J. Simpson. 1979. “Washover and Tidal Sedimentation Rates as Environmental Factors in Development of a Transgressive Barrier Shoreline.” In *Barrier Islands from the Gulf of St. Lawrence to Gulf of Mexico*, 127–148. Edited by S. P. Leatherman. New York: Academic Press.
+
+FGDC (Federal Geographic Data Committee). 1996a. *FGDC Standards Reference Model*. Reston, VA: Federal Geographic Data Committee.
+
+FGDC (Federal Geographic Data Committee). 1996b. FGDC-STD-004. *Classification of Wetlands and Deepwater Habitats of the United States*. Reston, VA: Federal Geographic Data Committee.
+
+FGDC (Federal Geographic Data Committee). 1997. FGDC-STD-006. *Soil Geographic Data Standard*. Reston, VA: Federal Geographic Data Committee.
+
+FGDC (Federal Geographic Data Committee). 2001. FGDC-STD-001.2-2001. *Metadata Profile for Shoreline Data*. Reston, VA: Federal Geographic Data Committee.
+
+FGDC (Federal Geographic Data Committee). 2008. FGDC-STD-005-2008. *National Vegetation Classification Standard*, Version 2. Reston, VA: U.S. Geological Survey.
+
+FGDC (Federal Geographic Data Committee). 2010. *Draft Coastal and Marine Ecological Classification Standard*, released for public review on August 15, 2010. Reston, VA: Federal Geographic Data Committee.
+
+FGDC (Federal Geographic Data Committee). 2012. FGDC-STD-018–2012. *Coastal and Marine Ecological Classification Standard*. Reston, VA: Marine and Coastal Spatial Data Subcommittee, Federal Geographic Data Committee.
+
+Flemming, B.W. 2000. “A revised textural classification of gravel-free muddy sediments on the basis of ternary diagrams.” *Continental Shelf Research* 20: 1125-1137.
+
+Fletcher, A. 1973. “The Ecology of Marine (Supra Littoral) Lichens on Some Rocky Shores of Anglesey.” *Lichenologist* 5: 401–422.
+
+Folk, R.L., 1954. “The Distinction between Grain Size and Mineral Composition in Sedimentary-Rock Nomenclature.” *The Journal of Geology 62: 344-359*.
+
+Folk, R. L. 1974. Petrology of Sedimentary Rocks. Austin, TX: Hemphill Publishing Company.
+
+Garbary, A., A. Miller, R. Scrosati, K. Kim, and W. Schofield. 2008. “Distribution and Salinity Tolerance of Intertidal Mosses from Nova Scotian Salt Marshes.” *The Bryologist* 111 (2): 282–291.
+
+Gilbert, O. L., and V. J. Giavarini. 1997. “The Lichen Vegetation of Acid Watercourses in England.” *Lichenologist* 29: 347–367.
+
+Gleason, H. A. 1926. “The Individualistic Concept of the Plant Association.” *Bulletin of the Torrey Botanical Club* 53: 7–26.
+
+Greene, H. G., J. J. Bizzarro, V. M. O’Connell, and C. K. Brylinsky. 2007. “Construction of Digital Potential Marine Benthic Habitat Maps Using a Coded Classification Scheme and Its Applications.” In *Mapping the Seafloor for Habitat Characterization,* 141–155. Special Paper 47. Edited by B. J. Todd and H. G. Greene. Geological Association of Canada.
+
+Grizzle, R. E., and C. A. Penniman. 1991. “Effects of Organic Enrichment on Estuarine Macrofaunal Benthos: A Comparison of Sediment Profile Imaging and Traditional Methods.” *Marine Ecology Progress Series* 74: 249–262.
+
+Guarinello, M., E. J. Shumchenia, and J. W. King. 2010. “Marine Habitat Classification for Ecosystem-Based Management: A Proposed Hierarchical Framework.” *Environmental Management* 45 (4): 793–806.
+
+Hamylton, S.M. and T. Spencer. 2011. “Geomorphological Modelling of Tropical Marine Landscapes: Optical Remote Sensing, Patches and Spatial Statistics.” *Continental Shelf Research* 31(2), S151-S161.
+
+Hansel, C. M., and C. A. Francis. 2006. “Coupled Photochemical and Enzymatic Mn(II) Oxidation Pathways of a Planktonic *Roseobacter*-like Bacterium.” *Applied Environmental Microbiology* 72(5): 3543–3549.
+
+Harden, S. L., and D. F. Williams. 1989. “Stable Carbon Isotopic Evidence for Sources of Particulate Organic Carbon Found in Sea Foam.” *Estuaries and Coasts* 12(1):49­56.
+
+Harris, M. S., P. T. Gayes, J. L. Kindinger, J. G. Flocks, D. E. Krantzft, and P. Donovan. 2005\. “Quaternary Geomorphology and Modern Coastal Development in Response to an Inherent Geologic Framework: An Example from Charleston, South Carolina.” *Journal of Coastal Research* 21: 49–64.
+
+Hawksworth, D. L. 2000. “Freshwater and Marine Lichen-Forming Fungi.” In *Aquatic Mycology Across the Millennium*. Edited by K. D. Hyde, W. H. Ho, and S. B. Pointing. *Fungal Diversity* 5: 1–7.
+
+Hewitt, J. E., S. F. Thrush, P. Legendre, G. A. Funnell, J. Ellis, and M. Morrison. 2004. “Mapping of Marine Soft-Sediment Communities: Integrated Sampling for Ecological Interpretation.” *Ecological Applications* 14: 1203–1216.
+
+Heyman, W. D., and D. J. Wright. (2011) “Marine Geomorphology in the Design of Marine Reserve Networks.” *The Professional Geographer* 63 (4): 429–442.
+
+Higgins, J. V., M. T. Bryer, M. L. Khoury, and T. W. Fitzhugh. 2005. “A Freshwater Classification Approach for Biodiversity Conservation Planning.” *Conservation Biology* 19(2): 432-445.
+
+Hiscock, K., and H. Tyler-Walters. 2003. “Assessing the Sensitivity of Seabed Biotopes to Human Activities and Natural Events.” In *Marine Life Information Network: Biology and Sensitivity Key Information Sub-Programme*. Plymouth, UK: Marine Biological Association of the United Kingdom. Last access ed June 13, 2005. http://www.marlin.ac.uk/PDF/Biotope_sens_brochure.pdf.
+
+Holthus, P. F., and J. E. Maragos. 1995. “Marine Ecosystem Classification for the Tropical Island Pacific.” In *Marine and Coastal Biodiversity in the Tropical Island Pacific Region. V. 1: Species Systematics and Information Management Priorities*, 239–278. Edited by J. E. Maragos, M. N. Peterson, L. G. Eldredge, J. E. Bardach, and H. F. Takeuchi. Honolulu: Program on Environment, East-West Center.
+
+Howes, D. E., J. R. Harper, and E. Owens. 1994. *British Columbia Physical Shore-zone Mapping System*. British Columbia, Canada: Resource Inventory Committee.
+
+IUPAC. Compendium of Chemical Terminology, 2nd ed. (the "Gold Book"). 1997. Compiled by A. D. McNaught and A. Wilkinson. Oxford: Blackwell Scientific Publications. XML on-line corrected version: http://goldbook.iupac.org (2006-) created by M. Nic, J. Jirat, B. Kosata; updates compiled by A. Jenkins.
+
+Jackson, J. A., ed. 1997. *Glossary of Geology*. Alexandria, VA: American Geological Institute.
+
+Jennings, M. D., D. Faber-Langendoen, O. L. Loucks, R. K Peet and D. R. Roberts, 2006. “Standards for Associations and Alliances of the U.S. National Vegetation Classification.” *Ecological Monographs* 79(2): 173-199.
+
+Johnson, R. G. 1972. “Conceptual Models of Benthic Marine Communities.” In *Models in Paleobiology*, 148–159. Edited by T. J. M. Schopf. San Francisco, CA: Freeman, Cooper and Company.
+
+Kappes, M., S. Shaffer, Y. Tremblay, D. G. Foley, D. M. Palacios, P. W. Robinson, and S. J. Bograd. 2010. “Hawaiian Albatrosses Track Interannual Variability of Marine Habitats in the North Pacific.” *Progress in Oceanography* 86 (1-2): 246–260.
+
+Keary, P., K. A. Klepeis, and F. J. Vine. 2009. *Global Tectonics*. 3rd ed. Hoboken, NJ: Wiley-Blackwell.
+
+Keen, T. R. and K. T. Holland. 2010. The Coastal Dynamics of Heterogeneous Sedimentary Environments: Numerical Modeling of Nearshore Hydrodynamics and Sediment Transport. Report. NRL/MR/7320--10-9242 Naval Research Laboratory. Ocean Dynamics and Prediction Branch. Oceanography Division. Stennis Space Center, MS 39529-5004. 140 pp.
+
+Kendall, M. S., J. D. Christensen, and Z. Hillis-Starr. 2003. “Multi-Scale Data Used to Analyze the Spatial Distribution of French Grunts, *Haemulon flavolineatum*, Relative to Hard and Soft Bottom in a Benthic Landscape.” *Environmental Biology of Fishes* 66: 19–26.
+
+Kendall, M.S., M.E. Monaco, K.R. Buja, J.D. Christensen, C.R. Kruer, and M. Finkbeiner, R.A. Warner. 2001. *Methods Used to Map the Benthic Habitats of Puerto Rico and the U.S. Virgin Islands*. Silver Spring, MD: National Oceanic and Atmospheric Administration (NOAA). National Ocean Service (NOS), National Centers for Coastal Ocean Science (NOS) Biogeography Program.
+
+Keys, J. E., Jr., C. A. Carpenter, S. L. Hooks, F. G. Koenig, W. H. McNab, W. E. Russell, and M-L. Smith. 1995. *Ecological Units of the Eastern United States ­First Approximation.* Colored map and booklet of map unit tables; presentation scale 1:3,500,000. Atlanta, GA: U.S. Department of Agriculture, Forest Service.
+
+Kleypas, J., J. W. McManus, and L. A. B. Menez. 1999. “Environmental Limits to Coral Reef Development: Where Do We Draw the Line?” *American Zoologist*, 39:146­159.
+
+Kutcher, T. E. 2008. *Habitat and Land Cover Classification Scheme for the National Estuarine Research Reserve System*. Silver Spring, MD: National Oceanic and Atmospheric Administration, Office of Ocean and Coastal Resource Management, Estuarine Reserves Division.
+
+Lander, M. E., T. R. Loughlin, M. G. Logsdon, G. R. Van Blaricom, B. S. Fadely, and L. W. Fritz. 2009. “Regional Differences in the Spatial and Temporal Heterogeneity of Oceanographic Habitat Used by Steller Sea Lions.” *Ecological Applications* 19 (6): 1645–1659.
+
+Latz, M. I., M. Bovard, V. VanDelinder, E. Segre, J. Rohr, and A. Groisman. 2008. “Bioluminescent Response of Individual Dinoflagellate Cells to Hydrodynamic Stress Measured with Millisecond Resolution in a Microfluidic Device.” *Journal of Experimental Biology* 211: 2865-2875.
+
+Lee, Z. P., A.Weidemann, J. Kindle, R. Arnone, K. L. Carder, and C. Davis. 2007. "Euphotic Zone Depth: Its Derivation and Implication to Ocean-Color Remote Sensing" *Marine Science Faculty Publications.* Paper 11. http://scholarcommons.usf.edu/msc_facpub/11.
+
+Lion, L. W., and J. O. Leckie. 1981. “The Biogeochemistry of the Air-Sea Interface.” *Annual Review of Earth and Planetary Sciences* 9: 449-484.
+
+Littler, M. M., D. S. Littler, and P. R. Taylor. 1983. “Evolutionary Strategies in a Tropical Barrier Reef System: Functional-Form Groups of Marine Macroalgae.” *Journal of Phycology* 19: 229–237.
+
+Lobban, C. S., and P. J. Harrison. 1997. *Seaweed Ecology and Physiology*. Cambridge, UK: Cambridge University Press.
+
+Lorenson, T. D., F. D. Hostettler, R. J. Rosenbauer, K. E. Peters, K. A. Kvenvolden, J. A. Dougherty, C. E. Gutmacher, F. L. Wong, and W. R. Normark. 2009. *Natural Offshore Seepage and Related Tarball Accumulation on the California Coastline; Santa Barbara Channel and the Southern Santa Maria Basin; Source Identification and Inventory*. U.S. Geological Survey Open-File Report 2009-1225 and Minerals Management Service report 2009-030.
+
+Madden, C. J., and D. H. Grossman. 2004. *A Framework for a Coastal/Marine Ecological Classification Standard*. Arlington, VA: NatureServe.
+
+Madden, C. J., D. H. Grossman, and K. L. Goodin. 2005. *Coastal and Marine Systems of North America: Framework for an Ecological Classification Standard: Version II*. Arlington, VA: NatureServe.
+
+Madden, C. J., R. Smith, E. Dettmann, and N. Detenbeck. 2008. “A Typology of Estuaries Supporting the Development of a National Nutrient Criteria Framework for Estuarine Systems.” Chap. 3 in *Development of Nutrient Criteria for the* *Nation’s Estuaries: Technical Document.* Edited by P. Glibert et al. Report of the National Nutrient Criteria Development Workgroup. U.S. Environmental Protection Agency.
+
+Madley, K., A. B. Sargent, and F. J. Sargent. 2002. *Development of a System for Classification of Habitats in Estuarine and Marine Environments (SCHEME) for Florida*. Report to the U.S. Environmental Protection Agency Gulf of Mexico Program (Grant Assistance Agreement MX-97408100). St. Petersburg, FL: Florida Marine Research Institute, Florida Fish and Wildlife Conservation Commission.
+
+McArthur, M. A., B. P. Brooke, R. Przeslawski, D. A. Ryan, V. L. Lucieer, S. Nichol, A. W. McCallum, et al. 2010. “On the Use of Abiotic Surrogates to Describe Marine Benthic Biodiversity.” *Estuarine, Coastal and Shelf Science* 88: 21–32.
+
+McDougall, P. T., M. Janowicz, and R. F. Taylor. 2007. *Habitat Classification in the Gulf of Maine: A Review of Schemes and a Discussion of Related Regional Issues*. Gulf of Maine Council on the Marine Environment.
+
+McIntosh, R. P. 1993. “The Continuum Continued: John T. Curtis’ Influence on Ecology.” In *John T. Curtis: Fifty Years of Wisconsin Plant Ecology*, 95–122. Edited by J. S. Fralish, R. P. McIntosh, and O. L Loucks. Madison, WI: Wisconsin Academy of Sciences, Arts and Letters.
+
+Menge, B. A. 1976. “Organization of the New England Rocky Intertidal Community: Role of Predation, Competition, and Environmental Heterogeneity.” *Ecological Monographs* 46 (4): 355–393.
+
+Ministry of Fisheries and Department of Conservation. 2008. *Marine Protected Areas: Classification, Protection Standard and Implementation Guidelines*. Wellington, NZ: Ministry of Fisheries and Department of Conservation.
+
+Murawski, S., J. Steele, P. Taylor, M. Fogarty, M. Sissenwine, M. Ford, and C. Suchman. 2010. “Why Compare Marine Ecosystems?” *ICES Journal of Marine Science* 67: 1–9.
+
+Neuendorf, K. K. E., J. P. Mehl, Jr., J. Jackson. 2005. *Glossary of Geology*. 5th ed. Alexandria, VA: American Geological Institute.
+
+Nilsson, H. C., and R. Rosenberg. 1997. “Benthic Habitat Quality Assessment of an Oxygen Stressed Fjord by Surface and Sediment Profile Images.” *Journal of Marine Systems* 11: 249–264.
+
+Nilsson, H. C., and R. Rosenberg. 2000. “Succession in Marine Benthic Habitats and Fauna in Response to Oxygen Deficiency: Analyzed by Sediment Profile Imaging and by Grab Samples.” *Marine Ecology Progress Series* 197: 139–149.
+
+NOAA (National Oceanic and Atmospheric Administration). 1997. *NOAA’s Estuarine Eutrophication Survey, Vol. 4: Gulf of Mexico Region*. Silver Spring, MD: NOAA, Office of Ocean Resources and Assessment.
+
+NOAA (National Oceanic and Atmospheric Administration). 2001. *Benthic Habitats of Puerto Rico and the U.S. Virgin Islands. Methods Used to Map the Benthic Habitats of Puerto Rico and the U.S. Virgin Islands.* Silver Spring, MD: National Centers for Coastal Ocean Science, Biogeography Program.
+
+Odum, E. P. 1969. “The Strategy of Ecosystem Development.” *Science* 164: 262–270.
+
+Olenin, S., and J. Ducrotoy. 2006. “The Concept of Biotope in Marine Ecology and Coastal Management.” *Marine Pollution Bulletin* 53: 20–29.
+
+OMB (Office of Management and Budget). 2002. *OMB Circular A-16*, Coordination of Geographic Information, and Related Spatial Data Activities. Washington, DC: Office of Management and Budget.
+
+Omernik, J. M. 1995. “Ecoregions: A Framework for Environmental Management.” In *Biological Assessment and Criteria: Tools for Water Resource Planning and Decision Making.* Edited by W. S. Davis and T. P. Simon. Boca Raton, FL: Lewis Publishers.
+
+Pahl-Wostl, C., and R. E. Ulanowicz. 1993. “Quantification of Species as Functional Units within an Ecological Network.” *Ecological Modeling* 66: 65–79.
+
+Parks, N. 2002. “A *Lingua Franca* for Marine Habitat Classification—an Idea Whose Time Has Come.” *BioScience* 52(4): 324.
+
+Parry M. L., O. F. Canziani, J. P. Palutikof, P. J. van der Linden, C. E. Hanson, eds. 2007. *Climate Change 2007: Impacts, Adaptation And Vulnerability. Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change*. Intergovernmental Panel on Climate Change. Last accessed October 2, 2011. http://www.ipcc.ch/ipccreports/ar4-wg2.htm.
+
+Pearson, T. H., and R. Rosenberg. 1976. “A Comparative Study of the Effects on the Marine Environment of Wastes from Cellulose Industries in Scotland and Sweden.” *Ambio* 5: 77–79.
+
+Pearson, T. H., and R. Rosenberg. 1978. “Macrobenthic Succession in Relation to Organic Enrichment and Pollution of the Marine Environment.” *Oceanography and Marine Biology: An Annual Review* 16: 229–311.
+
+Peterson, F. F. 1981. *Landforms of the Basin and Range Province Defined for Soil Survey*. Technical Bulletin No. 28. Reno, NV: Nevada Agricultural Experiment Station.
+
+Pond, S. and G. L. Pickard. 1983. *Dynamical Oceanography*. Pergamon Press. 320 pp.
+
+Poppe, L.J., A.H. Eliason, and M.E. Hastings. 2003. “A Visual Basic Program to Classify Sediments Based on Gravel-Sand-Silt-Clay Ratios.” *Computers and Geosciences* 29: 805-809.
+
+Post, A. L. 2008. “The Application of Physical Surrogates to Predict the Distribution of Marine Benthic Organisms.” *Ocean and Coastal Management* 51 (2): 161–179.
+
+Reid, B. J. M., J. A. Reid, C. J. Jenkins, M. E. Hastings, S. J. Williams, L. J. Poppe, G. A. Norton, et al. 2005. *usSEABED: Atlantic Coast Offshore Surficial Sediment.* U.S. Geological Survey.
+
+Reilly, F., Jr., R. Spagnolo, and E. Ambrogio. 1999. “Marine and Estuarine Shallow Water Science and Management: The Interrelationship among Habitats and Their Management.” *Estuaries* 22 (3B): 731–734.
+
+Resource Information Standards Committee. 2002. *British Columbia Marine Ecological Classification: Marine Ecosections and Ecounits*, Version 2*.* British Columbia, Canada: Resources Information Standards Committee.
+
+Rhoads, D. C., and J. D. Germano. 1982. “Characterization of Organism-Sediment Relationships Using Sediment Profile Imaging: An Efficient Method of Remote Ecological Monitoring of the Seafloor (REMOTS<sup>®</sup> System).” *Marine Ecology Progress Series* 8: 115–128.
+
+Rhoads, D. C., and J. D. Germano. 1986. “Interpreting Long-Term Changes in Benthic Community Structure: A New Protocol.” *Hydrobiologia* 142: 291–308.
+
+Rhoads, D. C., and D. K. Young. 1970. “The Influence of Deposit Feeding Organisms on Sediment Stability and Community Trophic Structure.” *Journal of Marine Research* 28: 150–178.
+
+Ritter, C., P. A. Montagna, and S. Applebaum. 2005. “Short-Term Succession Dynamics of Macrobenthos in a Salinity Stressed Estuary.” *Journal of Experimental Marine Biology and Ecology* 323: 57–69.
+
+Ritter, D. F., R. C. Kochel, and J. R. Miller. 1995. *Process Geomorphology.* 3rd ed. Dubuque, IA: Wm. C. Brown, Publishers.
+
+Roberts, J. M., A. J. Wheeler, and A. Freiwald. 2006. “Reefs of the Deep: The Biology and Geology of Cold-Water Coral Ecosystems.” *Science* 213: 543–547.
+
+Roberts, J.M., A. Wheeler, A. Freiwald, and S. Cairns, S. 2009. *Cold-Water Corals: the Biology and Geology of Deep-Sea Coral Habitats.* Cambridge: Cambridge University Press.
+
+Rosenberg, R. 1976. “Benthic Faunal Dynamics during Succession Following Pollution Abatement in a Swedish Estuary.” *Oikos* 27: 414–427.
+
+Rosenberg, R. 1977. “Benthic Macrofaunal Dynamics, Production, and Dispersion in an Oxygen-Deficient Estuary of West Sweden.” *Journal of Experimental Marine Biology and Ecology* 26: 107-133.
+
+Rosenberg, R. 2001. “Marine Benthic Faunal Successional Stages and Related Sedimentary Activity.” *Scientia Marina* 65: 107–119.
+
+Rosenberg, R., H.C. Nilsson, and R.J. Diaz. 2001. “Response of benthic fauna and changing sediment redox profiles over a hypoxic gradient.” *Estuarine, Coastal, and Shelf Science* 53: 343-350.
+
+Schlee, J.S. 1973. *Atlantic Continental Shelf and Slope of the United State--Sediment Texture of the North-Eastern Part.* U.S. Geological Survey Professional Paper 529­L.
+
+Schoch, G. C. 1996. “The Classification of Nearshore Habitats: A Spatial Distribution Model.” Master’s thesis, Oregon State University.
+
+Schoch, G. C. 1999. *Identifying Replicate Habitats in the Nearshore: Partitioning the Heterogeneity of Complex Shorelines*. Report. Corvallis, OR: Oregon State University.
+
+Schoeneberger, P. J., and D. A. Wysocki. 2005. *Geomorphic Description System.* Version 3.3. Lincoln, NE: U.S. Department of Agriculture, Natural Resources Conservation Service, National Soil Survey Center.
+
+Schoeneberger, P. J., D. A. Wysocki, E. C. Benham, and W. D. Broderson, eds. 2002. *Field Book for Describing and Sampling Soils.* Version 2.0. Lincoln, NE: U.S. Department of Agriculture, Natural Resources Conservation Service, National Soil Survey Center.
+
+Shepard, F. P. 1954. “Nomenclature Based on Sand-Silt-Clay Ratios.” *Journal of Sedimentary Petrology* 24: 151–158.
+
+Short, A.D. 2006. “Australian Beach Systems—Nature and Distribution.” *Journal of Coastal Research* 22(1): 11-27.
+
+Shumchenia, E. J., and J. W. King. 2010. “Comparison of Methods for Integrating Biological and Physical Data for Marine Habitat Mapping and Classification.” *Continental Shelf Research* 30: 1717–1729.
+
+Skov, H., T. Gunnlaugsson, W. P. Budgell, J. Horne, L. Nøttestad, E. Olsen, H. Søiland, G.Víkingsson, and G. Waring. 2008. “Small-Scale Spatial Variability of Sperm and Sei Whales in Relation to Oceanographic and Topographic Features Along the Mid-Atlantic Ridge.” *Deep Sea Research II* 55: 254-268.
+
+Soil Survey Staff. 2010. *Keys to Soil Taxonomy, 11th edition.* USDA-NRCS, U.S. Government Printing Office, Washington, D.C. South Carolina Department of Natural Resources, Marine Resources Division. 2008.
+
+*Final Report for South Carolina’s 2004–2005 Intertidal Oyster Survey and Related Reef Restoration/Enhancement Program: An Integrated Oyster Resource/Habitat Management and Restoration Program Using Novel Approaches*. Final report completed for National Oceanic and Atmospheric Administration Award No. NA04NMF4630309. South Carolina Department of Natural Resources. Spalding. M. D., H. E. Fox, G. R. Allen, N. Davidson, Z. A. Ferdana, M. Finlayson, B. S.
+
+Halpern, et al. 2007. “Marine Ecoregions of the World: A Bioregionalization of Coastal and Shelf Areas.” *BioScience* 57 (7): 573–583.
+
+Stakes et al. 1999. “Cold-Seeps and Authigenic Carbonate Formation in Monterey Bay, California.” *Marine Geology* 159 (1-4): 93–109.
+
+Steneck R. S. 1988. “Herbivory on Coral Reefs: A Synthesis.” *Proceedings of the 6th International Coral Reef Symposium: Vol. 1: Plenary Addressess and Status review.* Volume 1: Plenary Addresses and Status Review. Townsville, Australia.
+
+Steneck, R. S., and M. N. Dethier. 1994. “A Functional Group Approach to the Structure of Algal-Dominated Communities.” *Oikos* 69 (3): 476–598.
+
+Stephenson, T. A., and A. Stephenson. 1972. *Life between Tide Marks on Rocky Shores*. San Stolt, M., M. Bradley, J. Turenne, M. Payne, E. Scherer, G. Cicchetti, E. Shumchenia, M. Guarinello, J. King, J. Boothroyd, B. Oakley, C. Thornber, and P. August. 2011. “Mapping Shallow Coastal Ecosystems: A Case Study of a Rhode Island Lagoon.” *Journal of Coastal Research* 27:1-15.
+
+Teal, L.R., R. Parker, G. Fones, and M. Solan. 2009. “Simultaneous Determination of *In Situ* Vertical Transitions of Color, Pore-Water Metals, and Visualization of Infaunal Activity in Marine Sediments.” *Limnology and Oceanography* 54: 1801-1810.
+
+Thrush, S. F., and P. K. Dayton. 2010. “What Can Ecology Contribute to Ecosystem-Based Management?” *Annual Review of Marine Science* 2 (1): 419–441.
+
+Ulanowicz, R. E. 1996. “Ecosystem Development: Symmetry Arising?” *Symmetry: Culture and Science*. 7 (3): 321–334.
+
+UNESCO (United Nations Educational, Scientific and Cultural Organization). 1981. “The Practical Salinity Scale 1978 and he International Equation of State of Seawater 1980.” Appendix I, *Tenth Report of the Joint Panel on Oceanographic Tables and Standards*. Paris: UNESCO. UNESCO Technical Papers in Marine Science No. 36.
+
+UNESCO (United Nations Educational, Scientific and Cultural Organization). 2009. *Global Open Ocean and Deep Seabed (GOODS)—Biogeographic Classification*. UNESCO-Intergovernmental Oceanographic Commission. IOC Technical Series No. 84.
+
+U.S.Army Corps of Engineers. 2003. “Surf Zone Hydrodynamics.” Chapter 4 in *Coastal Engineering Manual*. Vicksburg, Mississippi: Coastal and Hydraulics Laboratory, Waterways Experiment Station. http://chl.erdc.usace.army.mil/Media/1/8/1/CEM_Part-II_Chap-4.pdf.
+
+U.S. Department of Agriculture, Natural Resources Conservation Service. 2008. “Glossary of Landform and Geologic Terms.” *National Soil Survey Handbook (NSSH)*, 629–685. Title 430-VI. U.S. Department of Agriculture. http://soils.usda.gov/technical/handbook/.
+
+Valentine, P.C., B.J. Todd and V.E. Kostylev. 2005. “Classification of Marine Sublittoral Habitats, with Application to the Northeastern North America Region.” *American*
+
+Wells, D.V., R.D. Conkwright, J.M. Hill, and M.J. Park. 1994. *The Surficial Sediments of Assawoman Bay and Isle of Wight Bay, Maryland: Physical and Chemical Characteristics.* Baltimore, MD: Coastal and Estuarine Geology File Report Number 94-2, Maryland Geological Survey.
+
+Wentworth, C. K. 1922. “A Scale of Grade and Class Terms for Clastic Sediments.” *The Journal of Geology* 30: 377–392. Francisco, CA: W.H. Freeman.
+
+Wetzel, R. G. 2001. *Limnology. Lake and River Ecosystems*. San Diego, CA: Academic Press.
+
+Whittaker R. H. 1962. “Classification of Natural Communities.” *Botanical Review* 28: 1– 80.
+
+Whittaker, R. H. 1975. *Communities and Ecosystems*. New York: MacMillan.
+
+Wilhelmsson, D., T. Malm, R. Thompson, J. Tchou, G. Sarantakos, N. McCormick, S. Luitjens, et al., eds. 2010. *Greening Blue Energy: Identifying and Managing the Biodiversity Risks and Opportunities of Offshore Renewable Energy*, 102. Gland, Switzerland: International Union for Conservation of Nature.
+
+Wilkinson, T. A. C., E. Wiken, J. B. Creel, T. F. Hourigan, T. Agardy, H. Herrmann, L. Janishevski, C. Madden, L. Morgan, and M. Padilla**.** 2009. *Marine Ecoregions of North America*. Montreal, Canada: Commission for Environmental Cooperation.
+
+Wu, J. 1999. “Hierarchy and Scaling: Extrapolating Information along a Scaling Ladder.” *Canadian Journal of Remote Sensing* 25: 367–380.
+
+Wu, J. et al. 2000. “Multiscale Analysis of Landscape Heterogeneity: Scale Variance and Pattern Metrics.” *Geographic Information Sciences* 6 (1): 6–19.
+
+Zacharias, M. A., D. E. Howes, J. R. Harper, and P. Wainwright. 1998. “The British Columbia Marine Ecosystem Classification: Rationale, Development, and Verification.” *Coastal Management* 26: 105–124.
+
+Zajac, R. N., R. B. Whitlach, and S. F. Thrush. 1998. “Recolonization and Succession in Soft-Sediment Infaunal Communities: the Spatial Scale of Controlling Factors.” *Hydrobiologia* 375/376: 227–240.
+
+Zale, A.V., and S.G. Merrifield. 1989. *Species Profiles: Life Histories and Environmental Requirements of Coastal Fishes and Invertebrates (South Florida) – Reef-Building Tube Worm.* U.S. Fish Wildlife Service. Biol. Rep. 82(11.115). U.S. Army Corps of Engineers, TR EL-82-4.
+
+Zhao, B. and P-Y. Qian. 2002. “Larval Settlement and Metamorphosis in the Slipper Limpet *Crepidula onyx* (Sowerby) in Response to Conspecific Cues and the Cues from Biofilm.” *Journal of Experimental Marine Biology and Ecology* 269: 39–5.
+
+Zitello, A. G., L. J. Bauer, T. A. Battista, P. W. Mueller, M. S. Kendall, and M. E. Monaco. 2009. *Shallow-Water Benthic Habitats of St. John, U.S. Virgin Islands*. National Oceanic and Atmospheric Administration Technical Memorandum NOS NCCOS 96. Silver Spring, MD: National Oceanic and Atmospheric Administration.
 </details>
