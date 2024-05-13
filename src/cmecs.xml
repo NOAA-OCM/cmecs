@@ -618,7 +618,7 @@ The particle sizes for these units are derived from Wentworth (1922), and they c
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
-        <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
@@ -2883,7 +2883,9 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <rdfs:comment>Anthropogenic Substrates that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Anthropogenic Substrate surface, are consolidated or fixed in the surrounding environment and are dominated by aggregate, primarily construction, materials. This includes concrete, asphalt, brick, porcelain, or similar materials. Examples of features that form anthropogenic substrates include boat ramps, piers, and seawalls.</rdfs:comment>
         <rdfs:label>Fixed Aggregate Substrate</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
-        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Editorial Change (definition re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Name Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
@@ -2900,6 +2902,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
@@ -5840,7 +5843,6 @@ The GC is organized into four subcomponents that occur along a spatial continuum
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001671>The CMECS Coarse, Mixed, and Fine Unconsolidated Mineral Substrate Classes and subordinate units use Folk (1954) terminology to describe particle sizes of loose mineral substrates as shown in the ternary diagram in Figure 7.2 . Units with bracketed letters, e.g., [G], [(g)sM], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).</cmecs:CMECS_00001671>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
-        <cmecs:componentCode>Editorial Change (defintion re-worded)</cmecs:componentCode>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
     </owl:Class>
@@ -7924,6 +7926,7 @@ Massive and submassive corals are resistant to strong water currents, and are th
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
@@ -7940,6 +7943,7 @@ Massive and submassive corals are resistant to strong water currents, and are th
         <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
@@ -8903,6 +8907,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subclass</cmecs:unitType>
@@ -12450,6 +12455,8 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Name Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
@@ -12466,8 +12473,8 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
-        <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Editorial change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
@@ -23420,7 +23427,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
         <rdfs:label xml:lang="en">Sandy Mixes with Trace Gravel</rdfs:label>
         <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
-        <cmecs:CMECS_00001669>Type of Change: Split (Parent Unit: Slightly Gravelly)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Type of Change: Addition</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>

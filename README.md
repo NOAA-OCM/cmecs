@@ -1,8 +1,8 @@
-# The NCEI-NOAAGov / cmecs GitHub 
-The Coastal and Marine Ecological Classification Standard (CMECS) is a collection of ecological units (terms + defintions) and unit relationships (the CMECS framework). This site provides public access to the files that contain the versions of CMECS Catalog of units.
+# The CMECS Catalog GitHub 
+The Coastal and Marine Ecological Classification Standard (CMECS) is a collection of terms and definitions (ecological units) ordered within a spatio-temporal framework (the CMECS framework) for mapping and characterizing benthic habitat. This site provides public access to the files that contain the versions of CMECS Catalog of units.
 
-## [The CMECS Vocabulary Wiki](https://git.ncei.noaa.gov/kate.rose/cmecs_vocabulary/-/wikis/home)
-Please see the [CMECS Vocabulary Wiki](https://git.ncei.noaa.gov/kate.rose/cmecs_vocabulary/-/wikis/home) for more information about CMECS, the vocabulary maintenance process, and versions and releases.
+## [The CMECS Catalog Wiki](https://github.com/r0sek/CMECS_Catalog/wiki)
+Please see the [CMECS Catalog Wiki](https://github.com/r0sek/CMECS_Catalog/wiki) for more information about CMECS, the vocabulary maintenance process, versions and releases, and links to files.
 
 ## Support
 For questions about this repository please contact Kate Rose (kate.rose@noaa.gov).
