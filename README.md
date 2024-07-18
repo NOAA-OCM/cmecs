@@ -1,11 +1,11 @@
 # The CMECS Catalog GitHub 
 The Coastal and Marine Ecological Classification Standard (CMECS) is a collection of terms and definitions (ecological units) ordered within a spatio-temporal framework (the CMECS framework) for mapping and characterizing benthic habitat. This site provides public access to the files that contain the versions of CMECS Catalog of units.
 
-## [The CMECS Catalog Wiki](https://github.com/r0sek/CMECS_Catalog/wiki)
-Please see the [CMECS Catalog Wiki](https://github.com/r0sek/CMECS_Catalog/wiki) for more information about CMECS, the vocabulary maintenance process, versions and releases, and links to files.
+## [The CMECS Catalog Wiki](https://github.com/NOAA-OCM/cmecs/wiki)
+Please see the [CMECS Catalog Wiki](https://github.com/NOAA-OCM/cmecs/wiki) for more information about CMECS, the vocabulary maintenance process, versions and releases, and links to files.
 
 ## Support
-For questions about this repository please contact Kate Rose (kate.rose@noaa.gov).
+For questions about this repository please contact Matt Dornback (matt.dornback@noaa.gov) and Kate Rose (kate.rose@noaa.gov).
 For questions about using CMECS please contact the CMECS Implementation Group (ocm.cmecs-ig@noaa.gov). 
 
 ## License
