@@ -3,8 +3,7 @@
 Version 1.1.0 / May 2024
 |---|
 
-
-![image](https://github.com/r0sek/CMECS_Catalog/assets/81778204/bb0d86a4-0d53-4184-852b-1e23b9fab0a8) Click this icon in the upper right corner of this window to open a searchable list of units
+![image](https://github.com/user-attachments/assets/f20fca61-4b00-42e1-be4e-45f0790afe0f) Click this icon in the upper right corner of this window to open a searchable list of units
 |---| 
  
 <details>
@@ -7212,7 +7211,7 @@ Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or more of 
 > Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Clay-Silt mix is 67% or more > Clay (particles \< 0.004 millimeters in diameter).
 
 ## Figure 7.2 (Revised)
-![SC_Fig7-2_final](https://github.com/r0sek/CMECS_Catalog/assets/81778204/a0c45e4d-ae5e-4afa-a69e-c4e9eadccab7)
+![SC_Class_Subclass_Ternary_v2](https://github.com/user-attachments/assets/a41df39d-7d73-4905-b6f1-9f80edb78b28)
 
 ## Substrate Origin: Biogenic Substrate
 
