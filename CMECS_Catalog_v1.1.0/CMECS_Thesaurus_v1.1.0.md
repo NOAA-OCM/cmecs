@@ -196,7 +196,7 @@ The Estuarine System has four subsystems: Coastal, Open Water, Tidal Riverine Co
 
 ### Subsystem: Estuarine Coastal
 
-The Estuarine Coastal Subsystem extends from the supratidal zone at the land margin up to the 4-meter depth contour in waters that have salinity greater than 0.5 (during the period of average annual low flow). The Estuarine Coastal Subsystem would be considered the shallow perimeter in a deeper estuary, although many estuaries may be entirely less than 4 meters deep and be classified as completely in the Coastal Subsystem. The 4-meter contour was selected as a cutoff between “coastal” and “offshore” estuarine waters because it identifies (somewhat arbitrarily) a region that is both shallow and generally in close proximity to the shore, making the substrate-to-water volume ratio here the highest in the entire estuary. A convening of experts delineated this 4-meter contour as described in Reilly, Spagnolo, and Ambrogio (1999) as important in both an ecological and a regulatory sense in estuarine systems and CMECS has adopted it to emphasize the significant human and natural processes that occur there.
+The Estuarine Coastal Subsystem extends from the supratidal zone at the land margin up to the 4-meter depth contour in waters that have salinity \> 0.5 (during the period of average annual low flow). The Estuarine Coastal Subsystem would be considered the shallow perimeter in a deeper estuary, although many estuaries may be entirely less than 4 meters deep and be classified as completely in the Coastal Subsystem. The 4-meter contour was selected as a cutoff between “coastal” and “offshore” estuarine waters because it identifies (somewhat arbitrarily) a region that is both shallow and generally in close proximity to the shore, making the substrate-to-water volume ratio here the highest in the entire estuary. A convening of experts delineated this 4-meter contour as described in Reilly, Spagnolo, and Ambrogio (1999) as important in both an ecological and a regulatory sense in estuarine systems and CMECS has adopted it to emphasize the significant human and natural processes that occur there.
 
 The high wetland-water ration and pelagic-benthic connectivity makes the Estuarine Coastal Subsystem an extremely dynamic and active area in terms of hydrodynamics, geology, and biology. It is this area in shallow coastal waters where maximum interaction between estuarine waters, and adjacent wetlands or developed shoreline occurs and often where intense juxtaposition of human activity and the natural system occurs. Watershed, point and non-point inputs to the estuary are often maximal in this shallow zone.
 
@@ -236,11 +236,11 @@ The Tidal Riverine Coastal Subsystem includes upstream areas that are influenced
 
 #### Tidal Zone: Estuarine Tidal Riverine Coastal Subtidal
 
-> The substrate is generally continuously submerged in this zone and > includes those areas below MLLW.
+> The substrate is generally continuously submerged in this zone and includes those areas below MLLW.
 
 #### Tidal Zone: Estuarine Tidal Riverine Coastal Intertidal
 
-> The substrate in this zone is regularly and periodically exposed and > flooded by tides. This zone extends from MLLW to the extent of tidal > inundation, i.e., the extreme high water of spring tides. The Coastal > Intertidal is exposed regularly to the air by tidal action.
+> The substrate in this zone is regularly and periodically exposed and flooded by tides. This zone extends from MLLW to the extent of tidal > inundation, i.e., the extreme high water of spring tides. The Coastal Intertidal is exposed regularly to the air by tidal action.
 
 ### Subsystem: Estuarine Tidal Riverine Open Water
 
@@ -250,7 +250,7 @@ The Estuarine Tidal Riverine Open Water Subsystem is the most upstream portion o
 
 #### Tidal Zone: Estuarine Tidal Riverine Open Water Subtidal
 
-> The substrate is generally continuously submerged in this zone and > includes those areas below MLLW.
+> The substrate is generally continuously submerged in this zone and includes those areas below MLLW.
 
 ## Marine System
 
@@ -266,15 +266,15 @@ The Marine Nearshore Subsystem extends from the landward limit of the Marine Sys
 
 #### Tidal Zone: Marine Nearshore Subtidal
 
-> The substrate is generally continuously submerged in this zone and > includes those areas below MLLW.
+> The substrate is generally continuously submerged in this zone and includes those areas below MLLW.
 
 #### Tidal Zone: Marine Nearshore Intertidal
 
-> The substrate is regularly and periodically exposed and flooded by > tidal action. This zone extends from MLLW to MHHW.
+> The substrate is regularly and periodically exposed and flooded by tidal action. This zone extends from MLLW to MHHW.
 
 #### Tidal Zone: Marine Nearshore Supratidal
 
-> This zone includes areas above MHHW that are affected by wave splash > and overwash but does not include areas affected only by wind-driven > spray. This zone is subjected to periodic high wave energy, exposure > to air, and often to variable salinity.
+> This zone includes areas above MHHW that are affected by wave splash and overwash but does not include areas affected only by wind-driven spray. This zone is subjected to periodic high wave energy, exposure to air, and often to variable salinity.
 
 ### Subsystem: Marine Offshore
 
@@ -286,7 +286,7 @@ The Offshore Subsystem may be strongly influenced by open-ocean biogeochemistry 
 
 #### Tidal Zone: Marine Offshore Subtidal
 
-> The substrate is subtidal and continuously submerged in this zone and > includes those areas below MLLW.
+> The substrate is subtidal and continuously submerged in this zone and includes those areas below MLLW.
 
 ### Subsystem: Marine Oceanic
 
@@ -660,7 +660,7 @@ Salinity (PSS) 30 to \< 40
 
 ### Hyperhaline Water
 
-Salinity (PSS) greater than or equal to 40
+Salinity (PSS) $$\geq$$ to 40
 
 ## Temperature Regime Subcomponent
 
@@ -730,7 +730,7 @@ temperature are established in Table 5.3.
 
 ### Very Hot Water
 
-Greater than or equal to 35°C
+$$\geq$$ to 35°C
 
 ## Hydroform Subcomponent
 
@@ -779,8 +779,7 @@ creating geoforms such as sand ripples and bars.
 
 #### Hydroform: Boundary Current
 
-> The portion of an ocean gyre that moves along the continental
-> boundary.
+> The portion of an ocean gyre that moves along the continental boundary.
 
 ##### Hydroform Type: Eastern Boundary Current
 
@@ -1219,8 +1218,7 @@ biological processes can alter them.
 
 ##### Hydroform Type: Ice Field
 
-> Expanse of ice greater in size than an ice floe (greater than or equal
-> to 10 kilometers in any dimension).
+> Expanse of ice greater in size than an ice floe ($$\geq$$ 10 kilometers in any dimension).
 
 ##### Hydroform Type: Ice Floe
 
@@ -1735,7 +1733,7 @@ and volcanic activity are minor and local.
 
 A feature defined by the transform fault that develops during
 continental rifting. These margins differ from rifted or passive margins
-in two key ways; they have a narrow continental shelf (less than 30
+in two key ways; they have a narrow continental shelf (\< 30
 kilometers) and a steep ocean-continent transition zone (Keary et al.
 2009).
 
@@ -1745,7 +1743,7 @@ A narrow, elongate depression of the deep seafloor associated with a
 subduction zone. These can be oriented parallel to a volcanic arc and
 are commonly aligned with the edge of the adjacent continent, between
 the continental margin and the abyssal hills. Trenches are commonly
-greater than 2 kilometers deeper than the surrounding ocean floor, and
+\> 2 kilometers deeper than the surrounding ocean floor, and
 they may be thousands of kilometers long.
 
 ## Physiographic Setting Subcomponent
@@ -1787,7 +1785,7 @@ A broad bend or curve in a generally open coast. Examples include the
 South Atlantic Bight and the Southern California Bight. These are
 distinguished from Embayment/Bays by the shallower angle between the
 apex of the bight and the adjacent coasts, although the term *Bay* has
-been used to name these features (e.g*.*, Bay of Campeche).
+been used to name these features (e.g., Bay of Campeche).
 
 ### Physiographic Setting: Borderland
 
@@ -1966,7 +1964,7 @@ acoustic remote sensing.
 
 Level 1 and Level 2 geoforms are arranged as two separate subcomponents
 so that they can be used in tandem to describe complex spatial patterns
-of geoform structures. Level 2 geoforms normally occur as portions of—or
+of geoform structures. Level 2 geoforms normally occur as portions of— or
 smaller features contained (nesting) within— Level 1 geoforms, but are
 not hierarchically constrained by the Level 1 geoforms. It is possible
 for geoforms at either level to nest within other units within their
@@ -2381,15 +2379,15 @@ them their distinctive qualities.
 > the landward side of a barrier island (Jackson 1997). Sediment is
 > carried through temporary overwash channels that cut through the dune
 > complex on the barrier spit (Fisher and Simpson 1979; Boothroyd et al.
-> 1985; Davis 1994) and spill out onto the lagoon**-**side platform,
-> where they coalesce to form a broad belt. Also called Storm**-**Surge
+> 1985; Davis 1994) and spill out onto the lagoon-side platform,
+> where they coalesce to form a broad belt. Also called Storm-Surge
 > Platform Flat (Boothroyd et al. 1985) and Washover Fan Apron (Jackson
 > 1997).
 
 ##### Geoform Type: Wind Tidal Flat (Level 1 only)
 
 > A broad, low-lying, nearly level sand flat that is alternately flooded
-> by ponded rainwater or inundated by wind**-**driven marine and
+> by ponded rainwater or inundated by wind-driven marine and
 > estuarine waters. Salinity fluctuations and prolonged periods of
 > exposure preclude establishment of most types of vegetation (except
 > for mats of filamentous blue-green algae).
@@ -2582,8 +2580,8 @@ them their distinctive qualities.
 
 ##### Geoform Type: Recessional Moraine (Level 1)
 
-> An end or lateral moraine, built during a temporary—but
-> significant—halt in the final retreat of a glacier. May also refer to
+> An end or lateral moraine, built during a temporary— but
+> significant— halt in the final retreat of a glacier. May also refer to
 > a moraine built during a minor re-advance of the ice front during a
 > period of general recession.
 
@@ -2845,7 +2843,7 @@ them their distinctive qualities.
 > Generally, a narrow, elongate area that parallels a coastline—commonly
 > cutting across diverse inland landforms. Shore complexes are dominated
 > by landforms derived from active coastal processes that give rise to
-> beach ridges, washover fans, beaches, dunes, wave**-**cut platforms,
+> beach ridges, washover fans, beaches, dunes, wave-cut platforms,
 > barrier islands, cliffs, etc. (Schoeneberger and Wysocki 2005).
 
 #### Geoform: Shore (Levels 1 & 2)
@@ -2861,7 +2859,7 @@ them their distinctive qualities.
 ##### Geoform Type: Backshore (Levels 1 & 2)
 
 > The upper or inner zone of the shore or beach that is above the
-> high**-**water line of mean spring tides and below the upper limit of
+> high-water line of mean spring tides and below the upper limit of
 > shore-zone processes. The backshore is usually dry or moistened by
 > spray, and is acted upon by waves (or covered by water) only during
 > exceptionally severe storms or unusually high tides. It is essentially
@@ -3071,7 +3069,7 @@ present.
 > development, sedimentation, and erosion. These are elevated
 > structures, composed of coral fossils and accumulated interstitial
 > sediments. This type includes structures variously referred to as
-> carbonate knolls, coral banks, bio**-**buildups, and lithoherms. Coral
+> carbonate knolls, coral banks, bio-buildups, and lithoherms. Coral
 > carbonate mounds can take on various shapes and sizes, reaching tens
 > of meters in height and tens of kilometers in size. They may or may
 > not currently include biogenic reefs (Roberts et al. 2009).
@@ -3157,7 +3155,7 @@ present.
 > formations (spurs) of this feature typically have a high vertical
 > relief (compared to pavement with sand channels), and they are
 > separated from each other by 1 -5 meters of sand or bare hardbottom
-> (grooves)—although the height and width of these elements may vary
+> (grooves)— although the height and width of these elements may vary
 > considerably. This geoform type typically occurs in the forereef or
 > bank/shelf escarpment zone.
 
@@ -3230,7 +3228,7 @@ geoforms.
 #### Geoform: Artificial Bar (Level 1)
 
 > Shoal or bar constructed by human activity to influence the movement
-> of water and tides—or reduce surface wave activity within an area.
+> of water and tides— or reduce surface wave activity within an area.
 
 ##### Geoform Type: Harbor Bar (Level 1)
 
@@ -7010,32 +7008,35 @@ Igneous, metamorphic, or sedimentary rock with particle sizes greater than or eq
 
 #### Substrate Subclass: Megaclast
 
-> Substrate where individual rocks with particle sizes greater than or > equal to 4.0 meters (4,096 millimeters) in any dimension cover 50% or > more of the Geologic Substrate surface.
+> Substrate where individual rocks with particle sizes $$\geq$$ to 4.0 meters (4,096 millimeters) in any dimension cover 50% or more of the Geologic Substrate surface.
 
 #### Substrate Subclass: Tar
 
-> Substrate dominated by tar, asphalt, or other hydrocarbon material > that has extruded onto the seafloor. This material has cooled from a > semi-liquid state and now forms a potential attachment surface for > biota. This substrate is usually associated with seeps, tar mounds, or > tar lily geoforms.
+> Substrate dominated by tar, asphalt, or other hydrocarbon material that has extruded onto the seafloor. This material has cooled from a semi-liquid state and now forms a potential attachment surface for biota. This substrate is usually associated with seeps, tar mounds, or tar lily geoforms.
 
 ### Substrate Class: Coarse Unconsolidated Mineral Substrate
 
-Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or more of the surface area with ≥ 5% Gravel (2 millimeters to \< 4,096 millimeters in diameter).
+Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or more of the surface area with $$\geq$$ 5% Gravel (2 millimeters to \< 4,096 millimeters in diameter).
 
 *The CMECS Coarse and Fine Unconsolidated Mineral Substrate classes and subordinate units use Folk (1954) terminology to describe particle sizes of loose mineral substrates as shown in the ternary diagram in [Figure 7.2 (revised version)]. Units with bracketed letters, e.g., \[G\], \[(g)sM\], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).*
 
   > | **Getting Started** |
   > | --- |
   > | If Gravel particles make up \> 80% of the substrate, continue classifying using the Gravel Substrate subclass units. |
-  > | If Gravel particles make up ≥ 5% but \< 80%, continue classifying using the Mixed Gravel subclass units. |
+  > | If Gravel particles make up $$\geq$$ 5% but \< 80%, continue classifying using the Mixed Gravel subclass units. |
   > | If Gravel particles make up 0.01% to \< 5% continue classifying using the Trace Gravel subclass within the Fine Unconsolidated Mineral Substrate class. |
 
 #### Substrate Subclass: Gravel Substrate \[G\]
-> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel > (particles 2 millimeters to \< 4,096 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is ≥ 80% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter).
 
  > | **Implementation Guidance for Classification of Gravel in All Units** |
   > | --- |
-  > | Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) **must be identified whenever particle sizes are known or can be estimated** within any mix and at any level of classification. *Examples:* *• Gravel Mixes -\> Pebble Mixes* *• Muddy Sandy Gravel -\> Muddy Sandy Cobble* *• Gravelly Sand -\> Bouldery Sand* |
-> | When classifying mixes of two different Gravel subgroup particle sizes, use combinations of the subgroup unit names with the overall dominant size first. *Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.* |
-> | When classifying mixes, or when there is a need to identify specific particle sizes beyond the subgroup definitions, the subgroup terms for the Gravel group (Boulder, Cobble, Pebble, Granule), Sand group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud group (Silt, Silt-Clay, Clay) may optionally be substituted for the group term. *Examples:* *• Muddy Sandy Gravel -\> Silty Sandy Gravel* *• Slightly Gravelly Sandy Mud -\> Slightly Gravelly Sandy Clay* *• Gravelly Muddy Sand -\> Gravelly Muddy Coarse Sand* *• Slightly Gravelly Sand -\> Slightly Gravelly Medium Sand* |
+  > | Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) **must be identified whenever particle sizes are known or can be estimated** within any mix and at any level of classification.
+>*Examples:* *• Gravel Mixes -\> Pebble Mixes* *• Muddy Sandy Gravel -\> Muddy Sandy Cobble* *• Gravelly Sand -\> Bouldery Sand* |
+> | When classifying mixes of two different Gravel subgroup particle sizes, use combinations of the subgroup unit names with the overall dominant size first.
+> *Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.* |
+> | When classifying mixes, or when there is a need to identify specific particle sizes beyond the subgroup definitions, the subgroup terms for the Gravel group (Boulder, Cobble, Pebble, Granule), Sand group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud group (Silt, Silt-Clay, Clay) may optionally be substituted for the group term.
+> *Examples:* *• Muddy Sandy Gravel -\> Silty Sandy Gravel* *• Slightly Gravelly Sandy Mud -\> Slightly Gravelly Sandy Clay* *• Gravelly Muddy Sand -\> Gravelly Muddy Coarse Sand* *• Slightly Gravelly Sand -\> Slightly Gravelly Medium Sand* |
 
 ##### Substrate Group: Very Coarse Gravel
 
@@ -7063,38 +7064,38 @@ Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or more of 
 
 #### Substrate Subclass: Mixed Gravels
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) > with the remaining mix composed of Sand (particles 0.0625 millimeters > to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 > millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 80% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) with the remaining mix composed of Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 > millimeters in diameter).
 
 ##### Substrate Group: Gravel Mixes
-> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) > with the remaining mix composed of Sand (particles 0.0625 millimeters > to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 > millimeters in diameter). 
+> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) with the remaining mix composed of Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 > millimeters in diameter). 
 
 ###### Substrate Subgroup: Sandy Gravel \[sG\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > with Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter) composing 90% or more of the remaining Sand-Mud mix.
+> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), with Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter) composing 90% or more of the remaining Sand-Mud mix.
 
 ###### Substrate Subgroup: Muddy Sandy Gravel \[msG\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > with Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter) composing from 50% to \< 90% of the remaining Sand-Mud mix.
+> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), with Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter) composing from 50% to \< 90% of the remaining Sand-Mud mix.
 
 ###### Substrate Subgroup: Muddy Gravel \[mG\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > with Mud (particles \< 0.004 millimeters in diameter) composing 50% or > more of the remaining Mud-Sand mix.
+> Geologic Unconsolidated Mineral Substrate surface is 30% to \< 80% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), with Mud (particles \< 0.004 millimeters in diameter) composing 50% or more of the remaining Mud-Sand mix.
 
 ##### Substrate Group: Gravelly Mixes
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) > with the remaining mix composed of Sand (particles 0.0625 millimeters > to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 > millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) with the remaining mix composed of Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 > millimeters in diameter).
 
 ###### Substrate Subgroup: Gravelly Sand \[gS\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > and the remaining Sand-Mud mix is 90% or more Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), and the remaining Sand-Mud mix is 90% or more Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Gravelly Muddy Sand \[gmS\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > and the remaining Sand-Mud mix is 50% to \< 90% Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), and the remaining Sand-Mud mix is 50% to \< 90% Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Gravelly Mud \[gM\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% > Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), > and the remaining Sand-Mud mix is 50% or more Mud (particles \< 0.004 > millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 5% to \< 30% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), and the remaining Sand-Mud mix is 50% or more Mud (particles \< 0.004 > millimeters in diameter).
 
 ### Substrate Class: Fine Unconsolidated Mineral Substrate
 
@@ -7104,111 +7105,111 @@ Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or more of 
 
 #### Substrate Subclass: Trace Gravels
 
-> Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel > to \< 5% Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) with the remaining mix composed of Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter) and/or Mud (particles \< > 0.0625 millimeters in diameter).
+> Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel to \< 5% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) with the remaining mix composed of Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter) and/or Mud (particles \< > 0.0625 millimeters in diameter).
 
 ##### Substrate Group: Sandy Mixes with Trace Gravel
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% or > more Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% or more Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Sand \[(g)S\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or > more Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or more Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Muddy Sand \[(g)mS\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% to \< > 90% Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% to \< 90% Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
 
 ##### Substrate Group: Muddy Mixes with Trace Gravel
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \<5% Gravel, and the remaining Sand-Mud mix is 50% or > more Mud (particles \< 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) to \<5% Gravel, and the remaining Sand-Mud mix is 50% or more Mud (particles \< 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Sandy Mud \[(g)sM\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \<5% Gravel (particles 2 millimeters to \< 4,096 > millimeters in diameter), and the remaining Sand-Mud mix is 50% to > \<90% Mud (particles \< 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) to \<5% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter), and the remaining Sand-Mud mix is 50% to \< 90% Mud (particles \< 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Mud \[(g)M\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or > more Mud (particles \< 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or > more Mud (particles \< 0.0625 millimeters in diameter).
 
 #### Substrate Subclass: Sandy Substrate
 
-> Geologic Unconsolidated Mineral Substrate surface contains no trace of > Gravel and is 50% Sand (particles 0.0625 millimeters to \< 2 > millimeters in diameter) with the remainder composed of Mud (particles > \< 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface contains no trace of Gravel and is 50% Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter) with the remainder composed of Mud (particles > \< 0.0625 millimeters in diameter).
 
 ##### Substrate Group: Sand \[S\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand (particles 0.0625 millimeters to \< 2 > millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Very Coarse Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 1 millimeter to \< 2 millimeters in > diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand particles 1 millimeter to \< 2 millimeters in diameter.
 
 ###### Substrate Subgroup: Coarse Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 0.5 millimeters to \< 1 millimeter > in diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand particles 0.5 millimeters to \< 1 millimeter in diameter.
 
 ###### Substrate Subgroup: Medium Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 0.25 millimeters to \< 0.5 > millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand particles 0.25 millimeters to \< 0.5 millimeters in diameter.
 
 ###### Substrate Subgroup: Fine Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 0.125 millimeters to \< 0.25 > millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand particles 0.125 millimeters to \< 0.25 millimeters in diameter.
 
 ###### Substrate Subgroup: Very Fine Sand
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is ≥ 90% Sand particles 0.0625 millimeters to \< 0.125 > millimeters in diameter.
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is ≥ 90% Sand particles 0.0625 millimeters to \< 0.125 millimeters in diameter.
 
 ##### Substrate Group: Muddy Sand \[mS\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remainder is Mud (particles less than > 0.0625 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remainder is Mud (particles less than > 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Silty Sand \[zS\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 67% or more > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is 67% or more Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
 
 ###### Substrate Subgroup: Silty-Clayey Sand \[zcS\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 33% to \< 67% > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is 33% to \< 67% Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Clayey Sand \[cS\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Clay-Silt mix is 67% or more > Clay (particles \< 0.0040 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 50% to \< 90% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Clay-Silt mix is 67% or more Clay (particles \< 0.0040 millimeters in diameter).
 
 #### Substrate Subclass: Muddy Substrate
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is \> 50% Mud (particles \< 0.0625 millimeters in diameter) > with the remainder composed of Sand (particles 0.0625 millimeters to 2 > millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is \> 50% Mud (particles \< 0.0625 millimeters in diameter) with the remainder composed of Sand (particles 0.0625 millimeters to 2 millimeters in diameter).
 
 ##### Substrate Group: Sandy Mud \[sM\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 50% to 90% Mud (particles \< 0.0625 millimeters in > diameter); the remainder is Sand (particles 0.0625 millimeters to \< 2 > millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 50% to 90% Mud (particles \< 0.0625 millimeters in diameter); the remainder is Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Sandy Silt \[sZ\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 67% or more > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is 67% or more Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
 
 ###### Substrate Subgroup: Sandy Silt-Clay \[sZC\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 33% to \< 67% > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is 33% to \< 67% > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Sandy Clay \[sC\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Clay-Silt mix is 67% or more > Clay (particles \< 0.004 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 10% to \< 50% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Clay-Silt mix is 67% or more Clay (particles \< 0.004 millimeters in diameter).
 
 ##### Substrate Group: Mud \[M\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is 90% or more Mud (particles \< 0.0625 millimeters in > diameter); the remainder (\< 10%) is Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is 90% or more Mud (particles \< 0.0625 millimeters in > diameter); the remainder (\< 10%) is Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Silt \[Z\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is 67% or more > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is 67% or more Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Silt-Clay \[ZC\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Silt-Clay mix is \< 33% to 67% > Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Silt-Clay mix is \< 33% to 67% Silt (particles 0.0040 millimeters to \< 0.0625 millimeters in diameter).
 
 ###### Substrate Subgroup: Clay \[C\]
 
-> Geologic Unconsolidated Mineral Substrate surface has no trace of > Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 > millimeters in diameter); the remaining Clay-Silt mix is 67% or more > Clay (particles \< 0.004 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface has no trace of Gravel and is \< 10% Sand (particles 0.0625 millimeters to 2 millimeters in diameter); the remaining Clay-Silt mix is 67% or more Clay (particles \< 0.004 millimeters in diameter).
 
 ## Figure 7.2 (Revised)
 ![SC_Class_Subclass_Ternary_v2](https://github.com/user-attachments/assets/a41df39d-7d73-4905-b6f1-9f80edb78b28)
@@ -7235,83 +7236,83 @@ Biogenic substrates are classified at the class level by the level of consolidat
 
 ### Substrate Class: Consolidated Biogenic Substrate
 
-Non-living, consolidated material formed by living biota that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Biogenic Substrate surface. Examples include mounds, ridges, or pavements composed of calcium carbonate reef material generated by corals, cemented aggregations of shells and worm tubes, and very large woody particles.
+Non-living, consolidated material formed by living biota that are $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Biogenic Substrate surface. Examples include mounds, ridges, or pavements composed of calcium carbonate reef material generated by corals, cemented aggregations of shells and worm tubes, and very large woody particles.
 
 #### Substrate Subclass: Reef Substrate
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is formed by > living, reef-building biota such as scleratinian corals, molluscs, and > worms.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is formed by living, reef-building biota such as scleratinian corals, molluscs, and worms.
 
 ##### Substrate Group: Coral Reef
 
-> Consolidated substrate that is formed and dominated by living or > non-living hard coral reefs (bioherms). The material may be intact > coral skeletons in relatively intact condition or may be formed from > the agglomeration of coral rubble/hash or other particles into a fixed > non-mobile surface.
+> Consolidated substrate that is formed and dominated by living or non-living hard coral reefs (bioherms). The material may be intact coral skeletons in relatively intact condition or may be formed from the agglomeration of coral rubble/hash or other particles into a fixed non-mobile surface.
 
 ##### Substrate Group: Rhodolith Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > rhodoliths.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by rhodoliths.
 
 ##### Substrate Group: Shell Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > non-living cemented, conglomerated, or otherwise self-adhered shell > reefs.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by non-living cemented, conglomerated, or otherwise self-adhered shell reefs.
 
 ###### Substrate Subgroup: Coquina Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Shell Reef primarily composed of cemented or conglomerated Coquina > shells.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by Shell Reef primarily composed of cemented or conglomerated Coquina shells.
 
 ###### Substrate Subgroup: Crepidula Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Shell Reef primarily composed of conglomerated Crepidula shells. While > Crepidula are slowly mobile and do not cement their shells, the > gregarious settlement of their larvae on conspecifics (Zhao and Qian > 2002) can lead to very dense accumulations with a flat, reef-like > texture as live shells build over dead shells.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by Shell Reef primarily composed of conglomerated Crepidula shells. While Crepidula are slowly mobile and do not cement their shells, the gregarious settlement of their larvae on conspecifics (Zhao and Qian > 2002) can lead to very dense accumulations with a flat, reef-like texture as live shells build over dead shells.
 
 ###### Substrate Subgroup: Mussel Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Shell Reef primarily composed of self-adhered or conglomerated mussel > shells.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by Shell Reef primarily composed of self-adhered or conglomerated mussel shells.
 
 ###### Substrate Subgroup: Oyster Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Shell Reef primarily composed of cemented or conglomerated oyster > shells that form a stable substrate surface.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by Shell Reef primarily composed of cemented or conglomerated oyster shells that form a stable substrate surface.
 
 ##### Substrate Group: Worm Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > cemented or conglomerated calcareous or sandy tubes of polychaetes or > other worm-like fauna.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by cemented or conglomerated calcareous or sandy tubes of polychaetes or other worm-like fauna.
 
 ###### Substrate Subgroup: Sabellariid Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Worm Reef primarily composed of cemented mineral-based or shell-based > sabellariid worm tubes.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by Worm Reef primarily composed of cemented mineral-based or shell-based sabellariid worm tubes.
 
 ###### Substrate Subgroup: Serpulid Reef
 
-> Consolidated Biogenic Substrate area that is greater than or equal to > 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate > class Consolidated Mineral Substrate) in any dimension, that covers > 50% or greater of the Biogenic Substrate surface, and is dominated by > Worm Reef that is primarily composed of cemented or conglomerated > calcareous serpulid worm tubes.
+> Consolidated Biogenic Substrate area that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by Worm Reef that is primarily composed of cemented or conglomerated calcareous serpulid worm tubes.
 
 #### Substrate Subclass: Very Large Wood
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, and is composed of > non-living, very large wood fragments that cover 50% or greater of the > Biogenic Substrate surface. These include rooted, partially buried, > and sunken intact non-living woody plant structures, such as remnant > trunks, branches, roots, and root networks.
+> Consolidated Biogenic Substrate that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, and is composed of on-living, very large wood fragments that cover 50% or greater of the Biogenic Substrate surface. These include rooted, partially buried, and sunken intact non-living woody plant structures, such as remnant trunks, branches, roots, and root networks.
 
 ##### Substrate Group: Very Large Trunk or Root Substrate
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living trees, trunks, branches, roots, or root structures.
+> Consolidated Biogenic Substrate that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of non-living trees, trunks, branches, roots, or root structures.
 
 ###### Substrate Subgroup: Tree
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living trees.
+> Consolidated Biogenic Substrate that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of non-living trees.
 
 ###### Substrate Subgroup: Very Large Trunk or Branch
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living, very large branches.
+> Consolidated Biogenic Substrate that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of non-living, very large branches.
 
 ###### Substrate Subgroup: Very Large Wood Fragment
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living, very large wood fragments.
+> Consolidated Biogenic Substrate that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of non-living, very large wood fragments.
 
 ###### Substrate Subgroup: Very Large Root or Root Network
 
-> Consolidated Biogenic Substrate that is greater than or equal to 4.0 > meters (4,096 millimeters, equivalent to the Geologic Substrate class > Consolidated Mineral Substrate) in any dimension, that covers 50% or > greater of the Biogenic Substrate surface, and is composed of > non-living, very large roots, root balls, or root networks.
+> Consolidated Biogenic Substrate that is $$\geq$$ 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of non-living, very large roots, root balls, or root networks.
 
 #### Substrate Subclass: Biogenic Pavement
 
-> Consolidated Biogenic Substrate that is a relatively flat, continuous > area of solid substrate greater than or equal to 4.0 meters (4,096 > millimeters, equivalent to the Geologic Substrate class Consolidated > Mineral Substrate) in any dimension, that covers 50% or greater of the > Biogenic Substrate surface, and is composed of low-relief carbonate > deposits formed by the cemented, remnant skeletons and tests of living > biota.
+> Consolidated Biogenic Substrate that is a relatively flat, continuous area of solid substrate greater than or equal to 4.0 meters (4,096 > millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of low-relief carbonate deposits formed by the cemented, remnant skeletons and tests of living biota.
 
 ##### Substrate Group: Coralline Pavement
 
-> Consolidated Biogenic Substrate that is a relatively flat, continuous > area of solid substrate greater than or equal to 4.0 meters (4,096 > millimeters, equivalent to the Geologic Substrate class Consolidated > Mineral Substrate) in any dimension, that covers 50% or greater of the > Biogenic Substrate surface, and is composed of carbonate deposits > formed by the cemented, remnant skeletons of corals.
+> Consolidated Biogenic Substrate that is a relatively flat, continuous area of solid substrate greater than or equal to 4.0 meters (4,096 > millimeters, equivalent to the Geologic Substrate class Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of carbonate deposits formed by the cemented, remnant skeletons of corals.
 
 ### Substrate Class: Coarse Unconsolidated Biogenic Substrate
 
@@ -7319,63 +7320,63 @@ Biogenic Unconsolidated Substrate that is dominated by Biogenic Rubble particles
 
 #### Substrate Subclass: Biogenic Rubble
 
-> Unconsolidated Biogenic Substrate dominated by Biogenic Rubble > particles (64 millimeters to \< 4,096 millimeters, equivalent to > Geologic Origin subgroups Cobble and Boulder) that cover 50% or > greater of the Biogenic Substrate surface. Particles may be either > loose whole or broken non-living biogenic fragments or, particularly > in the larger Rubble sizes, fragments may be cemented, conglomerated, > or otherwise attached so as to form Boulders of consolidated material.
+> Unconsolidated Biogenic Substrate dominated by Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface. Particles may be either loose whole or broken non-living biogenic fragments or, particularly in the larger Rubble sizes, fragments may be cemented, conglomerated, or otherwise attached so as to form Boulders of consolidated material.
 
 ##### Substrate Group: Algal Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living calcareous algae.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of non-living calcareous algae.
 
 ###### Substrate Subgroup: Rhodolith Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living Rhodolith fragments.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of non-living Rhodolith fragments.
 
 ##### Substrate Group: Coral Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living coral fragments.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of non-living coral fragments.
 
 ##### Substrate Group: Shell Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living shells. Most (but not all) shell-builders are > mollusks.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of non-living shells. Most (but not all) shell-builders are mollusks.
 
 ###### Substrate Subgroup: Coquina Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of cemented or conglomerated Coquina shells. Note that > Coquina shells are described in a separate substrate subgroup due to > their distinctive features and special significance in many areas.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of cemented or conglomerated Coquina shells. Note that Coquina shells are described in a separate substrate subgroup due to their distinctive features and special significance in many areas.
 
 ###### Substrate Subgroup: Crepidula Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of conglomerated Crepidula shells. While Crepidula are slowly > mobile and do not cement their shells, the gregarious settlement of > their larvae on conspecifics (Zhao and Qian 2002) can lead to very > dense accumulations as live shells build over dead shells, and > sediments fill in to bind these areas into flat shelly masses.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of conglomerated Crepidula shells. While Crepidula are slowly mobile and do not cement their shells, the gregarious settlement of their larvae on conspecifics (Zhao and Qian 2002) can lead to very dense accumulations as live shells build over dead shells, and sediments fill in to bind these areas into flat shelly masses.
 
 ###### Substrate Subgroup: Mussel Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of self-adhered or conglomerated mussel shells.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of self-adhered or conglomerated mussel shells.
 
 ###### Substrate Subgroup: Oyster Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of cemented or conglomerated oyster shells.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of cemented or conglomerated oyster shells.
 
 ##### Substrate Group: Wood Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of non-living woody material.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of non-living woody material.
 
 ###### Substrate Subgroup: Very Coarse Woody Debris
 
-> Biogenic Rubble particles (256 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroup Boulder) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of non-living, very coarse woody debris.
+> Biogenic Rubble particles (256 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroup Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of non-living, very coarse woody debris.
 
 ###### Substrate Subgroup: Coarse Woody Debris
 
-> Biogenic Rubble particles (64 millimeters to \< 256 millimeters, > equivalent to Geologic Origin subgroup Cobble) that cover 50% or > greater of the Biogenic Substrate surface and are primarily composed > of non-living, coarse woody debris.
+> Biogenic Rubble particles (64 millimeters to \< 256 millimeters, equivalent to Geologic Origin subgroup Cobble) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of non-living, coarse woody debris.
 
 ##### Substrate Group: Worm Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of the cemented or conglomerated calcareous or sandy tubes of > polychaetes or other worm-like fauna.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of the cemented or conglomerated calcareous or sandy tubes of polychaetes or other worm-like fauna.
 
 ###### Substrate Subgroup: Sabellariid Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of sand and shell bits cemented with adhesive proteins into > cohesive, clustered tubes by sabellariid worms (e.g., Sabellaria or > Phragmatopoma).
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of sand and shell bits cemented with adhesive proteins into cohesive, clustered tubes by sabellariid worms (e.g., Sabellaria or Phragmatopoma).
 
 ###### Substrate Subgroup: Serpulid Rubble
 
-> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, > equivalent to Geologic Origin subgroups Cobble and Boulder) that cover > 50% or greater of the Biogenic Substrate surface and are primarily > composed of cemented calcareous worm tubes produced by serpulid worms, > e.g., Serpula.
+> Biogenic Rubble particles (64 millimeters to \< 4,096 millimeters, equivalent to Geologic Origin subgroups Cobble and Boulder) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of cemented calcareous worm tubes produced by serpulid worms, e.g., Serpula.
 
 ### Substrate Class: Fine Unconsolidated Biogenic Substrate
 
