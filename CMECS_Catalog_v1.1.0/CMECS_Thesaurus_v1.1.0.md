@@ -7105,19 +7105,19 @@ Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or more of 
 
 #### Substrate Subclass: Trace Gravels
 
-> Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel to \< 5% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) with the remaining mix composed of Sand (particles 0.0625 > millimeters to \< 2 millimeters in diameter) and/or Mud (particles \< > 0.0625 millimeters in diameter).
+> Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel to \< 5% Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) with the remaining mix composed of Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter) and/or Mud (particles \< 0.0625 millimeters in diameter).
 
 ##### Substrate Group: Sandy Mixes with Trace Gravel
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) > of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% or more Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% or more Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Sand \[(g)S\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in > diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or more Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 90% or more Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter).
 
 ###### Substrate Subgroup: Slightly Gravelly Muddy Sand \[(g)mS\]
 
-> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% to \< 90% Sand (particles 0.0625 millimeters to \< 2 millimeters in > diameter).
+> Geologic Unconsolidated Mineral Substrate surface is 0.01% (a trace) of Gravel (particles 2 millimeters to \< 4,096 millimeters in diameter) to \< 5% Gravel, and the remaining Sand-Mud mix is 50% to \< 90% Sand (particles 0.0625 millimeters to \< 2 millimeters in diameter).
 
 ##### Substrate Group: Muddy Mixes with Trace Gravel
 
