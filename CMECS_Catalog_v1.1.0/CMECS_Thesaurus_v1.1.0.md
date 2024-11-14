@@ -7027,11 +7027,11 @@ Geologic Substrate where Unconsolidated Mineral Substrate covers 50% or more of 
  > | **Implementation Guidance for Classification of Gravel in All Units** |
   > | --- |
   > | Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) **must be identified whenever particle sizes are known or can be estimated** within any mix and at any level of classification.
->*Examples:* *• Gravel Mixes -\> Pebble Mixes* *• Muddy Sandy Gravel -\> Muddy Sandy Cobble* *• Gravelly Sand -\> Bouldery Sand* |
+>*Examples:* *Gravel Mixes &#8594; Pebble Mixes* *\/ Muddy Sandy Gravel &#8594; Muddy Sandy Cobble* *\/ Gravelly Sand &#8594; Bouldery Sand* |
 > | When classifying mixes of two different Gravel subgroup particle sizes, use combinations of the subgroup unit names with the overall dominant size first.
-> *Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.* |
+> *Examples: Boulder-Cobble \/ Cobble-Boulder \/ Cobble-Granule \/ Pebble-Granule \/ Granule-Boulder.* |
 > | When classifying mixes, or when there is a need to identify specific particle sizes beyond the subgroup definitions, the subgroup terms for the Gravel group (Boulder, Cobble, Pebble, Granule), Sand group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud group (Silt, Silt-Clay, Clay) may optionally be substituted for the group term.
-> *Examples:* *• Muddy Sandy Gravel -\> Silty Sandy Gravel* *• Slightly Gravelly Sandy Mud -\> Slightly Gravelly Sandy Clay* *• Gravelly Muddy Sand -\> Gravelly Muddy Coarse Sand* *• Slightly Gravelly Sand -\> Slightly Gravelly Medium Sand* |
+> *Examples:* *Muddy Sandy Gravel &#8594; Silty Sandy Gravel* *\/ Slightly Gravelly Sandy Mud &#8594; Slightly Gravelly Sandy Clay* *\/ Gravelly Muddy Sand &#8594; Gravelly Muddy Coarse Sand* *\/ Slightly Gravelly Sand &#8594; Slightly Gravelly Medium Sand* |
 
 ##### Substrate Group: Very Coarse Gravel
 
