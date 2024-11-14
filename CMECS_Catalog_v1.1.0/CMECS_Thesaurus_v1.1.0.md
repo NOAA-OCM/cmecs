@@ -7900,8 +7900,7 @@ Energy can be classified according to its principal direction of travel or influ
 
 #### Seaward Energy Direction
 
-> On land, water currents following a topographic gradient toward the
-> sea.
+> On land, water currents following a topographic gradient toward the sea.
 
 #### Upward Energy Direction
 
@@ -8030,7 +8029,7 @@ The Slope Modifier refers to the angle of the substrate at a scale appropriate f
 
 #### Overhang (Small Scale Slope)
 
-> $$\gte$ 90 degrees
+> $$\geq$$ 90 degrees
 
 ### Substrate Descriptor
 
