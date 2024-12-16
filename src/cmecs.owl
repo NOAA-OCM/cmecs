@@ -332,6 +332,7 @@
     <!-- https://w3id.org/CMECS/CMECS_00000010 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000010">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Biogenic Substrate that is primarily composed of calcareous algae in various states of decomposition, including both crustose and coralline types.</rdfs:comment>
         <rdfs:comment>Subordinate units were deprecated or distributed among other new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Algal Substrate</rdfs:label>
@@ -446,6 +447,7 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000018 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000018">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Anthropogenic Substrate that is primarily composed of natural mineral materials that were purposefully or accidentally deposited by humans. This includes breakwaters made of natural stone, dredge material, artificial reefs made of natural stone, as well as beach nourishment and beach fill. Shape for this substrate class is covered in the GC (e.g., Groin, Breakwater, and Dredge Deposit). If the origin of a feature cannot be determined, it is assumed to be of natural origin and classified in the Geologic or Biogenic Substrate Origin.</rdfs:comment>
         <rdfs:comment>Subordinate units renamed and moved under new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Anthropogenic Rock</rdfs:label>
@@ -460,6 +462,7 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000019 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000019">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock with a median particle size of 2 millimeters to &lt; 64 millimeters (Granules and Pebbles).</rdfs:comment>
         <rdfs:comment>Unit merged with new unit</rdfs:comment>
         <rdfs:label>DEPRECATED Anthropogenic Rock Hash</rdfs:label>
@@ -472,6 +475,7 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000020 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000020">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock (mineral particles) with a median particle size of less than 0.0625 millimeters.</rdfs:comment>
         <rdfs:comment>Unit merged with new unit</rdfs:comment>
         <rdfs:label>DEPRECATED Anthropogenic Rock Mud</rdfs:label>
@@ -484,6 +488,7 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000021 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000021">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock with a median particle size of 4,096 millimeters or greater in any dimension.</rdfs:comment>
         <rdfs:comment>Unit merged with new unit</rdfs:comment>
         <rdfs:label>DEPRECATED Anthropogenic Rock Reef Substrate</rdfs:label>
@@ -496,6 +501,7 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000022 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000022">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock with a median particle size of 64 millimeters to &lt; 4,096 millimeters (Cobbles and Boulders).</rdfs:comment>
         <rdfs:comment>Unit merged with new unit</rdfs:comment>
         <rdfs:label>DEPRECATED Anthropogenic Rock Rubble</rdfs:label>
@@ -508,6 +514,7 @@ The same relationship between Level 1 and Level 2 geoforms prevails in this orig
     <!-- https://w3id.org/CMECS/CMECS_00000023 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000023">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Substrate that is dominated by Anthropogenic Rock with a median particle size of 0.0625 millimeters to &lt; 2 millimeters.</rdfs:comment>
         <rdfs:comment>Unit merged with new unit</rdfs:comment>
         <rdfs:label>DEPRECATED Anthropogenic Rock Sand</rdfs:label>
@@ -564,6 +571,7 @@ The particle sizes for these units are derived from Wentworth (1922), and they c
     <!-- https://w3id.org/CMECS/CMECS_00000026 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000026">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Anthropogenic Substrate that is primarily composed of woody materials that were processed or assembled by humans. Shape for this substrate class is covered in the GC (e.g., Jetty, Dolphin, Pilings, and Wreck).</rdfs:comment>
         <rdfs:comment>Subordinate units renamed and moved under new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Anthropogenic Wood</rdfs:label>
@@ -2432,6 +2440,7 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
     <!-- https://w3id.org/CMECS/CMECS_00000157 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000157">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Shell Hash (with a median particle size of 2 millimeters to &lt; 64 millimeters) that is primarily composed of loose clam shells and shell bits.</rdfs:comment>
         <rdfs:comment>Subordnate units moved to new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Clam Hash</rdfs:label>
@@ -2444,6 +2453,7 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
     <!-- https://w3id.org/CMECS/CMECS_00000158 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000158">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Shell Reef that is primarily composed of cemented or conglomerated clam shells.</rdfs:comment>
         <rdfs:comment>Subordinate units moved to new class</rdfs:comment>
         <rdfs:label>DEPRECATED Clam Reef Substrate</rdfs:label>
@@ -2456,6 +2466,7 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
     <!-- https://w3id.org/CMECS/CMECS_00000159 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000159">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Shell Rubble (with a median particle size of 64 millimeters to &lt; 4,096 millimeters) that is primarily composed of cemented or conglomerated clam shells.</rdfs:comment>
         <rdfs:comment>Subordinate unit moved to new class</rdfs:comment>
         <rdfs:label>DEPRECATED Clam Rubble</rdfs:label>
@@ -2878,6 +2889,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000185 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000185">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Anthropogenic Substrate that is composed of any single construction material or combination of construction materials (concrete, brick, rebar, pipe, porcelain, fiberglass, rubber, plastic, &lt; 50% wood, &lt; 50% metal, etc.) that were manufactured by humans. This substrate may be composed of one or many types of these materials. If anthropogenic wood or metal constitute a dominant fraction of the materials, the substrate is classified as Anthropogenic Wood or Metal, accordingly. Shape for this substrate class is covered in the GC (e.g., Breakwater, Wreck (if fiberglass, ferrocement, etc.).</rdfs:comment>
         <rdfs:comment>Subordinate units renamed and moved under new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Construction Materials</rdfs:label>
@@ -3157,6 +3169,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <!-- https://w3id.org/CMECS/CMECS_00000203 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000203">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Non-living scleractinian coral reefs (or coral particles) constitute the dominant benthic substrate; this substrate may or may not be inhabited by live corals.</rdfs:comment>
         <rdfs:comment>Subordinate units moved to new class</rdfs:comment>
         <rdfs:label>DEPRECATED Coral Substrate</rdfs:label>
@@ -7922,6 +7935,7 @@ Massive and submassive corals are resistant to strong water currents, and are th
     <!-- https://w3id.org/CMECS/CMECS_00000537 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000537">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Anthropogenic Substrate that is dominantly composed of metal that was manufactured by humans. Shape for this substrate class is covered in the GC (e.g., Cable Area, Wreck [if metal]).</rdfs:comment>
         <rdfs:comment>Subordinate units moved under new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Metal</rdfs:label>
@@ -8974,6 +8988,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
     <!-- https://w3id.org/CMECS/CMECS_00000609 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000609">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Organic substrate is primarily composed of coarse organic material that is relatively intact, with a median particle size from 4 millimeters to &lt; 4,096 millimeters (the size of Pebbles, Cobbles, and Boulders). Organic Debris that is larger than that (e.g., whale falls, tree falls) is covered in the Geoform Component.</rdfs:comment>
         <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Organic Debris</rdfs:label>
@@ -9027,6 +9042,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
     <!-- https://w3id.org/CMECS/CMECS_00000612 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000612">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Surface layers of substrate are primarily composed of non-living organic material, including fine or coarse organic particles up to 4,096 millimeters in any dimension. Substrates dominated by roots of live vegetation may be classified after removing the root material, and/or they may be classified by specialized methods considering, for example, below-ground biomass. Live fauna, and live flora together with their living root masses, are covered in the BC.</rdfs:comment>
         <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Organic Substrate</rdfs:label>
@@ -9964,6 +9980,7 @@ The Reef Biota Class refers to only the living component of reef structures. If 
     <!-- https://w3id.org/CMECS/CMECS_00000676 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000676">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Biogenic Substrate that is primarily composed of crustose algae that form rounded calcareous nodules (rhodoliths), often associated with coral reefs.</rdfs:comment>
         <rdfs:comment>Subordinate units moved under new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Rhodolith Substrate</rdfs:label>
@@ -10206,6 +10223,7 @@ High inputs of land drainage can promote increased primary productivity, which m
     <!-- https://w3id.org/CMECS/CMECS_00000692 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000692">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Biogenic substrate layers with conglomerated structures or smaller particles that are primarily composed of sand and shell bits cemented with adhesive proteins into cohesive, clustered tubes by sabellariid worms (e.g., &lt;Sabellaria&gt; or &lt;Phragmatopoma&gt;).</rdfs:comment>
         <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Sabellariid Substrate</rdfs:label>
@@ -10828,6 +10846,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000734 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000734">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Biogenic substrate layers with conglomerated structures or broken particles that are primarily composed of cemented calcareous worm tubes produced by serpulid worms, e.g., Serpula.</rdfs:comment>
         <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Serpulid Substrate</rdfs:label>
@@ -11043,6 +11062,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000748 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000748">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Biogenic Substrate that is primarily composed of shells or shell particles. Most (but not all) shell-builders are mollusks.</rdfs:comment>
         <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Shell Substrate</rdfs:label>
@@ -11233,6 +11253,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000760 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000760">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Geologic Substrate surface layer contains from a trace (0.01%) of Gravel to 5% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter). For more specificity in this group and in the following four substrate subgroups, the median size of &quot;Gravelly&quot; may be substituted in, e.g., &quot;Slightly Granuley&quot;, &quot;Slightly Pebbly Sand&quot;, &quot;Slightly Cobbley Muddy Sand&quot;, and &quot;Slightly Bouldery Mud&quot;.</rdfs:comment>
         <rdfs:comment>Unit was split into Sandy Mixes with Trace Gravel and Muddy Mixes with Trace Gravel</rdfs:comment>
         <rdfs:label>DEPRECATED Slightly Gravelly</rdfs:label>
@@ -12500,6 +12521,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000846 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000846">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Anthropogenic Substrate that is usually composed primarily of plastics but may include other trash materials (waxed paper, paper, &lt; 50% metal, rubber, glass, cardboard, tires) that were manufactured by humans.</rdfs:comment>
         <rdfs:comment>Subordinate units moved under new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Trash</rdfs:label>
@@ -12801,6 +12823,7 @@ The list of biotic communities for this group is long: a few examples are provid
     <!-- https://w3id.org/CMECS/CMECS_00000867 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000867">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Geologic Substrates with less than 50% cover of Rock Substrate. This class uses Folk (1954) terminology to describe any mix of loose mineral substrate that occurs at any range of sizes—from Boulders to Clay. This hierarchy and the associated terms are shown in Figure 7.2. These classifications may be based on percent weight (e.g., for retrieved samples); percent cover (e.g., for plan-view images); or visual percent composition (for other approaches). Units with bracketed letters, e.g., [G], [mSG], correspond to the labeled polygons in Figure 7.2, using conventions from Folk (1954).</rdfs:comment>
         <rdfs:comment>Replaced by Coarse Unconsolidated Mineral Substrate and Fine Unconsolidated Mineral Substrate classes</rdfs:comment>
         <rdfs:label>DEPRECATED Unconsolidated Mineral Substrate</rdfs:label>
@@ -13482,6 +13505,7 @@ Lower Water Column: The area below the pycnocline (or, if absent, below mid-dept
     <!-- https://w3id.org/CMECS/CMECS_00000914 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000914">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Organic substrates that are primarily composed of small trees, branches, wood, or wood fragments that are broken into particles with a median particle size from 4 millimeters to 4,096 millimeters.</rdfs:comment>
         <rdfs:comment>Subordinate units deprecated or moved to new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Woody Debris</rdfs:label>
@@ -13557,6 +13581,7 @@ Lower Water Column: The area below the pycnocline (or, if absent, below mid-dept
     <!-- https://w3id.org/CMECS/CMECS_00000919 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000919">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Biogenic Substrates that are primarily composed of the cemented or conglomerated calcareous or sandy tubes of polychaetes or other worm-like fauna. Living or non-living worm-tube reefs or worm-tube particles constitute the dominant benthic substrate. The presence of Worm Substrate is noted in this class (and in the following subclasses and groups). The presence of living organisms is described in the BC.</rdfs:comment>
         <rdfs:comment>Subordinate units moved to new classes</rdfs:comment>
         <rdfs:label>DEPRECATED Worm Substrate</rdfs:label>
@@ -15523,6 +15548,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <!-- https://w3id.org/CMECS/CMECS_00001066 -->
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001066">
+        <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001719"/>
         <rdfs:comment>DEPRECATED Oozes that are formed primarily from multi-chambered carbonate tests of the foraminiferan Genus *Globigerina*.</rdfs:comment>
         <rdfs:comment>Removed but added as example in Foramniferan Ooze defintion</rdfs:comment>
         <rdfs:label>DEPRECATED *Globigerina* Ooze</rdfs:label>
@@ -23616,8 +23642,8 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
-        <cmecs:unitCode>S</cmecs:unitCode>
         <cmecs:unitCode>2.8</cmecs:unitCode>
+        <cmecs:unitCode>S</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Class</cmecs:unitType>
     </owl:Class>
     
@@ -24010,6 +24036,16 @@ Use in combination with Substrate or Geoform Component units as needed.</cmecs:C
 Use in combination with Substrate or Geoform Component units as needed.</cmecs:CMECS_00001670>
         <cmecs:unitCode>SD17</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
+    </owl:Class>
+    
+
+
+    <!-- https://w3id.org/CMECS/CMECS_00001719 -->
+
+    <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001719">
+        <dc:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
+        <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2024-12-16T21:38:00Z</dc:date>
+        <rdfs:label xml:lang="en">Obsolete CMECS Units</rdfs:label>
     </owl:Class>
 </rdf:RDF>
 
