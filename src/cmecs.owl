@@ -594,6 +594,7 @@ The particle sizes for these units are derived from Wentworth (1922), and they c
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.8.2.1</cmecs:unitCode>
@@ -628,8 +629,9 @@ The particle sizes for these units are derived from Wentworth (1922), and they c
         <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
-        <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Editorial change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.7.2.1</cmecs:unitCode>
@@ -1076,8 +1078,9 @@ Note: Nomenclatural standards and punctuation for vegetated biotic communities a
         <rdfs:comment>Hard substrate areas with a percent cover dominated by tube builders, including annelids, phoronids, sipunculids, crustaceans, gastropods, pogonophorans, echiurans, priapulids, and other phyla. These animals construct chitinous, leathery, calcareous, sandy, mucus, or other types of tubes that are cemented or otherwise attached to hard substrate, and can occur in very high densities. If the tubes are built from a more permanent material (e.g., calcium carbonate) and occur in densities sufficient to construct substrate, these areas may be classified as Reef Biota.</rdfs:comment>
         <rdfs:label>Attached Phoronids</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.3.4</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.24.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -1089,8 +1092,9 @@ Note: Nomenclatural standards and punctuation for vegetated biotic communities a
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000067"/>
         <rdfs:label>Attached Pogonophorans</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.3.5</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.24.2</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -1158,7 +1162,9 @@ Note: Nomenclatural standards and punctuation for vegetated biotic communities a
         <rdfs:comment>Hard substrate areas with a percent cover dominated by tube builders, including annelids, phoronids, sipunculids, crustaceans, gastropods, pogonophorans, echiurans, priapulids, and other phyla. These animals construct chitinous, leathery, calcareous, sandy, mucus, or other types of tubes that are cemented or otherwise attached to hard substrate, and can occur in very high densities. If the tubes are built from a more permanent material (e.g., calcium carbonate) and occur in densities sufficient to construct substrate, these areas may be classified as Reef Biota.</rdfs:comment>
         <rdfs:label>Attached Tube-Building Fauna</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
+        <cmecs:unitCode>2.2.1.24</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Group</cmecs:unitType>
     </owl:Class>
     
@@ -1645,6 +1651,7 @@ The Biotic Group level of classification here is a modification of the &quot;Lit
         <rdfs:comment>Benthic substrates where sufficient evidence shows that Biogenic Substrate exceeds (is dominant over) that of both Geologic and Anthropogenic Substrates, when all are considered separately. Biogenic substrates are the non-living material that supports, interperses, or overlays the living biota described in the Biotic Component (see Section 7.2), and is either generated by living biota, such as shells and tests; or are non-living remnants of living biota such as skeletons, dead wood, and detritus.</rdfs:comment>
         <rdfs:label>Biogenic Substrate</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Mixes of origins are addressed through Co-occurring Elements Modifiers (see Section 10); additional Modifier terms, (listed in Section 7.6 and described in detail in Section 10) can be applied as needed to further describe substrate characteristics.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See Also: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>Substrate Origin describes the genesis of the substrate, not the process by which it is emplaced. If the Substrate Origin cannot be definitively determined, the analyst may opt to use “Indeterminate” in place of Origin type and use the Geologic Origin units for further classification.</cmecs:CMECS_00001670>
@@ -1770,6 +1777,7 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
         <rdfs:label>Boulder</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: implementation guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
@@ -2124,6 +2132,7 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.4.1</cmecs:unitCode>
@@ -2484,6 +2493,7 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
         <rdfs:label>Clay</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -2502,6 +2512,7 @@ Unless otherwise noted, biotic classification units in the BC are defined by the
         <rdfs:label>Clayey Sand</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -2572,6 +2583,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <rdfs:label>Coarse Sand</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -2593,6 +2605,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Change in level up (Subclass to Class)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Depending on the sampling method used and scale of the observational unit, classifying larger features may require extrapolating information from surrounding observations or additional studies. The Geoform Component may also be used to extend the substrate classification for such features (p. 227, FGDC-STD-018-2012).</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>Getting Started
@@ -2627,6 +2640,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.4.2</cmecs:unitCode>
@@ -2671,6 +2685,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <rdfs:label>Cobble</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: implementation guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
@@ -2736,6 +2751,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.4.1.1</cmecs:unitCode>
@@ -2878,6 +2894,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.8.1.1</cmecs:unitCode>
@@ -2911,6 +2928,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Editorial Change (definition re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.6.1</cmecs:unitCode>
@@ -2926,9 +2944,10 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <rdfs:comment>Unconsolidated Anthropogenic Substrate that is dominated by Coarse Anthropogenic particles (64 millimeters to &lt; 4,096 millimeters, equivalent to Geologic Origin Subgroups: Cobble and Boulder) that cover 50% or greater of the Anthropogenic Substrate surface and are composed of rubble-sized aggregate particles/fragments.</rdfs:comment>
         <rdfs:label>Aggregate Rubble</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
-        <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Editorial change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.7.1.1</cmecs:unitCode>
@@ -3016,6 +3035,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.1.2</cmecs:unitCode>
@@ -3091,6 +3111,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.7.1.2</cmecs:unitCode>
@@ -3124,6 +3145,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.2</cmecs:unitCode>
@@ -3143,6 +3165,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When the composition and origin of Sand is unclear, it is assumed to be mineral Sand, and is classified as a Geologic Origin substrate.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -3707,6 +3730,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.4.2.1</cmecs:unitCode>
@@ -3734,7 +3758,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000244">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000247"/>
         <dc:source>Latz, M. I., M. Bovard, V. VanDelinder, E. Segre, J. Rohr, and A. Groisman. 2008. “Bioluminescent Response of Individual Dinoflagellate Cells to Hydrodynamic Stress Measured with Millisecond Resolution in a Microfluidic Device.” Journal of Experimental Biology 211: 2865-2875.</dc:source>
-        <rdfs:comment>Waters dominated by dinoflagellates that aggregate in coastal and marine waters throughout the world. Some evidence suggests that both heterotrophic and mixotrophic feeding adaptations supplement autotrophy, giving dinoflagellates a competitive advantage over other groups- especially during periods of low nutrient availability. Aggregations are responsible for bioluminescence, which may reduce predation by disrupting grazers and by triggering secondary predators that consume dinoflagellate predators (Latz et al. 2004)</rdfs:comment>
+        <rdfs:comment>Waters dominated by dinoflagellates that aggregate in coastal and marine waters throughout the world. Some evidence suggests that both heterotrophic and mixotrophic feeding adaptations supplement autotrophy, giving dinoflagellates a competitive advantage over other groups- especially during periods of low nutrient availability. Aggregations are responsible for bioluminescence, which may reduce predation by disrupting grazers and by triggering secondary predators that consume dinoflagellate predators (Latz et al. 2008)</rdfs:comment>
         <rdfs:label>Dinoflagellate Aggregation</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>B</cmecs:componentCode>
@@ -5143,6 +5167,7 @@ As in other BC classes, practitioners may apply Genus and/or species names to de
         <rdfs:label>Fine Sand</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -5165,6 +5190,7 @@ As in other BC classes, practitioners may apply Genus and/or species names to de
         <cmecs:CMECS_00001669>Change in level up (subclass to class)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See Also: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>The Co-occurring Elements Modifier (see Section 10.6.2, p. 213, FGDC-STD-018-2012) may be used to describe mixes of origins as well as the presence of secondary substrate units within the observational unit (i.e., image frame, sampling grid cell, etc.)</cmecs:CMECS_00001670>
@@ -5189,6 +5215,7 @@ As in other BC classes, practitioners may apply Genus and/or species names to de
         <cmecs:CMECS_00001669>Change in level up</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.1.4</cmecs:unitCode>
@@ -5459,6 +5486,7 @@ As in other BC classes, practitioners may apply Genus and/or species names to de
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.4.1.2</cmecs:unitCode>
@@ -5874,6 +5902,7 @@ The GC is organized into four subcomponents that occur along a spatial continuum
         <rdfs:label>Granule</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: implementation guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
@@ -5898,6 +5927,7 @@ The GC is organized into four subcomponents that occur along a spatial continuum
         <cmecs:CMECS_00001669>Change in level up (Group to Subclass)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: implementation guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>The Co-occurring Elements Modifier (see Section 10.6.2, p. 213, FGDC-STD-018-2012) may be used to describe mixes of origins as well as the presence of secondary substrate units within the observational unit (i.e., image frame, sampling grid cell, etc.)</cmecs:CMECS_00001670>
@@ -5921,6 +5951,7 @@ The GC is organized into four subcomponents that occur along a spatial continuum
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
@@ -5942,6 +5973,7 @@ The GC is organized into four subcomponents that occur along a spatial continuum
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
@@ -5961,6 +5993,7 @@ The GC is organized into four subcomponents that occur along a spatial continuum
         <rdfs:label>Gravelly Mud</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
@@ -5980,6 +6013,7 @@ The GC is organized into four subcomponents that occur along a spatial continuum
         <rdfs:label>Gravelly Muddy Sand</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
@@ -6000,6 +6034,7 @@ The GC is organized into four subcomponents that occur along a spatial continuum
         <cmecs:CMECS_00001668>Geologic Unconsolidated Mineral Substrate surface  is 5% to &lt; 30% Gravel (particles 2 millimeters to &lt; 4,096 millimeters in diameter), and the remaining Sand-Mud mix is 90% or more Sand (particles 0.0625 millimeters to &lt; 2 millimeters in diameter).</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
@@ -7796,6 +7831,7 @@ Massive and submassive corals are resistant to strong water currents, and are th
         <rdfs:label>Medium Sand</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -7956,6 +7992,7 @@ Massive and submassive corals are resistant to strong water currents, and are th
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.8.3.1</cmecs:unitCode>
@@ -7971,9 +8008,10 @@ Massive and submassive corals are resistant to strong water currents, and are th
         <rdfs:comment>Anthropogenic Substrates that are greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension and cover 50% or greater of the Anthropogenic Substrate surface, are consolidated or fixed in the surrounding environment and are composed of metal. Examples include sheet metal, ship hulls/parts, metallic walls/bulkheads, pipes, valves, mooring chains, or other infrastructural objects.</rdfs:comment>
         <rdfs:label>Fixed Metal Substrate</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
-        <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Editorial change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.6.3</cmecs:unitCode>
@@ -7992,6 +8030,7 @@ Massive and submassive corals are resistant to strong water currents, and are th
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.7.3.1</cmecs:unitCode>
@@ -8497,6 +8536,7 @@ The modifiers are organized by into general modifier types, and then listed alph
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -8530,6 +8570,7 @@ The modifiers are organized by into general modifier types, and then listed alph
         <rdfs:label>Muddy Gravel</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
@@ -8550,6 +8591,7 @@ The modifiers are organized by into general modifier types, and then listed alph
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -8568,6 +8610,7 @@ The modifiers are organized by into general modifier types, and then listed alph
         <rdfs:label>Muddy Sandy Gravel</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
@@ -8604,6 +8647,7 @@ The modifiers are organized by into general modifier types, and then listed alph
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.1.3.3</cmecs:unitCode>
@@ -8636,6 +8680,7 @@ The modifiers are organized by into general modifier types, and then listed alph
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.3.1.3.3</cmecs:unitCode>
@@ -8654,6 +8699,7 @@ The modifiers are organized by into general modifier types, and then listed alph
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.3.3</cmecs:unitCode>
@@ -8964,6 +9010,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.4</cmecs:unitCode>
@@ -9012,6 +9059,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.3.2</cmecs:unitCode>
@@ -9031,6 +9079,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.3.3</cmecs:unitCode>
@@ -9132,6 +9181,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.1.3.4</cmecs:unitCode>
@@ -9164,6 +9214,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.7.1.3.4</cmecs:unitCode>
@@ -9182,9 +9233,10 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>2.81.3.4</cmecs:unitCode>
+        <cmecs:unitCode>2.8.1.3.4</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
     </owl:Class>
     
@@ -9354,6 +9406,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.3.1</cmecs:unitCode>
@@ -9370,6 +9423,7 @@ Conditions in the Oceanic Subsystem are a function of the properties of the wate
         <rdfs:label>Pebble</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: implementation guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
@@ -9779,6 +9833,7 @@ The spatial and temporal expressions of phytoplankton are described as three typ
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>4.9.4.1.3</cmecs:unitCode>
@@ -9811,6 +9866,7 @@ The spatial and temporal expressions of phytoplankton are described as three typ
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.4.2.2</cmecs:unitCode>
@@ -9930,6 +9986,7 @@ The Reef Biota Class refers to only the living component of reef structures. If 
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.1.1.1</cmecs:unitCode>
@@ -9949,6 +10006,7 @@ The Reef Biota Class refers to only the living component of reef structures. If 
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.1.1</cmecs:unitCode>
@@ -10193,6 +10251,7 @@ High inputs of land drainage can promote increased primary productivity, which m
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.3.1.4.1</cmecs:unitCode>
@@ -10212,6 +10271,7 @@ High inputs of land drainage can promote increased primary productivity, which m
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.5.1</cmecs:unitCode>
@@ -10343,6 +10403,7 @@ High inputs of land drainage can promote increased primary productivity, which m
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -10389,6 +10450,7 @@ High inputs of land drainage can promote increased primary productivity, which m
         <rdfs:label>Sandy Clay</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -10407,6 +10469,7 @@ High inputs of land drainage can promote increased primary productivity, which m
         <rdfs:label>Sandy Gravel</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
@@ -10427,6 +10490,7 @@ High inputs of land drainage can promote increased primary productivity, which m
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -10445,6 +10509,7 @@ High inputs of land drainage can promote increased primary productivity, which m
         <rdfs:label>Sandy Silt</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -10463,6 +10528,7 @@ High inputs of land drainage can promote increased primary productivity, which m
         <rdfs:label>Sandy Silt-Clay</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -10816,6 +10882,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.7.1.4.2</cmecs:unitCode>
@@ -10835,6 +10902,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.5.2</cmecs:unitCode>
@@ -10993,6 +11061,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.1.3</cmecs:unitCode>
@@ -11012,6 +11081,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.7.1.3</cmecs:unitCode>
@@ -11031,6 +11101,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.3</cmecs:unitCode>
@@ -11156,6 +11227,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.4.2</cmecs:unitCode>
@@ -11172,6 +11244,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <rdfs:label>Silt</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -11190,6 +11263,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <rdfs:label>Silt-Clay</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -11208,6 +11282,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <rdfs:label>Silty-Clayey Sand</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -11226,6 +11301,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <rdfs:label>Silty Sand</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -11272,13 +11348,14 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
         <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.4.1.3.2</cmecs:unitCode>
+        <cmecs:unitCode>1.4.1.2.2</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
     </owl:Class>
     
@@ -11293,13 +11370,14 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
         <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.4.1.2.2</cmecs:unitCode>
+        <cmecs:unitCode>1.4.1.1.2</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
     </owl:Class>
     
@@ -11314,13 +11392,14 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
         <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.4.1.2.1</cmecs:unitCode>
+        <cmecs:unitCode>1.4.1.1.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
     </owl:Class>
     
@@ -11335,13 +11414,14 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
         <cmecs:componentCode>S</cmecs:componentCode>
-        <cmecs:unitCode>1.4.1.3.1</cmecs:unitCode>
+        <cmecs:unitCode>1.4.1.2.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Subgroup</cmecs:unitType>
     </owl:Class>
     
@@ -12559,6 +12639,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Editorial change(defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name Change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.8.4.1</cmecs:unitCode>
@@ -12578,6 +12659,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>3.7.4.1</cmecs:unitCode>
@@ -12979,6 +13061,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <rdfs:label>Very Coarse Sand</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -12999,6 +13082,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.4.1</cmecs:unitCode>
@@ -13042,6 +13126,7 @@ The list of biotic communities for this group is long: a few examples are provid
         <rdfs:label>Very Fine Sand</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
@@ -14932,6 +15017,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.1.3.1</cmecs:unitCode>
@@ -14947,9 +15033,10 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <rdfs:comment>Consolidated Biogenic Substrate area that is greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is dominated by Shell Reef primarily composed of cemented or conglomerated *Coquina* shells.</rdfs:comment>
         <rdfs:label>*Coquina* Reef Substrate</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
-        <cmecs:CMECS_00001669>Editorial Changes: defintion re-worded</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership Change</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Name change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.7.1.3.1</cmecs:unitCode>
@@ -14967,6 +15054,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.3.1</cmecs:unitCode>
@@ -14985,6 +15073,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When the composition and origin of Sand is unclear, it is assumed to be mineral Sand, and is classified as a Geologic Origin substrate.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
@@ -15070,6 +15159,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Membership change</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.9.1.3.2</cmecs:unitCode>
@@ -15102,6 +15192,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in Level Down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.7.1.3.2</cmecs:unitCode>
@@ -15121,6 +15212,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Editorial Change (defintion re-worded)</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.3.2</cmecs:unitCode>
@@ -19474,8 +19566,9 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000067"/>
         <rdfs:label>Attached *Sabellaria*</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.3.6</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.24.3</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -19500,8 +19593,9 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000067"/>
         <rdfs:label>Attached *Serpula*</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.3.7</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.24.4</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -19513,8 +19607,9 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000067"/>
         <rdfs:label>Attached *Serpulorbis*</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:componentCode>B</cmecs:componentCode>
-        <cmecs:unitCode>2.2.1.3.8</cmecs:unitCode>
+        <cmecs:unitCode>2.2.1.24.5</cmecs:unitCode>
         <cmecs:unitType>CMECS Biotic Component: Biotic Community</cmecs:unitType>
     </owl:Class>
     
@@ -22473,7 +22568,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001596">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000366"/>
         <dc:source>FGDC (Federal Geographic Data Committee). 2008. FGDC-STD-005-2008. National Vegetation Classification Standard, Version 2. Reston, VA: U.S. Geological Survey.</dc:source>
-        <rdfs:comment>FGDC (Federal Geographic Data Committee). 2008. FGDC-STD-005-2008. National Vegetation Classification Standard, Version 2. Reston, VA: U.S. Geological Survey.</rdfs:comment>
+        <rdfs:comment>Estuarine or tidal riverine areas with greater than 10% tree cover. This cutoff value is the standard employed by FGDC-STD-005-2008 for defining the Forest and Woodland Formation Class [FGDC 2008].</rdfs:comment>
         <rdfs:label>Tidal Forest/Woodland</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>B</cmecs:componentCode>
@@ -22980,6 +23075,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
         <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Attribute Change (revised unit code)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>See: Implementation Guidance for All Substrate Component Units.</cmecs:CMECS_00001670>
         <cmecs:componentCode>S</cmecs:componentCode>
         <cmecs:unitCode>2.8.1.5</cmecs:unitCode>
@@ -23012,7 +23108,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001641">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001640"/>
         <rdfs:comment>Consolidated Biogenic Substrate that is a relatively flat, continuous area of solid substrate greater than or equal to 4.0 meters (4,096 millimeters, equivalent to the Geologic Substrate Class: Consolidated Mineral Substrate) in any dimension, that covers 50% or greater of the Biogenic Substrate surface, and is composed of carbonate deposits formed by the cemented, remnant skeletons of corals.</rdfs:comment>
-        <rdfs:label xml:lang="en">Coraline Pavement</rdfs:label>
+        <rdfs:label xml:lang="en">Coralline Pavement</rdfs:label>
         <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
@@ -23583,13 +23679,13 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
         <rdfs:label xml:lang="en">Sandy Mixes with Trace Gravel</rdfs:label>
         <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
-        <cmecs:CMECS_00001669>Type of Change: Addition</cmecs:CMECS_00001669>
+        <cmecs:CMECS_00001669>Addition</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001670>Due to the importance of different particle sizes of Gravel as habitat for many organisms, Gravel subgroup particle sizes (Boulder, Cobble, Pebble, Granule) must be identified whenever particle sizes are known or can be estimated within any mix and at any level of classification. Examples: Gravel Mixes -&gt; Pebble Mixes, Muddy Sandy Gravel -&gt; Muddy Sandy Cobble, Gravelly Sand -&gt; Bouldery Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>See also: Implementation Guidance for all Substrate Component units.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
-        <cmecs:unitCode>1.4.1.2</cmecs:unitCode>
+        <cmecs:unitCode>1.4.1.1</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
@@ -23609,7 +23705,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
         <cmecs:CMECS_00001670>When classifying Mixes, or when there is a need to identify specific particle sizes beyond the Subgroup definitions, the Subgroup terms for the Gravel Group (Boulder, Cobble, Pebble, Granule), Sand Group (Very Coarse Sand, Coarse Sand, Medium Sand, Fine, Sand, Very Fine Sand), and Mud Group (Silt, Silt-Clay, Clay) may optionally be substituted for the Group term. Examples: Muddy Sandy Gravel -&gt; Silty Sandy Gravel, Slightly Gravelly Sandy Mud -&gt; Slightly Gravelly Sandy Clay, Gravelly Muddy Sand -&gt; Gravelly Muddy Coarse Sand, Slightly Gravelly Sand -&gt; Slightly Gravelly Medium Sand</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001670>When classifying mixes of two different Gravel Subgroup particle sizes, use combinations of the Subgroup unit names with the overall dominant size first. Examples: Boulder-Cobble, Cobble-Boulder, Cobble-Granule, Pebble-Granule, Granule-Boulder.</cmecs:CMECS_00001670>
         <cmecs:CMECS_00001716>Anthropogenic Impact, aRPD and RPD Depth, Benthic Depth Zones, Co-Occurring Elements, Coral Reef Zone, Energy Intensity, Induration, Percent Cover (Fine), Mineral Precipitate, Percent Cover (Coarse), Seafloor Rugosity, Small-Scale Slope, Substrate Descriptor, Substrate Layering, Surface Pattern, Temporal Persistence</cmecs:CMECS_00001716>
-        <cmecs:unitCode>1.4.1.3</cmecs:unitCode>
+        <cmecs:unitCode>1.4.1.2</cmecs:unitCode>
         <cmecs:unitType>CMECS Substrate Component: Substrate Group</cmecs:unitType>
     </owl:Class>
     
