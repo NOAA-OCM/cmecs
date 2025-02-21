@@ -1,21 +1,55 @@
-#CMECS Biotic Component
+# CMECS Biotic Component
 
-- Biotic Group: Attached Tube-Building Fauna was erroneously ommitted from the original CMECS Codeset so it was not assigned a Unit Code at that time. Therefore, and the subordinate units under Attached Tube-Building Fauna were erroneously categorized under Biotic Group: Diverse Colonizers. New Unit Codes were assigned as follows: to Biotic Group: Attached Tube-Building Fauna (https://w3id.org/CMECS/CMECS_00000067) and its subordinate Biotic Communities.
-
-  - Biotic Group: Attached Tube-Building Fauna- unit code change from 2.2.1.3.4 to 2.2.1.24 in the csv and xlxs tables only. There was no unit code in the cmecs.owl file so the correct code has now been added. 
-    - Biotic Community: Attached Phoronids- new Unit Code is 2.2.1.24.1. Changed in the v1.1.0 cmecs.owl file, added to the csv and xlxs tables
-    - Biotic Community: Attached Pogonophorans- Unit Code changed from 2.2.1.3.5 to 2.2.1.24.2. Changed in cmecs.owl file and the csv and xlxs tables
-    - Biotic Community: Attached Sabellaria- Unit Code change from 2.2.1.3.6 to 2.2.1.24.3. Change in cmecs.owl file and the csv and xlxs tables
-    - Biotic Community: Attached Serpula- Unit Code change from 2.2.1.3.7 to 2.2.1.24.4. Change in cmecs.owl file and the csv and xlxs tables
-    - Biotic Community: Attached Serpulorbis- Unit Code change from 2.2.1.3.8 to 2.2.1.24.5. Change in cmecs.owl file and the csv and xlxs tables
+- _Biotic Group: Attached Tube-Building Fauna_ was erroneously ommitted from the original CMECS Codeset so it was not assigned a Unit Code at that time. Therefore, and the subordinate units under Attached Tube-Building Fauna were erroneously categorized under _Biotic Group: Diverse Colonizers_. New Unit Codes were assigned as follows: to _Biotic Group: Attached Tube-Building Fauna_ (https://w3id.org/CMECS/CMECS_00000067) and its subordinate Biotic Communities.
+  - _Biotic Group: Attached Tube-Building Fauna_- unit code change from 2.2.1.3.4 to 2.2.1.24 in the csv and xlxs tables only. There was no unit code in the cmecs.owl file so the correct code has now been added. 
+    - _Biotic Community: Attached Phoronids_- new Unit Code is 2.2.1.24.1. Changed in the v1.1.0 cmecs.owl file, added to the csv and xlxs tables
+    - _Biotic Community: Attached Pogonophorans_- Unit Code changed from 2.2.1.3.5 to 2.2.1.24.2. Changed in cmecs.owl file and the csv and xlxs tables
+    - _Biotic Community: Attached Sabellaria_- Unit Code change from 2.2.1.3.6 to 2.2.1.24.3. Change in cmecs.owl file and the csv and xlxs tables
+    - _Biotic Community: Attached Serpula_- Unit Code change from 2.2.1.3.7 to 2.2.1.24.4. Change in cmecs.owl file and the csv and xlxs tables
+    - _Biotic Community: Attached Serpulorbis_- Unit Code change from 2.2.1.3.8 to 2.2.1.24.5. Change in cmecs.owl file and the csv and xlxs tables
 
 # CMECS Substrate Component (SC) Changes
+Please note that v1.1.1 includes changes to unit attributes _**ONLY**_ and _**DOES NOT**_ include any changes to CMECS units (i.e., concept changes). The _**CMECS Thesaurus**_ is therefore unchanged from the last release. The most recent version of the _**CMECS Thesaurus**_ (browsable text output of the CMECS Catalog ecological units and implementation guidance) is still:
+- [CMECS_Thesaurus_v1.1.0.pdf](CMECS_Thesaurus_v1.1.0.pdf)
+- [CMECS_Thesaurus_v1.1.0.md](CMECS_Thesaurus_v1.1.0.md)
 
-- Added column “Component”; populated with unit term “Substrate Component” for all units
+#### Unit Attribute Changes and Additions
+Changes adopted to the Substrate Component in v1.1.0 required the assignment of new Unit Codes for most SC units. 
 
-- Added row populated with “Substrate Component” unit term and all related attributes at the uppermost level.
+The following are units whose unit codes have been revised in V1.1.0 from their unit codes in v1.0.0. For these units, a the Unit Status _Attribute Change (revised unit code)_ was added. 
+- Coarse Unconsolidated Mineral Substrate
+- Gravel Substrate
+- Pebble
+- Granule
+- Gravel Mixes
+- Sandy Gravel
+- Muddy Sandy Gravel
+- Muddy Gravel
+- Gravelly Mixes
+- Gravelly Sand
+- Gravelly Muddy Sand
+- Gravelly Mud
+- Fine Unconsolidated Mineral Substrate
+- Slightly Gravelly Sand
+- Slightly Gravelly Muddy Sand
+- Slightly Gravelly Sandy Mud
+- Slightly Gravelly Mud
+- Sand
+- Very Coarse Sand
+- Coarse Sand
+- Medium Sand
+- Fine Sand
+- Very Fine Sand
+- Muddy Sand
+- Silty Sand
+- Silty-Clayey Sand
+- Clayey Sand
 
-- Unit Changes and Additions
+
+
+
+
+
   - Acropora Hash:	Addition
   - Aggregate Fines: Addition
   - Aggregate Hash: Name Change (formerly Construction Hash); Change in Level Down; Membership Change; Editorial Change (definition re-worded)
@@ -150,7 +184,7 @@
   - Siliceous Ooze: Change in Level Down; Editorial Change (definition re-worded)
   - Silt: Editorial Change (definition re-worded)
   - Silt-Clay: Editorial Change (definition re-worded)
-  -  Silty Sand: Editorial Change (definition re-worded)
+  - Silty Sand: Editorial Change (definition re-worded)
   - Silty-Clayey Sand: Editorial Change (definition re-worded)
   - Slightly Gravelly Mud: Membership Change; Editorial Change (definition re-worded)
   - Slightly Gravelly Muddy Sand: Membership Change; Editorial Change (definition re-worded)
