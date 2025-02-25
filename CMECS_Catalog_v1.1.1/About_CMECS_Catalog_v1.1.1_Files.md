@@ -11,10 +11,12 @@ _Click on file links to view in browser window. Click on Download icon in upper 
 - Changes_1.1.0_to_1.1.1.pdf
 - [Changes_1.1.0_to_1.1.1.md](CMECS_Catalog_v1.1.1/Changes_1.1.0_to_1.1.1.md)
 
-#### Side-by-Side Comparison Tables of the changes to the Substrate Component adopted in v1.1.0
+#### Side-by-side comparison of Unit Codes from v.1.0.0 to v1.1.1
+- [CMECS_1.1.1_UnitCode_Crosswalk.xlxs]()  
+#### Side-by-side Comparison Tables of the changes to the Substrate Component adopted in v1.1.0
 - [SC_Comparison_Tables_v1.0.0-v1.1.0.xlxs](CMECS_Catalog_v1.1.1/SC_Comparison_Tables_v1.0.0-v1.1.0.xlsx) 
 
-Please note that v1.1.1 includes changes to unit attributes _**ONLY**_ and _**DOES NOT**_ include any changes to CMECS units (i.e., concept changes). The _**CMECS Thesaurus**_ is therefore unchanged from the last release. The most recent version of the _**CMECS Thesaurus**_ (browsable text output of the CMECS Catalog ecological units and implementation guidance) is still:
+Please note that v1.1.1 includes _**changes to unit attributes ONLY**_ and _**DOES NOT**_ include any changes to CMECS units (i.e., concept changes). The _**CMECS Thesaurus**_ is therefore unchanged from the last release. The most recent version of the _**CMECS Thesaurus**_ (browsable text output of the CMECS Catalog ecological units and implementation guidance) is still:
 - [CMECS_Thesaurus_v1.1.0.pdf](CMECS_Thesaurus_v1.1.0.pdf)
 - [CMECS_Thesaurus_v1.1.0.md](CMECS_Thesaurus_v1.1.0.md)
 
