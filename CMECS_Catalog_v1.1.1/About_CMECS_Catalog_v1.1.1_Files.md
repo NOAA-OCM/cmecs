@@ -8,7 +8,7 @@ _Click on file links to view in browser window. Click on Download icon in upper 
 - [About_CMECS_Catalog_v1.1.1_Files](About_CMECS_Catalog_v1.1.1_Files.md)
 
 #### A list of the changes made from v1.1.0 to v1.1.1
-- Changes_1.1.0_to_1.1.1.pdf
+- [Changes_1.1.0_to_1.1.1.pdf](Changes_1.1.0_to_1.1.1.pdf)
 - [Changes_1.1.0_to_1.1.1.md](Changes_1.1.0_to_1.1.1.md)
 
 #### Side-by-side comparison of Unit Codes from v.1.0.0 to v1.1.1
