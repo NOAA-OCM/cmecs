@@ -6,8 +6,8 @@ Changes were made to select Biotic Component units to correct Unit Codes and spe
 New and revised Unit Codes were added to the Substrate Component units. 
 
 The _**CMECS Thesaurus**_ (text output of the CMECS Catalog ecological units and implementation guidance) is therefore unchanged from the last release. The most recent version of the _**CMECS Thesaurus**_ is still:
-- [CMECS_Thesaurus_v1.1.0.pdf](CMECS_Thesaurus_v1.1.0.pdf)
-- [CMECS_Thesaurus_v1.1.0.md](CMECS_Thesaurus_v1.1.0.md)
+- [CMECS_Thesaurus_v1.1.0.pdf](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.0/CMECS_Thesaurus_v1.1.0.pdf)
+- [CMECS_Thesaurus_v1.1.0.md](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.0/CMECS_Thesaurus_v1.1.0.md)
 
 ## CMECS Biotic Component
 
