@@ -24,4 +24,4 @@ The _**CMECS Thesaurus**_ (text output of the CMECS Catalog ecological units and
 ## CMECS Substrate Component (SC) Changes
 
 #### Unit Attribute Changes and Additions
-Changes adopted to the Substrate Component in v1.1.0 required the assignment of new Unit Codes in v1.1.1 for most SC units. See [CMECS_1.1.1_UnitCode_Crosswalk.xlxs]() for a side-by-side comparison of Unit Codes from v.1.0.0 to v1.1.1. Where Unit Codes were revised, the Unit Status _Attribute Change (revised unit code)_ was added.
+Changes adopted to the Substrate Component in v1.1.0 required the assignment of new Unit Codes in v1.1.1 for most SC units. See [CMECS_1.1.1_UnitCode_Crosswalk.xlxs](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.1/CMECS_1.1.1_UnitCode_Crosswalk.xlsx) for a side-by-side comparison of Unit Codes from v.1.0.0 to v1.1.1. Where Unit Codes were revised, the Unit Status _Attribute Change (revised unit code)_ was added.
