@@ -21,7 +21,7 @@ Please note that v1.1.1 includes _**changes to unit attributes ONLY**_ and _**DO
 - [CMECS_Thesaurus_v1.1.0.pdf](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.0/CMECS_Thesaurus_v1.1.0.pdf)
 - [CMECS_Thesaurus_v1.1.0.md](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.0/CMECS_Thesaurus_v1.1.0.md)
 
-#### Individual CSV files of CMECS Settings, Components, Modifers
+#### Individual CSV files of CMECS Settings, Components, Modifiers
 - Aquatic Settings: [CMECS_Catalog_v1.1.1-AS.csv](CMECS_Catalog_v1.1.1-AS.csv)
 - Biogeographic Settings: [CMECS_Catalog_v1.1.1-BS.csv](CMECS_Catalog_v1.1.1-BS.csv)
 - Biotic Component: [CMECS_Catalog_v1.1.1-BC.csv](CMECS_Catalog_v1.1.1-BC.csv)
@@ -31,8 +31,8 @@ Please note that v1.1.1 includes _**changes to unit attributes ONLY**_ and _**DO
 - Modifiers: [CMECS_Catalog_v1.1.1-Modifiers.csv](CMECS_Catalog_v1.1.1-Modifiers.csv)
 - **NEW TO THIS VERSION** Obsolete Units: [CMECS_Catalog_v1.1.1-Obsolete.csv](CMECS_Catalog_v1.1.1-Obsolete.csv) 
 
-#### Single CSV file of the complete CMECS Catalog v1.1.1 of units (CMECS Settings, Components, Modifers unified in a common hierarchy)
+#### Single CSV file of the complete CMECS Catalog v1.1.1 of units (CMECS Settings, Components, Modifiers unified in a common hierarchy)
 - [CMECS_Catalog_v1.1.1-All.csv](CMECS_Catalog_v1.1.1-All.csv)
 
-#### Excel Workbook containing sheets with individual and unified tables for the complete CMECS Catalog v1.1.1 of units (CMECS Settings, Components, Modifers, Obsolete Units) 
+#### Excel Workbook containing sheets with individual and unified tables for the complete CMECS Catalog v1.1.1 of units (CMECS Settings, Components, Modifiers, Obsolete Units) 
 - [CMECS_Catalog_v1.1.1.xlsx](CMECS_Catalog_v1.1.1.xlsx)
