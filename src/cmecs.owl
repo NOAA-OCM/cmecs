@@ -1721,7 +1721,7 @@ The particle sizes for these units are derived from Wentworth (1922), and they c
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000105">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000565"/>
-        <rdfs:label>Biological Modifers</rdfs:label>
+        <rdfs:label>Biological Modifiers</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Type</cmecs:unitType>
@@ -9980,7 +9980,7 @@ The Reef Biota Class refers to only the living component of reef structures. If 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000673">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00001654"/>
         <rdfs:comment>Biogenic Hash particles (2 to &lt; 64 millimeters, equivalent to Geologic Origin Subgroups: Granule and Pebble) that cover 50% or greater of the Biogenic Substrate surface and are primarily composed of non-living rhodolith fragments.</rdfs:comment>
-        <rdfs:label>Rhodoliith Hash</rdfs:label>
+        <rdfs:label>Rhodolith Hash</rdfs:label>
         <cmecs:CMECS_00001668>Derived Unit</cmecs:CMECS_00001668>
         <cmecs:CMECS_00001669>Attribute Change (Unit Type)</cmecs:CMECS_00001669>
         <cmecs:CMECS_00001669>Change in level down</cmecs:CMECS_00001669>
@@ -11670,7 +11670,7 @@ Within Soft Sediment Fauna, the Biotic Group is identified as the biota making u
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000782">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000565"/>
-        <rdfs:label>Spatial Modifers</rdfs:label>
+        <rdfs:label>Spatial Modifiers</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitType>CMECS Modifier Type</cmecs:unitType>
     </owl:Class>
@@ -20106,7 +20106,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001409">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>5 to less than 10 °C</rdfs:comment>
-        <rdfs:label>Cold (Temperataure Range)</rdfs:label>
+        <rdfs:label>Cold (Temperature Range)</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>T03</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
@@ -20266,7 +20266,7 @@ aRPD depth (centimeters), muddy sediments – The aRPD depth is measured at the 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001421">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>10 to less than 15 °C</rdfs:comment>
-        <rdfs:label>Cool (Temperataure Range)</rdfs:label>
+        <rdfs:label>Cool (Temperature Range)</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>T04</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
@@ -20806,7 +20806,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001463">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>≤ 0 °C</rdfs:comment>
-        <rdfs:label>Frozen/Superchilled (Temperataure Range)</rdfs:label>
+        <rdfs:label>Frozen/Superchilled (Temperature Range)</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>T01</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
@@ -21017,7 +21017,7 @@ CMECS provides a modifier, Co-occurring Elements, for identification of secondar
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001479">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>30 to less than 35 °C</rdfs:comment>
-        <rdfs:label>Hot (Temperataure Range)</rdfs:label>
+        <rdfs:label>Hot (Temperature Range)</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>T08</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
@@ -22713,7 +22713,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001607">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>0 to less than 5 °C (liquid)</rdfs:comment>
-        <rdfs:label>Very Cold (Temperataure Range)</rdfs:label>
+        <rdfs:label>Very Cold (Temperature Range)</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>T02</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
@@ -22765,7 +22765,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001611">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>≥ 35 °C</rdfs:comment>
-        <rdfs:label>Very Hot (Temperataure Range)</rdfs:label>
+        <rdfs:label>Very Hot (Temperature Range)</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>T09</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
@@ -22817,7 +22817,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001615">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>25 to less than 30 °C</rdfs:comment>
-        <rdfs:label>Very Warm (Temperataure Range)</rdfs:label>
+        <rdfs:label>Very Warm (Temperature Range)</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>T07</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
@@ -22856,7 +22856,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001618">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000821"/>
         <rdfs:comment>20 to less than 25 °C</rdfs:comment>
-        <rdfs:label>Warm (Temperataure Range)</rdfs:label>
+        <rdfs:label>Warm (Temperature Range)</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>T06</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Value</cmecs:unitType>
@@ -23005,7 +23005,7 @@ The Shallow and Mesophotic Coral Reef Biota are largely based on the growth form
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00001633">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000375"/>
-        <rdfs:label xml:lang="en">*Acorus calamus* Tidal Herbaceaous Vegetation</rdfs:label>
+        <rdfs:label xml:lang="en">*Acorus calamus* Tidal Herbaceous Vegetation</rdfs:label>
         <elements:creator rdf:resource="https://orcid.org/0000-0002-8454-8481"/>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:componentCode>B</cmecs:componentCode>
