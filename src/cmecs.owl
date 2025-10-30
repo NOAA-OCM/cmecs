@@ -1721,7 +1721,7 @@ The particle sizes for these units are derived from Wentworth (1922), and they c
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000105">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000565"/>
-        <rdfs:label>Biological Modifers</rdfs:label>
+        <rdfs:label>Biological Modifiers</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitCode>None</cmecs:unitCode>
         <cmecs:unitType>CMECS Modifier Type</cmecs:unitType>
@@ -11670,7 +11670,7 @@ Within Soft Sediment Fauna, the Biotic Group is identified as the biota making u
 
     <owl:Class rdf:about="https://w3id.org/CMECS/CMECS_00000782">
         <rdfs:subClassOf rdf:resource="https://w3id.org/CMECS/CMECS_00000565"/>
-        <rdfs:label>Spatial Modifers</rdfs:label>
+        <rdfs:label>Spatial Modifiers</rdfs:label>
         <cmecs:CMECS_00001668>Original Unit</cmecs:CMECS_00001668>
         <cmecs:unitType>CMECS Modifier Type</cmecs:unitType>
     </owl:Class>
