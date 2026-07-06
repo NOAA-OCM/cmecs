@@ -8009,7 +8009,7 @@ Seafloor Rugosity, a measure of surface "roughness"", is applicable at several s
 
 ### Small Scale Slope
 
-The Slope Modifier refers to the angle of the substrate at a scale appropriate for the feature being described; Greene et al.’s (2007) geological classification is followed here to characterize slope.
+The Slope Modifier refers to the angle of the substrate at a scale appropriate for the feature being described; the Greene et al. (2007) geological classification is followed here to characterize slope.
 
 #### Flat (Small Scale Slope)
 
