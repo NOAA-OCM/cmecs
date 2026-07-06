@@ -22,14 +22,14 @@ Please note that v1.1.2 adresses _**editorial changes ONLY**_ (unit code edits a
 - [CMECS_Thesaurus_v1.1.2.md](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.0/CMECS_Thesaurus_v1.1.0.md)
 
 #### Individual CSV files of CMECS Settings, Components, Modifers
-- Aquatic Settings: [CMECS_Catalog_v1.1.2-AS.csv](CMECS_Catalog_v1.1.2-AS.csv)
-- Biogeographic Settings: [CMECS_Catalog_v1.1.2-BS.csv](CMECS_Catalog_v1.1.2-BS.csv)
+- Aquatic Settings: [CMECS_Catalog_v1.1.2-AS.csv](CMECS_Catalog_v1.1.2-AS.csv) _**_**UNCHANGED**_**_
+- Biogeographic Settings: [CMECS_Catalog_v1.1.2-BS.csv](CMECS_Catalog_v1.1.2-BS.csv) _**_**UNCHANGED**_**_
 - Biotic Component: [CMECS_Catalog_v1.1.2-BC.csv](CMECS_Catalog_v1.1.2-BC.csv)
-- Geoform Component: [CMECS_Catalog_v1.1.2-GC.csv](CMECS_Catalog_v1.1.2-GC.csv)
+- Geoform Component: [CMECS_Catalog_v1.1.2-GC.csv](CMECS_Catalog_v1.1.2-GC.csv) _**_**UNCHANGED**_**_
 - Substrate Component: [CMECS_Catalog_v1.1.2-SC.csv](CMECS_Catalog_v1.1.2-SC.csv)
-- Water Column Component: [CMECS_Catalog_v1.1.2-WC.csv](CMECS_Catalog_v1.1.2-WC.csv)
+- Water Column Component: [CMECS_Catalog_v1.1.2-WC.csv](CMECS_Catalog_v1.1.2-WC.csv) _**_**UNCHANGED**_**_
 - Modifiers: [CMECS_Catalog_v1.1.2-Modifiers.csv](CMECS_Catalog_v1.1.2-Modifiers.csv)
-- _**_**UNCHANGED**_**_ Obsolete Units: [CMECS_Catalog_v1.1.2-Obsolete.csv](CMECS_Catalog_v1.1.2-Obsolete.csv) 
+- Obsolete Units: [CMECS_Catalog_v1.1.2-Obsolete.csv](CMECS_Catalog_v1.1.2-Obsolete.csv) _**_**UNCHANGED**_**_
 
 #### Single CSV file of the complete CMECS Catalog v1.1.2 of units (CMECS Settings, Components, Modifers unified in a common hierarchy)
 - [CMECS_Catalog_v1.1.2-All.csv](CMECS_Catalog_v1.1.2-All.csv)

@@ -1,6 +1,6 @@
 # The Coastal and Marine Ecological Classifcation Standard (CMECS)
 
-Version 1.1.0 / May 2024
+Version 1.1.2 / July 2026
 |---|
 
 ![image](https://github.com/user-attachments/assets/f20fca61-4b00-42e1-be4e-45f0790afe0f) Click this icon in the upper right corner of this window to open a searchable list of units
