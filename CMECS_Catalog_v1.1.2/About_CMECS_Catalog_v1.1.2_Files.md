@@ -14,7 +14,7 @@ _Click on file links to view in browser window. Click on Download icon in upper 
 
 #### Side-by-side comparison of Unit Codes from v.1.0.0 to v1.1.2
 - [CMECS_1.1.1_UnitCode_Crosswalk.xlsx](CMECS_1.1.2_UnitCode_Crosswalk.xlsx) 
-#### Side-by-side Comparison Tables of the changes to the Substrate Component adopted in v1.1.0 **UNCHANGED**
+#### Side-by-side Comparison Tables of the changes to the Substrate Component adopted in v1.1.0 _**_**UNCHANGED**_**_
 - [SC_Comparison_Tables_v1.0.0-v1.1.0.xlsx](SC_Comparison_Tables_v1.0.0-v1.1.0.xlsx)
 
 Please note that v1.1.2 adresses _**editorial changes ONLY**_ (unit code edits and typo fixes) and _**DOES NOT**_ include any changes to CMECS units (i.e., concept changes). Typo corrections have been made in the _**v1.1.2 CMECS Thesaurus**_ but it is otherwise unchanged from the last release. The most recent version of the _**CMECS Thesaurus**_ (browsable text output of the CMECS Catalog ecological units and implementation guidance) is:
@@ -29,7 +29,7 @@ Please note that v1.1.2 adresses _**editorial changes ONLY**_ (unit code edits a
 - Substrate Component: [CMECS_Catalog_v1.1.2-SC.csv](CMECS_Catalog_v1.1.2-SC.csv)
 - Water Column Component: [CMECS_Catalog_v1.1.2-WC.csv](CMECS_Catalog_v1.1.2-WC.csv)
 - Modifiers: [CMECS_Catalog_v1.1.2-Modifiers.csv](CMECS_Catalog_v1.1.2-Modifiers.csv)
-- **UNCHANGED** Obsolete Units: [CMECS_Catalog_v1.1.2-Obsolete.csv](CMECS_Catalog_v1.1.2-Obsolete.csv) 
+- _**_**UNCHANGED**_**_ Obsolete Units: [CMECS_Catalog_v1.1.2-Obsolete.csv](CMECS_Catalog_v1.1.2-Obsolete.csv) 
 
 #### Single CSV file of the complete CMECS Catalog v1.1.2 of units (CMECS Settings, Components, Modifers unified in a common hierarchy)
 - [CMECS_Catalog_v1.1.2-All.csv](CMECS_Catalog_v1.1.2-All.csv)
