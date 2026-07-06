@@ -6950,23 +6950,23 @@ scope of CMECS.
 > The list of biotic communities for this group is long: a few examples
 > are provided below, and the complete list is available in Appendix F.
 
-###### Biotic Community: *Avicennia germinans* Forest
+###### Biotic Community: <i>Avicennia germinans</i> Forest
 
-###### Biotic Community: *Conocarpus erectus* Forest
+###### Biotic Community: <i>Conocarpus erectus</i> Forest
 
-###### Biotic Community: *Rhizophora mangle* Basin Forest
+###### Biotic Community: <i>Rhizophora mangle</i> Basin Forest
 
-###### Biotic Community: *Rhizophora mangle* Fringe Forest
+###### Biotic Community: <i>Rhizophora mangle</i> Fringe Forest
 
-###### Biotic Community: *Rhizophora mangle* Medium Island Forest
+###### Biotic Community: <i>Rhizophora mangle</i> Medium Island Forest
 
-###### Biotic Community: *Rhizophora mangle* Overwash Island Forest
+###### Biotic Community: <i>Rhizophora mangle</i> Overwash Island Forest
 
-###### Biotic Community: *Rhizophora mangle* Tall Fringing Forest
+###### Biotic Community: <i>Rhizophora mangle</i> Tall Fringing Forest
 
-###### Biotic Community: Rhizophora mangle - (Avicennia germinans, Laguncularia racemosa) Riverine Forest
+###### Biotic Community: <i>Rhizophora mangle</i> - (<i>Avicennia germinans</i>, <i>Laguncularia racemosa</i>) Riverine Forest
 
-###### Biotic Community: Rhizophora mangle - Dalbergia ecastaphyllum - Pavonia paludicola Forest
+###### Biotic Community: <i>Rhizophora mangle</i> - <i>Dalbergia ecastaphyllum</i> - <i>Pavonia paludicola</i> Forest
 </details>
 
 <details>
@@ -7753,7 +7753,7 @@ The Primary Water Source Modifier refers to the provenance of water flowing thro
 
 > Flowing freshwater from the upstream watershed.
 
-## Biological Modifers
+## Biological Modifiers
 
 ### Associated Taxa (Descriptive: Taxa Name)
 
@@ -8457,7 +8457,7 @@ Water column stability can be characterized as stratified, partially mixed, and 
 
 > \< 0.125 delta Sigma-t and homogeneous
 
-## Spatial Modifers
+## Spatial Modifiers
 
 ### Benthic Depth Zone
 
