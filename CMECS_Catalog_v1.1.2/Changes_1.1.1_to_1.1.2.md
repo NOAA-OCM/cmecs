@@ -5,7 +5,7 @@ Please note that v1.1.2 adresses _**editorial changes ONLY**_ (unit code edits a
 - Changes were made to select Biotic Component units and Modifiers to correct Unit Codes in the cmecs.owl and output table files
 - Typo corrections were made to misspelled words in the cmecs.owl and output table files  
 
-These corrections have been made in the _**v1.1.2 CMECS Thesaurus**_ (text document of the CMECS Catalog ecological units and defintions, arranged hierarchically, with implementation guidance) but it is otherwise unchanged from the last release. The most recent version of the _**CMECS Thesaurus**_ (browsable text output of the CMECS Catalog ecological units and implementation guidance) is:
+These corrections have been made in the _**v1.1.2 CMECS Thesaurus**_ (text document of the CMECS Catalog ecological units and defintions, arranged hierarchically, with implementation guidance) but it is otherwise unchanged from the last release. The most recent version of the _**CMECS Thesaurus**_ is:
 - [CMECS_Thesaurus_v1.1.2.pdf](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.0/CMECS_Thesaurus_v1.1.0.pdf)
 - [CMECS_Thesaurus_v1.1.2.md](/CMECS_Thesaurus_v1.1.2.md)
 
@@ -28,9 +28,9 @@ Unit Code typos were also corrected for the following units (#32):
 Unit Code typos were corrected for the following modifiers (#32):
 
 - Mineral Precipitate [CMECS_00001702](https://w3id.org/CMECS/CMECS_00001702) from MP to MI (code assigned to new unit was already in use)
--- Crust [CMECS_00001703](https://w3id.org/CMECS/CMECS_00001703) from MP01 to MI01 (code assigned to new unit was already in use)
---  Nodules [CMECS_00001704](https://w3id.org/CMECS/CMECS_00001704) from MP02 to MI02 (code assigned to new unit was already in use)
--- Patina [CMECS_00001705](https://w3id.org/CMECS/CMECS_00001705) from MP03 to MI03 (code assigned to new unit was already in use)
+  - Crust [CMECS_00001703](https://w3id.org/CMECS/CMECS_00001703) from MP01 to MI01 (code assigned to new unit was already in use)
+  -  Nodules [CMECS_00001704](https://w3id.org/CMECS/CMECS_00001704) from MP02 to MI02 (code assigned to new unit was already in use)
+  - Patina [CMECS_00001705](https://w3id.org/CMECS/CMECS_00001705) from MP03 to MI03 (code assigned to new unit was already in use)
 
 ## Spelling Errors
 The following misspelled words were corrected throughout all files (#25, #31, #32):

@@ -9,11 +9,11 @@ _Click on file links to view in browser window. Click on Download icon in upper 
 - [About_CMECS_Catalog_v1.1.2_Files.pdf](About_CMECS_Catalog_v1.1.2_Files.pdf)
 
 #### A list of the changes made from v1.1.1 to v1.1.2
-- [Changes_1.1.1_to_1.1.1.pdf](Changes_1.1.1_to_1.1.2.pdf)
+- [Changes_1.1.1_to_1.1.2.pdf](Changes_1.1.1_to_1.1.2.pdf)
 - [Changes_1.1.1_to_1.1.2.md](Changes_1.1.1_to_1.1.2.md)
 
 #### Side-by-side comparison of Unit Codes from v.1.0.0 to v1.1.2
-- [CMECS_1.1.1_UnitCode_Crosswalk.xlsx](CMECS_1.1.2_UnitCode_Crosswalk.xlsx) 
+- [CMECS_1.1.1_UnitCode_Crosswalk.xlsx](CMECS_1.1.2_UnitCode_Crosswalk.xlsx) _** **UNCHANGED** **_
 #### Side-by-side Comparison Tables of the changes to the Substrate Component adopted in v1.1.0 _** **UNCHANGED** **_
 - [SC_Comparison_Tables_v1.0.0-v1.1.0.xlsx](SC_Comparison_Tables_v1.0.0-v1.1.0.xlsx) _** **UNCHANGED** **_
 
