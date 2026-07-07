@@ -1,4 +1,4 @@
-# The Coastal and Marine Ecological Classifcation Standard (CMECS)
+# The Coastal and Marine Ecological Classification Standard (CMECS)
 
 Version 1.1.2 / July 2026
 |---|
