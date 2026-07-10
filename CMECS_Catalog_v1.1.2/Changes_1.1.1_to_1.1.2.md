@@ -1,11 +1,11 @@
 # CMECS Catalog Changes v.1.1.1 to 1.1.2
 
 ## Summary of Changes
-Please note that v1.1.2 adresses _**editorial changes ONLY**_ (unit code edits and typo fixes) and _**DOES NOT**_ include any changes to CMECS units (i.e., concept changes).
+Please note that v1.1.2 addresses _**editorial changes ONLY**_ (unit code edits and typo fixes) and _**DOES NOT**_ include any changes to CMECS units (i.e., concept changes).
 - Changes were made to select Biotic Component units and Modifiers to correct Unit Codes in the cmecs.owl and output table files
 - Typo corrections were made to misspelled words in the cmecs.owl and output table files  
 
-These corrections have been made in the _**v1.1.2 CMECS Thesaurus**_ (text document of the CMECS Catalog ecological units and defintions, arranged hierarchically, with implementation guidance) but it is otherwise unchanged from the last release. The most recent version of the _**CMECS Thesaurus**_ is:
+These corrections have been made in the _**v1.1.2 CMECS Thesaurus**_ (text document of the CMECS Catalog ecological units and definitions, arranged hierarchically, with implementation guidance) but it is otherwise unchanged from the last release. The most recent version of the _**CMECS Thesaurus**_ is:
 - [CMECS_Thesaurus_v1.1.2.pdf](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.2/CMECS_Catalog_v1.1.2_Thesaurus.pdf)
 - [CMECS_Thesaurus_v1.1.2.md](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.2/CMECS_Thesaurus_v1.1.2.md)
 
