@@ -20,12 +20,12 @@ In v1.1.1, new Unit Codes were assigned to several units where they had been omi
     - _Biotic Community: Attached Serpula_- Unit Code change from 2.2.1.24.4 to 2.2.1.25.4. Changed in cmecs.owl file and the csv and xlsx tables
     - _Biotic Community: Attached Serpulorbis_- Unit Code change from 2.2.1.24.5 to 2.2.1.25.5. Changed in cmecs.owl file and the csv and xlsx tables
 
-Unit Code typos were also corrected for the following units (#32):
+Unit Code typos were also corrected for the following units (NOAA-OCM#32):
 - Stylaster Reef [CMECS_00001279](https://w3id.org/CMECS/CMECS_00001279) changed from 2.1.1.2.1 to 2.1.1.2.2
 - Tidal Mangrove Forest [CMECS_00000834](https://w3id.org/CMECS/CMECS_00000834) from 2.8.1.4.8 to 2.8.1.4
 
 ## CMECS Modifier Changes
-Unit Code typos were corrected for the following modifiers (#32):
+Unit Code typos were corrected for the following modifiers (NOAA-OCM#32):
 
 - Mineral Precipitate [CMECS_00001702](https://w3id.org/CMECS/CMECS_00001702) from MP to MI (code assigned to new unit was already in use)
   - Crust [CMECS_00001703](https://w3id.org/CMECS/CMECS_00001703) from MP01 to MI01 (code assigned to new unit was already in use)
@@ -33,7 +33,7 @@ Unit Code typos were corrected for the following modifiers (#32):
   - Patina [CMECS_00001705](https://w3id.org/CMECS/CMECS_00001705) from MP03 to MI03 (code assigned to new unit was already in use)
 
 ## Spelling Errors
-The following misspelled words were corrected throughout all files (#25, #31, #32):
+The following misspelled words were corrected throughout all files (NOAA-OCM#25, NOAA-OCM#31, NOAA-OCM#32):
 - Modifers to Modifiers
 - Rhodoliith to Rhodolith
 - Herbaceaous to Herbaceous
