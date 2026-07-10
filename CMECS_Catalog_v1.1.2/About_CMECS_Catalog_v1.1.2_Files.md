@@ -9,7 +9,7 @@ _Click on file links to view in browser window. Click on Download icon in upper 
 - [About_CMECS_Catalog_v1.1.2_Files.pdf](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.2/About_CMECS_Catalog_v1.1.2_Files.md.pdf)
 
 #### A list of the changes made from v1.1.1 to v1.1.2
-- [Changes_1.1.1_to_1.1.2.pdf](Changes_1.1.1_to_1.1.2.pdf)
+- [Changes_1.1.1_to_1.1.2.pdf](https://github.com/NOAA-OCM/cmecs/blob/main/CMECS_Catalog_v1.1.2/Changes_1.1.1_to_1.1.2.md.pdf)
 - [Changes_1.1.1_to_1.1.2.md](Changes_1.1.1_to_1.1.2.md)
 
 #### Side-by-side comparison of Unit Codes from v.1.0.0 to v1.1.2
