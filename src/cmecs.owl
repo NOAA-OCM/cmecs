@@ -14,7 +14,7 @@
      xmlns:elements="https://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="https://w3id.org/CMECS/">
         <dc:contributor>https://orcid.org/0000-0002-8454-8481</dc:contributor>
-        <dc:description>The Coastal and Marine Ecological Classifcation Standard (CMECS) is a collection of terms and and defintions for classifying and describing aquatic environments. The vocabulary is organized in a framework of thematic, interrelated, semi-heirarchical components and settings.</dc:description>
+        <dc:description>The Coastal and Marine Ecological Classification Standard (CMECS) is a collection of terms and and definitions for classifying and describing aquatic environments. The vocabulary is organized in a framework of thematic, interrelated, semi-heirarchical components and settings.</dc:description>
         <dc:source>Coastal and Marine Ecological Classfication Standard (FGDC-STD-018-2012)</dc:source>
         <dc:title>Coastal and Marine Ecological Classification Standard</dc:title>
         <dcterms:license>Software code created by U.S. Government employees is not subject to copyright in the United States (17 U.S.C. §105). The United States/Department of Commerce reserve all rights to seek and obtain copyright protection in countries other than the United States for Software authored in its entirety by the Department of Commerce. To this end, the Department of Commerce hereby grants to Recipient a royalty-free, nonexclusive license to use, copy, and create derivative works of the Software outside of the United States.</dcterms:license>
